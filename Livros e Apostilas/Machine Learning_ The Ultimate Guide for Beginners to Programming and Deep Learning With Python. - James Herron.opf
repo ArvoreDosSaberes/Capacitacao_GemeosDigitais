@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">736082d5-f8cb-4122-a445-a2efae2b3a20</dc:identifier>
+        <dc:title>Machine Learning: The Ultimate Guide for Beginners to Programming and Deep Learning With Python.</dc:title>
+        <dc:creator opf:file-as="Herron, James" opf:role="aut">James Herron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-05T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">66b64879-ce5b-486a-b2d9-f7705e18635f</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-31T19:13:59+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning: The Ultimate Guide for Beginners to Programming and Deep Learning With Python."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Machine Learning_ The Ultimate Guide for Beginners to Programming and Deep Learning With Python. - James Herron.jpg"/>
+    </guide>
+</package>

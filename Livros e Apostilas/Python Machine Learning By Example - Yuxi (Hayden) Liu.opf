@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e08cdac6-a5ad-4dcb-8b13-0beacc357b3e</dc:identifier>
+        <dc:title>Python Machine Learning By Example</dc:title>
+        <dc:creator opf:file-as="Liu, Yuxi" opf:role="aut">Yuxi (Hayden) Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-28T11:26:40+00:00</dc:date>
+        <dc:description>Equipped with the latest updates, this third edition of Python Machine Learning By Example, provides a comprehensive course for ML enthusiasts to strengthen their command of ML concepts, techniques, and algorithms.</dc:description>
+        <dc:publisher>Packt</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM051360 - COMPUTERS / Programming Languages / Python</dc:subject>
+        <dc:subject>COM004000 - COMPUTERS / Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>COM042000 - COMPUTERS / Natural Language Processing</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-02T18:31:32+00:00"/>
+        <meta name="calibre:title_sort" content="Python Machine Learning By Example"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Python Machine Learning By Example - Yuxi (Hayden) Liu.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cd3d326-dc07-4434-878f-469775e0d171</dc:identifier>
+        <dc:title>Machine Learning Methods for Signal, Image and Speech Processing</dc:title>
+        <dc:creator opf:file-as="Jabbar, M. A.;Kantipudi, M. V. V. Prasad;Peng, Sheng-Lung;" opf:role="aut">Jabbar, M. A.;Kantipudi, M. V. V. Prasad;Peng, Sheng-Lung;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-08T14:59:28+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-17T22:20:03+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning Methods for Signal, Image and Speech Processing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Machine Learning Methods for Signal, Image and Speech Processing - Jabbar, M. A.;Kantipudi, M. V. V. Prasad;Peng, Sheng-Lung;.jpg"/>
+    </guide>
+</package>

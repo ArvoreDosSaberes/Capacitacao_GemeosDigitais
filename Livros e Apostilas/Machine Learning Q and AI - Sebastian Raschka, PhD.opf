@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed1351e5-4a5d-44d2-8e99-d9f31e96bb04</dc:identifier>
+        <dc:title>Machine Learning Q and AI</dc:title>
+        <dc:creator opf:file-as="Sebastian Raschka, PhD" opf:role="aut">Sebastian Raschka, PhD</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>Machine Learning</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-22T04:19:17+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning Q and AI"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Machine Learning Q and AI - Sebastian Raschka, PhD.jpg"/>
+    </guide>
+</package>

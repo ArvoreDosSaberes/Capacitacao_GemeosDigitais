@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0681cc32-a95b-428b-9529-b1b266e88114</dc:identifier>
+        <dc:title>AI and ML for Coders in PyTorch (for Raymond Rhine)</dc:title>
+        <dc:creator opf:file-as="Moroney, Laurence" opf:role="aut">Laurence Moroney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-21T00:00:00+00:00</dc:date>
+        <dc:description>Eager to learn AI and machine learning but unsure where to start? Laurence Moroney's hands-on, code-first guide demystifies complex AI concepts without relying on advanced mathematics. Designed for programmers, it focuses on practical applications using PyTorch, helping you build real-world models without feeling overwhelmed.</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-31T19:14:04+00:00"/>
+        <meta name="calibre:title_sort" content="AI and ML for Coders in PyTorch (for Raymond Rhine)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="AI and ML for Coders in PyTorch (for Raymond Rhine) - Laurence Moroney.jpg"/>
+    </guide>
+</package>

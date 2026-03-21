@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19f95466-14a5-4ec1-9f4e-78eff5d07cb8</dc:identifier>
+        <dc:title>Genetic Algorithms in Search, Optimization &amp; Machine Learning</dc:title>
+        <dc:creator opf:file-as="Goldberg, David E." opf:role="aut">David E. Goldberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-13T12:53:59+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2025-12-05T13:15:18+00:00"/>
+        <meta name="calibre:title_sort" content="Genetic Algorithms in Search, Optimization &amp; Machine Learning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Genetic Algorithms in Search, Optimization &amp; Machine Learning - David E. Goldberg.jpg"/>
+    </guide>
+</package>

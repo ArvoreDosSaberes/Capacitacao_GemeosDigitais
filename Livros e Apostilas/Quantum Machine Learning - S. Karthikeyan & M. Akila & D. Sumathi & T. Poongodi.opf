@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b4ad484-bc2d-4281-aab6-b6ac06b6d2fd</dc:identifier>
+        <dc:title>Quantum Machine Learning</dc:title>
+        <dc:creator opf:file-as="Karthikeyan, S. &amp; Akila, M. &amp; Sumathi, D. &amp; Poongodi, T." opf:role="aut">S. Karthikeyan</dc:creator>
+        <dc:creator opf:file-as="Karthikeyan, S. &amp; Akila, M. &amp; Sumathi, D. &amp; Poongodi, T." opf:role="aut">M. Akila</dc:creator>
+        <dc:creator opf:file-as="Karthikeyan, S. &amp; Akila, M. &amp; Sumathi, D. &amp; Poongodi, T." opf:role="aut">D. Sumathi</dc:creator>
+        <dc:creator opf:file-as="Karthikeyan, S. &amp; Akila, M. &amp; Sumathi, D. &amp; Poongodi, T." opf:role="aut">T. Poongodi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-15T00:00:00+00:00</dc:date>
+        <dc:description>This book presents the research into and application of machine learning in quantum computation, known as quantum machine learning (QML). It presents a comparison of quantum machine learning, classical machine learning, and traditional programming, along with the usage of quantum computing, toward improving traditional machine learning algorithms through case studies. In summary, the book:</dc:description>
+        <dc:identifier opf:scheme="ISBN">9781040116142</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-13T19:51:38+00:00"/>
+        <meta name="calibre:title_sort" content="Quantum Machine Learning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Quantum Machine Learning - S. Karthikeyan &amp; M. Akila &amp; D. Sumathi &amp; T. Poongodi.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9fd113f-c208-438c-9db5-9dc183e452a4</dc:identifier>
+        <dc:title>Industrial Internet of Things; Technologies, Design, and Applications</dc:title>
+        <dc:creator opf:file-as="Jha, Edited by Sudan &amp; Tariq, Usman &amp; Joshi, Gyanendra Prasad &amp; Solanki, Vijender Kumar" opf:role="aut">Edited by Sudan Jha</dc:creator>
+        <dc:creator opf:file-as="Jha, Edited by Sudan &amp; Tariq, Usman &amp; Joshi, Gyanendra Prasad &amp; Solanki, Vijender Kumar" opf:role="aut">Usman Tariq</dc:creator>
+        <dc:creator opf:file-as="Jha, Edited by Sudan &amp; Tariq, Usman &amp; Joshi, Gyanendra Prasad &amp; Solanki, Vijender Kumar" opf:role="aut">Gyanendra Prasad Joshi</dc:creator>
+        <dc:creator opf:file-as="Jha, Edited by Sudan &amp; Tariq, Usman &amp; Joshi, Gyanendra Prasad &amp; Solanki, Vijender Kumar" opf:role="aut">Vijender Kumar Solanki</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-24T06:26:24+00:00</dc:date>
+        <dc:description>Internet of Things has evolved as an integral part of our lives from smart appliances, wearable devices, connected cars, healthcare devices to energy meters. The Industrial Internet of Things (IIoT) focuses on the use of cyber-physical systems to monitor the physical factory processes and make data-based automated decisions.</dc:description>
+        <dc:language>pt</dc:language>
+        <dc:subject>IIoT</dc:subject>
+        <dc:subject>Industrial Internet of Things</dc:subject>
+        <dc:subject>Industrial Internet Systems</dc:subject>
+        <dc:subject>Big Data</dc:subject>
+        <dc:subject>Cloud Computing</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-28T12:19:39+00:00"/>
+        <meta name="calibre:title_sort" content="Industrial Internet of Things; Technologies, Design, and Applications"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Industrial Internet of Things; Technologies, Design, and Applications - Edited by Sudan Jha &amp; Usman Tariq &amp; Gyanendra Prasad Joshi &amp; Vijender Kumar Solanki.jpg"/>
+    </guide>
+</package>

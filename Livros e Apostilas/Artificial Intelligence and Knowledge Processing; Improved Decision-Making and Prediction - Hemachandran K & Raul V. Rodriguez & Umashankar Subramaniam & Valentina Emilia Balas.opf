@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dd96f2e-4a52-4f39-bcbe-92e99d394ab4</dc:identifier>
+        <dc:title>Artificial Intelligence and Knowledge Processing; Improved Decision-Making and Prediction</dc:title>
+        <dc:creator opf:file-as="K, Hemachandran &amp; Rodriguez, Raul V. &amp; Subramaniam, Umashankar &amp; Balas, Valentina Emilia" opf:role="aut">Hemachandran K</dc:creator>
+        <dc:creator opf:file-as="K, Hemachandran &amp; Rodriguez, Raul V. &amp; Subramaniam, Umashankar &amp; Balas, Valentina Emilia" opf:role="aut">Raul V. Rodriguez</dc:creator>
+        <dc:creator opf:file-as="K, Hemachandran &amp; Rodriguez, Raul V. &amp; Subramaniam, Umashankar &amp; Balas, Valentina Emilia" opf:role="aut">Umashankar Subramaniam</dc:creator>
+        <dc:creator opf:file-as="K, Hemachandran &amp; Rodriguez, Raul V. &amp; Subramaniam, Umashankar &amp; Balas, Valentina Emilia" opf:role="aut">Valentina Emilia Balas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-15T03:00:00+00:00</dc:date>
+        <dc:description>Artificial intelligence (AI) and knowledge processing play a vital role in various automation industries and their functioning in converting traditional industries to AI-based factories. This book acts as a guide and blends the basics of AI in various domains, which include machine learning, deep learning, artificial neural networks, and expert systems, and extends their application in all sectors.
+The book discusses the designing of new AI algorithms used to convert general applications to AI-based applications. It highlights different machine learning and deep learning models for various applications used in healthcare and wellness, agriculture, and automobiles. The book offers an overview of the rapidly growing and developing field of AI applications, along with knowledge of engineering and business analytics. Real-time case studies are included across several different fields such as image processing, text mining, healthcare, finance, digital marketing, and HR analytics. The book also introduces a statistical background and probabilistic framework to enhance the understanding of continuous distributions. Topics such as ensemble models, deep learning models, artificial neural networks, expert systems, and decision-based systems round out the offerings of this book.
+This multicontributed book is a valuable source for researchers, academics, technologists, industrialists, practitioners, and all those who wish to explore the applications of AI, knowledge processing, deep learning, and machine learning.</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="DOI">9781000934595</dc:identifier>
+        <dc:language>pt</dc:language>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Computer Visions</dc:subject>
+        <dc:subject>ANN</dc:subject>
+        <dc:subject>Artificial Neural Networks</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>Deep Learning</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-29T19:26:50+00:00"/>
+        <meta name="calibre:title_sort" content="Artificial Intelligence and Knowledge Processing; Improved Decision-Making and Prediction"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Artificial Intelligence and Knowledge Processing; Improved Decision-Making and Prediction - Hemachandran K &amp; Raul V. Rodriguez &amp; Umashankar Subramaniam &amp; Valentina Emilia Balas.jpg"/>
+    </guide>
+</package>

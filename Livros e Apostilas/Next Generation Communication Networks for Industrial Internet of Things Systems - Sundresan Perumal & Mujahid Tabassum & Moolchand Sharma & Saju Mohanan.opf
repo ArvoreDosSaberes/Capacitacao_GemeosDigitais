@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cd2261a-bb41-42e1-904f-948c6c30082e</dc:identifier>
+        <dc:title>Next Generation Communication Networks for Industrial Internet of Things Systems</dc:title>
+        <dc:creator opf:file-as="Perumal, Sundresan &amp; Tabassum, Mujahid &amp; Sharma, Moolchand &amp; Mohanan, Saju" opf:role="aut">Sundresan Perumal</dc:creator>
+        <dc:creator opf:file-as="Perumal, Sundresan &amp; Tabassum, Mujahid &amp; Sharma, Moolchand &amp; Mohanan, Saju" opf:role="aut">Mujahid Tabassum</dc:creator>
+        <dc:creator opf:file-as="Perumal, Sundresan &amp; Tabassum, Mujahid &amp; Sharma, Moolchand &amp; Mohanan, Saju" opf:role="aut">Moolchand Sharma</dc:creator>
+        <dc:creator opf:file-as="Perumal, Sundresan &amp; Tabassum, Mujahid &amp; Sharma, Moolchand &amp; Mohanan, Saju" opf:role="aut">Saju Mohanan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-09T12:29:30+00:00</dc:date>
+        <dc:description>The text presents concepts and research challenges in communication networking for Industrial internet of things systems. It will serve as an ideal reference text for senior undergraduate, graduate students, and researchers in diverse engineering domains including electrical, electronics and communications, and computer science.</dc:description>
+        <dc:language>pt</dc:language>
+        <dc:subject>babies’ movement detection</dc:subject>
+        <dc:subject>certificate-less cryptographic algorithm</dc:subject>
+        <dc:subject>Cisco IoT-based toxic measurement system</dc:subject>
+        <dc:subject>cloud security</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>delay tolerant networks</dc:subject>
+        <dc:subject>elliptic curve cryptography</dc:subject>
+        <dc:subject>energy consumption analysis</dc:subject>
+        <dc:subject>identity-based authentication</dc:subject>
+        <dc:subject>indoor air quality monitoring</dc:subject>
+        <dc:subject>industrial internet of things system</dc:subject>
+        <dc:subject>intelligent data processing technologies</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>next-generation networks enabled technologies</dc:subject>
+        <dc:subject>routing mechanism</dc:subject>
+        <dc:subject>secure communication</dc:subject>
+        <dc:subject>steganography</dc:subject>
+        <dc:subject>ultrasonic sensor</dc:subject>
+        <dc:subject>wireless sensor network</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-28T12:20:08+00:00"/>
+        <meta name="calibre:title_sort" content="Next Generation Communication Networks for Industrial Internet of Things Systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Next Generation Communication Networks for Industrial Internet of Things Systems - Sundresan Perumal &amp; Mujahid Tabassum &amp; Moolchand Sharma &amp; Saju Mohanan.jpg"/>
+    </guide>
+</package>

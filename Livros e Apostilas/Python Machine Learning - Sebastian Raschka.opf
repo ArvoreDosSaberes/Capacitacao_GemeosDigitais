@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9bdd633-ca22-4e58-bd93-a2f7820ab61a</dc:identifier>
+        <dc:title>Python Machine Learning</dc:title>
+        <dc:creator opf:file-as="Raschka, Sebastian" opf:role="aut">Sebastian Raschka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-18T11:31:50+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-03T05:14:11+00:00"/>
+        <meta name="calibre:title_sort" content="Python Machine Learning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Python Machine Learning - Sebastian Raschka.jpg"/>
+    </guide>
+</package>

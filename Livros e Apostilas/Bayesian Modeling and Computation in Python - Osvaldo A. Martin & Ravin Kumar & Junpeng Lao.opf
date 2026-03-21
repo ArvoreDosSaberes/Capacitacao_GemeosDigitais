@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87e4f0c3-910e-429b-ac68-13793eb2656c</dc:identifier>
+        <dc:title>Bayesian Modeling and Computation in Python</dc:title>
+        <dc:creator opf:file-as="Martin, Osvaldo A. &amp; Kumar, Ravin &amp; Lao, Junpeng" opf:role="aut">Osvaldo A. Martin</dc:creator>
+        <dc:creator opf:file-as="Martin, Osvaldo A. &amp; Kumar, Ravin &amp; Lao, Junpeng" opf:role="aut">Ravin Kumar</dc:creator>
+        <dc:creator opf:file-as="Martin, Osvaldo A. &amp; Kumar, Ravin &amp; Lao, Junpeng" opf:role="aut">Junpeng Lao</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-15T03:00:00+00:00</dc:date>
+        <dc:description>Bayesian Modeling and Computation in Python aims to help beginner Bayesian practitioners to become intermediate modelers. It uses a hands on approach with PyMC3, Tensorflow Probability, ArviZ and other libraries focusing on the practice of applied statistics with references to the underlying mathematical theory.</dc:description>
+        <dc:publisher>Chapman and Hall/CRC</dc:publisher>
+        <dc:identifier opf:scheme="DOI">9780367894368</dc:identifier>
+        <dc:language>pt</dc:language>
+        <dc:subject>Probabilistic programming</dc:subject>
+        <dc:subject>statistics</dc:subject>
+        <dc:subject>Bayesian workflow</dc:subject>
+        <dc:subject>inference</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-29T19:27:05+00:00"/>
+        <meta name="calibre:title_sort" content="Bayesian Modeling and Computation in Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Bayesian Modeling and Computation in Python - Osvaldo A. Martin &amp; Ravin Kumar &amp; Junpeng Lao.jpg"/>
+    </guide>
+</package>

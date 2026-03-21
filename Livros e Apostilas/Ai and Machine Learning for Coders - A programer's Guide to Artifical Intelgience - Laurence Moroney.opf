@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60a18b30-ccd2-4ee2-9899-71940ad08c04</dc:identifier>
+        <dc:title>Ai and Machine Learning for Coders - A programer's Guide to Artifical Intelgience</dc:title>
+        <dc:creator opf:file-as="Moroney, Laurence" opf:role="aut">Laurence Moroney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-15T22:38:36+00:00"/>
+        <meta name="calibre:title_sort" content="Ai and Machine Learning for Coders - A programer's Guide to Artifical Intelgience"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Ai and Machine Learning for Coders - A programer's Guide to Artifical Intelgience - Laurence Moroney.jpg"/>
+    </guide>
+</package>
