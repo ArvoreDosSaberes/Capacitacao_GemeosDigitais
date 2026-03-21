@@ -17,6 +17,7 @@ Este repositório é dedicado à **capacitação profissional** em diversas áre
 ### 📚 Áreas de Capacitação
 
 - **Inteligência Artificial e Machine Learning**: Exemplos práticos e implementações didáticas
+- **Análise de Séries Temporais**: Previsão e modelagem de dados temporais com técnicas avançadas
 - **Análise de Dados**: Exploração e visualização de conjuntos de dados
 - **Desenvolvimento de Software**: Boas práticas e padrões modernos
 - **Ciência de Dados**: Fluxos completos de trabalho e estudos de caso
@@ -54,6 +55,11 @@ Cada área de capacitação está organizada em sua própria pasta, com material
    ```bash
    # Para o módulo de Inteligência Artificial
    cd InteligenciaArtificial
+   pip install -r requirements.txt
+   cd ..
+
+   # Para o módulo de Séries Temporais
+   cd SeriesTemporais
    pip install -r requirements.txt
    cd ..
    ```
@@ -94,7 +100,14 @@ GemeosDigitais/
 │   ├── README.md               # Documentação específica do módulo
 │   ├── requirements.txt        # Dependências Python para IA
 │   ├── Aula_1_notebook_ml_churn_colab.ipynb  # Notebook principal
+│   ├── Pratica-construindo-um-modelo-de-aprendizado-de-maquina.pdf  # Material prático
+│   ├── Teoria-Aprendizado-de-Maquina-Conceitos-Fundamentais-e-Tipos-de-Modelos.pdf  # Material teórico
 │   └── test_notebook.py        # Scripts de teste
+├── SeriesTemporais/             # 📈 Módulo de Análise de Séries Temporais
+│   ├── Aula_2_Séries_temporais_Fundamentos_de_IA.ipynb  # Notebook principal de séries temporais
+│   ├── ttm_getting_started.ipynb  # Notebook TinyTimeMixer
+│   ├── Modelos-Estatisticos-e-Autorregressivos.pdf  # Material teórico de modelos
+│   └── Preparacao-e-Modelagem-de-Series-Temporais.pdf  # Guia de preparação
 └── [outras_pastas]/             # 📚 Outros módulos de capacitação (em desenvolvimento)
     └── README.md               # Documentação específica de cada módulo
 ```
@@ -104,6 +117,7 @@ GemeosDigitais/
 Cada pasta representa uma área de capacitação específica:
 
 - **`InteligenciaArtificial/`**: Foco em Machine Learning, análise de dados e IA
+- **`SeriesTemporais/`**: Análise e previsão de séries temporais com modelos estatísticos e de IA
 - **[Outras pastas]**: Demais áreas tecnológicas (a serem adicionadas)
 
 Dentro de cada módulo você encontrará:
@@ -122,6 +136,8 @@ Dentro de cada módulo você encontrará:
 - **Scikit-learn**: Machine Learning
 - **KaggleHub**: Acesso a datasets
 - **Jupyter**: Notebooks interativos
+- **TinyTimeMixer (TTM)**: Modelos pré-treinados para séries temporais
+- **Statsmodels**: Modelos estatísticos para séries temporais
 
 ## 📖 Exemplo de Uso - Módulo de Inteligência Artificial
 
@@ -146,6 +162,43 @@ cd InteligenciaArtificial
 
 # Abra o notebook no VSCode/Windsurf
 code Aula_1_notebook_ml_churn_colab.ipynb
+```
+
+## 📈 Exemplo de Uso - Módulo de Séries Temporais
+
+O módulo de Séries Temporais oferece duas abordagens complementares:
+
+### 1. Fundamentos de Séries Temporais com IA
+
+Notebook: `Aula_2_Séries_temporais_Fundamentos_de_IA.ipynb`
+
+- **Conceitos Fundamentais**: Entendendo padrões temporais
+- **Decomposição**: Tendência, sazonalidade e resíduos
+- **Modelos Estatísticos**: ARIMA, SARIMA e variantes
+- **Previsão com Machine Learning**: Redes neurais e ensemble methods
+- **Validação de Modelos**: Backtesting e métricas de precisão
+
+### 2. TinyTimeMixer (TTM) - Modelos Pré-treinados
+
+Notebook: `ttm_getting_started.ipynb`
+
+- **Zero-shot Forecasting**: Previsões sem treinamento específico
+- **Few-shot Learning**: Fine-tuning rápido com poucos dados
+- **Modelos IBM Granite**: Acesso a modelos state-of-the-art
+- **Context Length Flexível**: Configurações de 512 a 1024 pontos
+- **Forecast Horizon**: Previsões de até 96 períodos futuros
+
+### 🚀 Acesso ao Módulo de Séries Temporais
+
+```bash
+# Entre no diretório do módulo
+cd SeriesTemporais
+
+# Para fundamentos de séries temporais
+code Aula_2_Séries_temporais_Fundamentos_de_IA.ipynb
+
+# Para TinyTimeMixer
+code ttm_getting_started.ipynb
 ```
 
 ## 🤝 Contribuição
@@ -173,3 +226,49 @@ Este projeto está licenciado sob Creative Commons Attribution-ShareAlike 4.0 In
 ---
 
 ## 🚀 Aprendizado Contínuo
+
+Este repositório está em constante evolução, acompanhando as tendências e melhores práticas do mercado de tecnologia. A metodologia de aprendizado é baseada em:
+
+### 🎓 Metodologia de Ensino
+
+- **Aprendizado Prático**: Cada conceito é acompanhado de implementações reais
+- **Progressão Estruturada**: Do básico ao avançado, com solidificação gradual do conhecimento
+- **Casos de Uso Reais**: Exemplos aplicáveis a cenários do mundo real
+- **Documentação Completa**: Material teórico e prático integrados
+
+### 🔄 Atualizações Recentes
+
+- **✨ Novo Módulo de Séries Temporais**: Técnicas avançadas de previsão com TinyTimeMixer
+- **📚 Material Complementar**: PDFs teóricos e guias práticos para cada módulo
+- **🔧 Ferramentas Modernas**: Integração com modelos pré-treinados e frameworks atualizados
+
+### 📈 Roadmap de Desenvolvimento
+
+- [ ] **Deep Learning**: Redes neurais profundas para visão computacional
+- [ ] **NLP**: Processamento de linguagem natural com transformers
+- [ ] **MLOps**: Operacionalização de modelos de machine learning
+- [ ] **Data Engineering**: Pipelines e arquitetura de dados
+- [ ] **Cloud Computing**: Deploy em nuvem e serverless
+
+### 💡 Dicas de Estudo
+
+1. **Siga a ordem recomendada**: Comece pelos fundamentos antes de avançar
+2. **Pratique com os notebooks**: Modifique parâmetros e experimente variações
+3. **Consulte o material teórico**: Use os PDFs para aprofundar conceitos
+4. **Crie seus próprios projetos**: Aplique o conhecimento em novos problemas
+5. **Compartilhe suas descobertas**: Contribua com melhorias e exemplos
+
+---
+
+## Comunidade e Suporte
+
+Este projeto faz parte de uma iniciativa maior de educação em tecnologia. Para dúvidas, sugestões e contribuições:
+
+- **Issues**: Reporte problemas ou sugira melhorias
+- **Pull Requests**: Contribua diretamente com o código
+- **Discussões**: Participe de conversas sobre os temas abordados
+
+---
+
+*Última atualização: Março 2026*  
+*Versão: 2.0 - Com novo módulo de Séries Temporais*
