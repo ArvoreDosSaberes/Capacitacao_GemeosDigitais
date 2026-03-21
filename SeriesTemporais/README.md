@@ -222,6 +222,28 @@ Este tutorial demonstra o uso de modelos state-of-the-art:
 
 ---
 
+---
+
+## 📓 Material Complementar - UniFacens
+
+### ⚠️ Aviso Importante sobre PDFs
+
+Os materiais em formato PDF disponibilizados neste módulo são **propriedade intelectual da UniFacens** e foram compartilhados exclusivamente para facilitar o acesso dos alunos da **Capacitação Gêmeos Digitais**.
+
+### 📋 Direitos de Uso
+
+- ✅ **Permitido**: Acesso e uso pelos alunos matriculados na capacitação
+- ✅ **Permitido**: Download para estudo pessoal
+- ❌ **Proibido**: Reprodução e distribuição não autorizada
+- ❌ **Proibido**: Uso comercial ou compartilhamento externo
+- ❌ **Proibido**: Alteração ou modificação do conteúdo
+
+### 🎓 Finalidade Educacional
+
+Estes materiais foram compartilhados com propósito estritamente educacional para apoiar o aprendizado dos participantes do programa de capacitação. O uso indevido pode violar direitos autorais e as políticas institucionais da UniFacens.
+
+---
+
 ## 📚 Recursos Adicionais
 
 ### Documentação Oficial
@@ -234,6 +256,24 @@ Este tutorial demonstra o uso de modelos state-of-the-art:
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Time Series Data Library](https://datamarket.com/data/list/?q=provider:tsdl)
+
+### 📚 Bibliografia Recomendada
+
+- **[Machine Learning for Time Series](../Livros e Apostilas/Machine Learning for Time Series - Ben Auffarth.pdf)** - Ben Auffarth
+  - Abordagem completa de ML aplicado a séries temporais
+  - Técnicas modernas e implementações práticas
+
+- **[Practical Time Series Analysis](../Livros e Apostilas/Practical Time Series Analysis - Aileen Nielsen.pdf)** - Aileen Nielsen
+  - Análise prática com exemplos em Python
+  - Foco em aplicações do mundo real
+
+- **[Time Series a Data Analysis Approach Using R](../Livros e Apostilas/Time Series a Data Analysis Approach Using R - Robert H. Shumway.pdf)** - Robert H. Shumway
+  - Fundamentos teóricos e abordagem com R
+  - Referência clássica em análise de séries temporais
+
+- **[TSMixer: Lightweight MLP-Mixer Model](../Livros e Apostilas/TSMixer_ Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting - 2306.09364v4.pdf)** - Paper Acadêmico
+  - Fundamentação teórica do TinyTimeMixer
+  - Arquitetura e resultados experimentais
 
 ### Comunidade e Suporte
 - Participe de competições de forecasting

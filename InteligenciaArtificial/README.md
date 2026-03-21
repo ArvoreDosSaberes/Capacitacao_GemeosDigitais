@@ -545,6 +545,28 @@ print(classification_report(y_test, y_pred))
 
 ---
 
+---
+
+## 📓 Material Complementar - UniFacens
+
+### ⚠️ Aviso Importante sobre PDFs
+
+Os materiais em formato PDF disponibilizados neste módulo são **propriedade intelectual da UniFacens** e foram compartilhados exclusivamente para facilitar o acesso dos alunos da **Capacitação Gêmeos Digitais**.
+
+### 📋 Direitos de Uso
+
+- ✅ **Permitido**: Acesso e uso pelos alunos matriculados na capacitação
+- ✅ **Permitido**: Download para estudo pessoal
+- ❌ **Proibido**: Reprodução e distribuição não autorizada
+- ❌ **Proibido**: Uso comercial ou compartilhamento externo
+- ❌ **Proibido**: Alteração ou modificação do conteúdo
+
+### 🎓 Finalidade Educacional
+
+Estes materiais foram compartilhados com propósito estritamente educacional para apoiar o aprendizado dos participantes do programa de capacitação. O uso indevido pode violar direitos autorais e as políticas institucionais da UniFacens.
+
+---
+
 ## 📚 Recursos Adicionais
 
 ### Documentação Oficial

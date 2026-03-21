@@ -1,9 +1,14 @@
 # TinyTimeMixer (TTM) - Guia de Instalação e Uso
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.SeriesTemporais.TTM)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
 ![TinyTimeMixer](https://img.shields.io/badge/TTM-IBM%20Granite-purple)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
+![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-orange)
+![Level](https://img.shields.io/badge/Level-Advanced-yellow)
 
 ## 📋 Visão Geral
 
@@ -260,6 +265,20 @@ mape = np.mean(np.abs((actual - predicted) / actual)) * 100
 - [TTM Paper](https://arxiv.org/abs/2401.03955)
 - [Hugging Face Models](https://huggingface.co/ibm-granite)
 
+### 📚 Bibliografia Recomendada
+
+- **[Machine Learning for Time Series](../Livros e Apostilas/Machine Learning for Time Series - Ben Auffarth.pdf)** - Ben Auffarth
+  - Fundamentos de ML aplicados a séries temporais
+  - Complemento perfeito para entender o TTM
+
+- **[Practical Time Series Analysis](../Livros e Apostilas/Practical Time Series Analysis - Aileen Nielsen.pdf)** - Aileen Nielsen
+  - Técnicas práticas com Python
+  - Implementações que complementam o TTM
+
+- **[TSMixer: Lightweight MLP-Mixer Model](../Livros e Apostilas/TSMixer_ Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting - 2306.09364v4.pdf)** - Paper Acadêmico
+  - Fundamentação teórica original do TinyTimeMixer
+  - Detalhes da arquitetura e experimentos
+
 ### Tutoriais e Exemplos
 - `granite-tsfm/notebooks/` - Tutoriais oficiais
 - `granite-tsfm/demos/` - Demonstrações práticas
@@ -277,6 +296,28 @@ mape = np.mean(np.abs((actual - predicted) / actual)) * 100
 3. **Explorar configurações**: Diferentes context lengths e prediction lengths
 4. **Fine-tuning avançado**: Experimente com diferentes frações de fine-tuning
 5. **Deploy**: Coloque o modelo em produção para previsões em tempo real
+
+---
+
+---
+
+## 📓 Material Complementar - UniFacens
+
+### ⚠️ Aviso Importante sobre PDFs
+
+Os materiais em formato PDF disponibilizados no módulo de Séries Temporais são **propriedade intelectual da UniFacens** e foram compartilhados exclusivamente para facilitar o acesso dos alunos da **Capacitação Gêmeos Digitais**.
+
+### 📋 Direitos de Uso
+
+- ✅ **Permitido**: Acesso e uso pelos alunos matriculados na capacitação
+- ✅ **Permitido**: Download para estudo pessoal
+- ❌ **Proibido**: Reprodução e distribuição não autorizada
+- ❌ **Proibido**: Uso comercial ou compartilhamento externo
+- ❌ **Proibido**: Alteração ou modificação do conteúdo
+
+### 🎓 Finalidade Educacional
+
+Estes materiais foram compartilhados com propósito estritamente educacional para apoiar o aprendizado dos participantes do programa de capacitação. O uso indevido pode violar direitos autorais e as políticas institucionais da UniFacens.
 
 ---
 

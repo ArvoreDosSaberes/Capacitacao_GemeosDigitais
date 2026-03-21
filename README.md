@@ -22,6 +22,14 @@ Este repositório é dedicado à **capacitação profissional** em diversas áre
 - **Desenvolvimento de Software**: Boas práticas e padrões modernos
 - **Ciência de Dados**: Fluxos completos de trabalho e estudos de caso
 
+### 📖 Biblioteca Complementar
+
+- **[Livros e Apostilas](Livros e Apostilas/)**: Coleção de livros especializados em séries temporais e machine learning
+  - *Machine Learning for Time Series* - Ben Auffarth
+  - *Practical Time Series Analysis* - Aileen Nielsen
+  - *Time Series a Data Analysis Approach Using R* - Robert H. Shumway
+  - *TSMixer: Lightweight MLP-Mixer Model* - Paper acadêmico
+
 Cada área de capacitação está organizada em sua própria pasta, com material específico e exemplos práticos.
 
 ## 🚀 Como Usar com VSCode/Windsurf
@@ -40,7 +48,6 @@ Cada área de capacitação está organizada em sua própria pasta, com material
    git clone https://github.com/ArvoreDosSaberes/Capacitacao_GemeosDigitais.git
    cd Capacitacao_GemeosDigitais
    ```
-
 2. **Crie e ative o ambiente virtual:**
 
    ```bash
@@ -49,7 +56,6 @@ Cada área de capacitação está organizada em sua própria pasta, com material
    # ou
    .venv\Scripts\activate  # Windows
    ```
-
 3. **Instale as dependências (para cada módulo):**
 
    ```bash
@@ -67,17 +73,18 @@ Cada área de capacitação está organizada em sua própria pasta, com material
 ### Configuração do VSCode/Windsurf
 
 1. **Instale as extensões recomendadas:**
+
    - Python (Microsoft)
    - Jupyter (Microsoft)
    - Python Docstring Generator (Nils Werner)
    - GitLens (GitKraken)
-
 2. **Selecione o interpretador Python:**
+
    - Abra a paleta de comandos (`Ctrl+Shift+P`)
    - Digite "Python: Select Interpreter"
    - Escolha o interpretador do ambiente virtual (`.venv`)
-
 3. **Trabalhe com os notebooks:**
+
    - Navegue até o módulo desejado (ex: `cd InteligenciaArtificial`)
    - Abra o notebook correspondente (ex: `Aula_1_notebook_ml_churn_colab.ipynb`)
    - Execute as células interativamente
@@ -219,6 +226,28 @@ Este é um projeto educacional com estrutura modular. Contribuições são bem-v
 4. Documente as dependências necessárias
 5. Siga a estrutura estabelecida
 
+---
+
+## 📓 Material Complementar - UniFacens
+
+### ⚠️ Aviso Importante sobre PDFs
+
+Os materiais em formato PDF disponibilizados neste repositório são **propriedade intelectual da UniFacens** e foram compartilhados exclusivamente para facilitar o acesso dos alunos da **Capacitação Gêmeos Digitais**.
+
+### 📋 Direitos de Uso
+
+- ✅ **Permitido**: Acesso e uso pelos alunos matriculados na capacitação
+- ✅ **Permitido**: Download para estudo pessoal
+- ❌ **Proibido**: Reprodução e distribuição não autorizada
+- ❌ **Proibido**: Uso comercial ou compartilhamento externo
+- ❌ **Proibido**: Alteração ou modificação do conteúdo
+
+### 🎓 Finalidade Educacional
+
+Estes materiais foram compartilhados com propósito estritamente educacional para apoiar o aprendizado dos participantes do programa de capacitação. O uso indevido pode violar direitos autorais e as políticas institucionais da UniFacens.
+
+---
+
 ## 📄 Licença
 
 Este projeto está licenciado sob Creative Commons Attribution-ShareAlike 4.0 International License.
@@ -265,10 +294,10 @@ Este repositório está em constante evolução, acompanhando as tendências e m
 Este projeto faz parte de uma iniciativa maior de educação em tecnologia. Para dúvidas, sugestões e contribuições:
 
 - **Issues**: Reporte problemas ou sugira melhorias
-- **Pull Requests**: Contribua diretamente com o código
+- **Pull Requests**: Contribua diretamente com o conteúdo
 - **Discussões**: Participe de conversas sobre os temas abordados
 
 ---
 
-*Última atualização: Março 2026*  
+*Última atualização: Março 2026*
 *Versão: 2.0 - Com novo módulo de Séries Temporais*
