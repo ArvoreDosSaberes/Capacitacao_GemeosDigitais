@@ -1,12 +1,98 @@
-# Tutorial Pandas: Previsão de Churn de Clientes
+# Módulo de Inteligência Artificial e Machine Learning
 
-## 📋 Introdução
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.InteligenciaArtificial)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)
+![Status](https://img.shields.io/badge/Status-Educa%C3%A7%C3%A3o-brightgreen)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-yellow)
+
+## 📋 Visão Geral
+
+Este módulo oferece uma capacitação completa em Inteligência Artificial e Machine Learning, combinando teoria fundamental com prática hands-on. O material está organizado para proporcionar um aprendizado progressivo, desde conceitos básicos até implementações avançadas.
+
+### 🎯 Objetivos de Aprendizagem
+
+- Compreender os fundamentos de Machine Learning
+- Dominar técnicas de manipulação de dados com Pandas
+- Implementar modelos de classificação do início ao fim
+- Avaliar desempenho de modelos com métricas adequadas
+- Aplicar boas práticas em projetos de IA
+
+## � Configuração do Ambiente
+
+### Pré-requisitos
+
+- Python 3.8 ou superior
+- pip (gerenciador de pacotes Python)
+- Ambiente virtual recomendado
+
+### Instalação das Dependências
+
+```bash
+# Criar ambiente virtual (recomendado)
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# ou
+venv\Scripts\activate  # Windows
+
+# Instalar dependências
+pip install -r requirements.txt
+```
+
+### Dependências Principais
+
+- **pandas**: Manipulação e análise de dados
+- **numpy**: Computação numérica
+- **matplotlib**: Visualização de dados
+- **seaborn**: Visualizações estatísticas
+- **scikit-learn**: Biblioteca de Machine Learning
+- **kagglehub**: Acesso a datasets do Kaggle
+
+## � Estrutura do Módulo
+
+```text
+InteligenciaArtificial/
+├── README.md                                    # Este arquivo - documentação completa
+├── requirements.txt                             # Dependências Python
+├── Aula_1_notebook_ml_churn_colab.ipynb       # Notebook prático principal
+├── test_notebook.py                           # Scripts de teste e validação
+├── Teoria-Aprendizado-de-Maquina-Conceitos-Fundamentais-e-Tipos-de-Modelos.pdf  # Material teórico
+└── Pratica-construindo-um-modelo-de-aprendizado-de-maquina.pdf  # Guia prático
+```
+
+## 📚 Material Didático
+
+### 📖 Material Teórico
+
+#### PDF: Teoria - Aprendizado de Máquina: Conceitos Fundamentais e Tipos de Modelos
+
+- Fundamentos de Machine Learning
+- Tipos de aprendizado: supervisionado, não supervisionado, por reforço
+- Algoritmos clássicos e modernos
+- Métricas de avaliação
+- Overfitting e underfitting
+- Validação cruzada e regularização
+
+### Material Prático
+
+#### PDF: Prática - Construindo um Modelo de Aprendizado de Máquina
+
+- Guia passo a passo para construção de modelos
+- Checklist de pré-processamento
+- Dicas para feature engineering
+- Estratégias de validação
+- Interpretação de resultados
+- Deploy de modelos
+
+---
+
+## 🎯 Tutorial Prático: Previsão de Churn de Clientes
 
 Este tutorial explica passo a passo o notebook `Aula_1_notebook_ml_churn_colab.ipynb`, que demonstra um fluxo completo de Machine Learning para prever cancelamento de clientes (churn) usando Pandas e Scikit-learn. Cada comando Pandas será explicado detalhadamente para que você compreenda não apenas o que faz, mas por que e como funciona.
-
-## 🎯 Objetivo do Projeto
-
-Prever quais clientes têm maior probabilidade de cancelar seus serviços de telecomunicações, permitindo ações proativas de retenção.
 
 ## 📚 Estrutura do Tutorial
 
@@ -411,7 +497,39 @@ print(classification_report(y_test, y_pred))
 
 ---
 
+## 🎯 Como Usar Este Módulo
+
+### 📋 Rota de Aprendizagem Sugerida
+
+1. **📖 Estudar o Material Teórico**
+   - Leia o PDF "Teoria - Aprendizado de Máquina: Conceitos Fundamentais"
+   - Foque em entender os conceitos fundamentais antes de praticar
+
+2. **🛠️ Consultar o Guia Prático**
+   - Revise o PDF "Prática - Construindo um Modelo de Aprendizado de Máquina"
+   - Use como referência durante a implementação
+
+3. **💻 Executar o Notebook Principal**
+   - Abra `Aula_1_notebook_ml_churn_colab.ipynb`
+   - Siga o tutorial passo a passo
+   - Experimente modificar parâmetros e testar diferentes abordagens
+
+4. **🧪 Testar e Validar**
+   - Execute os scripts em `test_notebook.py`
+   - Verifique seu entendimento com os testes proporcionados
+
+### 💡 Dicas de Estudo
+
+- **Aprendizado Ativo**: Não apenas execute o código, mas modifique-o para ver o que acontece
+- **Documentação**: Mantenha anotações sobre conceitos importantes
+- **Experimentação**: Tente diferentes algoritmos e compare resultados
+- **Repetição**: Refaça os exercícios sem consultar o material para solidificar conhecimento
+
+---
+
 ## 🚀 Próximos Passos
+
+### Para Continuar Sua Jornada em IA
 
 1. **Feature Engineering**: Criar novas features a partir das existentes
 2. **Hyperparameter Tuning**: Otimizar parâmetros do modelo
@@ -419,14 +537,26 @@ print(classification_report(y_test, y_pred))
 4. **Ensemble Methods**: Combinar múltiplos modelos
 5. **Deploy**: Colocar o modelo em produção
 
+### Módulos Relacionados
+
+- **📈 Séries Temporais**: Aplicar técnicas de IA para previsão de dados temporais
+- **🔢 Análise de Dados**: Aprofundar técnicas de exploração e visualização
+- **☁️ Cloud Computing**: Deploy de modelos em ambientes escaláveis
+
 ---
 
-## 📚 Referências
+## 📚 Recursos Adicionais
 
+### Documentação Oficial
 - [Documentação Oficial Pandas](https://pandas.pydata.org/docs/)
 - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 - [Dataset Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
+### Comunidade e Suporte
+- Participe de fóruns de Machine Learning
+- Contribua com projetos open source
+- Compartilhe seus aprendizados
+
 ---
 
-*Este tutorial foi criado para fins educacionais, demonstrando um fluxo completo de análise de dados e Machine Learning usando Pandas.*
+*Este módulo foi criado para fins educacionais, demonstrando um fluxo completo de análise de dados e Machine Learning usando Pandas e técnicas modernas de IA.*

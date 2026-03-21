@@ -1,0 +1,3 @@
+## Aula 1 - Fundamentos da Inteligência Artificial
+
+[Aula 1](https://facens-my.sharepoint.com/personal/felipe_fengler_facens_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffelipe%5Ffengler%5Ffacens%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FAula%201%20%2D%20Fundamentos%20da%20Intelig%C3%AAncia%20Artificial%2D20260314%5F090323%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E68bc5b0b%2D4a7b%2D43e7%2D9039%2Df7cf8ed8018c)
