@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15785</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbd6b4ca-2997-418b-8966-df46aaba224d</dc:identifier>
+        <dc:title>Practical Time Series Analysis</dc:title>
+        <dc:creator opf:file-as="Nielsen, Aileen" opf:role="aut">Aileen Nielsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Solve the most common data engineering and analysis challenges for modern time series data. This book provides an accessible well-rounded introduction to time series in both R and Python that will have software engineers, data scientists, and researchers up and running quickly and competently to do time-related analysis in their field of interest.&lt;/p&gt;&lt;p&gt;Author Aileen Nielsen also offers practical guidance and use cases from the real world, ranging from healthcare and finance to scientific measurements and social science projections. This book offers a more varied and cutting-edge approach to time series than is available in existing books on this topic.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Series Temporais</dc:subject>
+        <meta name="calibre:timestamp" content="2025-07-17T23:29:27+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Time Series Analysis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Practical Time Series Analysis - Aileen Nielsen.jpg"/>
+    </guide>
+</package>

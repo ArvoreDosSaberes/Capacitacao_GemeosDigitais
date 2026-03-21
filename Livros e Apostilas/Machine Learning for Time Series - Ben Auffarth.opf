@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f89d4af9-53bf-4105-900b-e6cd1e33dfd0</dc:identifier>
+        <dc:title>Machine Learning for Time Series</dc:title>
+        <dc:creator opf:file-as="Auffarth, Ben" opf:role="aut">Ben Auffarth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-19T00:00:00+00:00</dc:date>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Time-series; forecast; arima; stock price; garch; linear model; quantitative</dc:subject>
+        <dc:subject>Series Temporais</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-23T23:04:23+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning for Time Series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Machine Learning for Time Series - Ben Auffarth.jpg"/>
+    </guide>
+</package>
