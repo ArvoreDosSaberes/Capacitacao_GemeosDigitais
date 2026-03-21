@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0200ea95-7707-4d49-abed-9e738007a7c2</dc:identifier>
+        <dc:title>Time and Relational Theory: Temporal Databases in the Relational Model and SQL</dc:title>
+        <dc:creator opf:file-as="Date, C. J. &amp; Darwen, Hugh &amp; Lorentzos, Nikos A." opf:role="aut">Date, C.J., Darwen, Hugh, Lorentzos, Nikos</dc:creator>
+        <dc:creator opf:file-as="Date, C. J. &amp; Darwen, Hugh &amp; Lorentzos, Nikos A." opf:role="aut">Hugh Darwen</dc:creator>
+        <dc:creator opf:file-as="Date, C. J. &amp; Darwen, Hugh &amp; Lorentzos, Nikos A." opf:role="aut">Nikos A. Lorentzos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-15T00:00:00+00:00</dc:date>
+        <dc:publisher>Elsevier Science</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780128006757</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-21T18:04:30.392434+00:00"/>
+        <meta name="calibre:title_sort" content="Time and Relational Theory: Temporal Databases in the Relational Model and SQL"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Time and Relational Theory_ Temporal Databases in the Relational Model and SQL - Date, C.J., Darwen, Hugh, Lorentzos, Nikos &amp; Hugh Darwen &amp; Nikos A. Lorentzos.jpg"/>
+    </guide>
+</package>

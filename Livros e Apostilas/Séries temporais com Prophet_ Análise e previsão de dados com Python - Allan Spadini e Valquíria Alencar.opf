@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88c1487a-7ed8-47a8-98fc-db05d0dc7001</dc:identifier>
+        <dc:title>Séries temporais com Prophet: Análise e previsão de dados com Python</dc:title>
+        <dc:creator opf:file-as="Alencar, Allan Spadini e Valquíria" opf:role="aut">Allan Spadini e Valquíria Alencar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-29T21:00:23+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-21T18:04:37.697381+00:00"/>
+        <meta name="calibre:title_sort" content="Séries temporais com Prophet: Análise e previsão de dados com Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Séries temporais com Prophet_ Análise e previsão de dados com Python - Allan Spadini e Valquíria Alencar.jpg"/>
+    </guide>
+</package>
