@@ -256,12 +256,14 @@ mape = np.mean(np.abs((actual - predicted) / actual)) * 100
 
 ### Documentação Oficial
 - [TTM Repository](https://github.com/ibm-granite/granite-tsfm)
+- [IBM Granite Docs - Fine-tune Time Series](https://www.ibm.com/granite/docs/fine-tune/time-series)
 - [TTM Paper](https://arxiv.org/abs/2401.03955)
 - [Hugging Face Models](https://huggingface.co/ibm-granite)
 
 ### Tutoriais e Exemplos
 - `granite-tsfm/notebooks/` - Tutoriais oficiais
 - `granite-tsfm/demos/` - Demonstrações práticas
+- [TTM Getting Started - Google Colab](https://colab.research.google.com/github/ibm-granite/granite-tsfm/blob/main/notebooks/hfdemo/ttm_getting_started.ipynb)
 - `ttm_getting_started.ipynb` - Nosso notebook do curso
 
 ### Comunidade
