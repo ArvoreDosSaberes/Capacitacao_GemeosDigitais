@@ -1,3 +1,6 @@
 [submodule "SeriesTemporais/granite-tsfm"]
 	path = SeriesTemporais/granite-tsfm
 	url = https://github.com/ibm-granite/granite-tsfm.git
+[submodule "SeriesTemporais/prophet"]
+	path = SeriesTemporais/prophet
+	url = https://github.com/facebook/prophet.git
