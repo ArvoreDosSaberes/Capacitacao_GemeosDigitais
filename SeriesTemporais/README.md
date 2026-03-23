@@ -257,23 +257,6 @@ Estes materiais foram compartilhados com propósito estritamente educacional par
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Time Series Data Library](https://datamarket.com/data/list/?q=provider:tsdl)
 
-### 📚 Bibliografia Recomendada
-
-- **[Machine Learning for Time Series](../Livros e Apostilas/Machine Learning for Time Series - Ben Auffarth.pdf)** - Ben Auffarth
-  - Abordagem completa de ML aplicado a séries temporais
-  - Técnicas modernas e implementações práticas
-
-- **[Practical Time Series Analysis](../Livros e Apostilas/Practical Time Series Analysis - Aileen Nielsen.pdf)** - Aileen Nielsen
-  - Análise prática com exemplos em Python
-  - Foco em aplicações do mundo real
-
-- **[Time Series a Data Analysis Approach Using R](../Livros e Apostilas/Time Series a Data Analysis Approach Using R - Robert H. Shumway.pdf)** - Robert H. Shumway
-  - Fundamentos teóricos e abordagem com R
-  - Referência clássica em análise de séries temporais
-
-- **[TSMixer: Lightweight MLP-Mixer Model](../Livros e Apostilas/TSMixer_ Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting - 2306.09364v4.pdf)** - Paper Acadêmico
-  - Fundamentação teórica do TinyTimeMixer
-  - Arquitetura e resultados experimentais
 
 ### Comunidade e Suporte
 - Participe de competições de forecasting

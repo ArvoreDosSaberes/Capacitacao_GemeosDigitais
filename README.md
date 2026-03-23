@@ -208,6 +208,10 @@ code Aula_2_Séries_temporais_Fundamentos_de_IA.ipynb
 code ttm_getting_started.ipynb
 ```
 
+### 📚 Bibliografia Recomendada
+
+Consulte a **[Bibliografia Completa](BIBLIOGRAFIA.md)** com todos os livros organizados por área de conhecimento, incluindo resumos detalhados de cada obra.
+
 ## 🤝 Contribuição
 
 Este é um projeto educacional com estrutura modular. Contribuições são bem-vindas nos seguintes formatos:
