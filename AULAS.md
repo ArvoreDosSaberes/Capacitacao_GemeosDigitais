@@ -28,7 +28,7 @@
 
 ---
 
-## Aula 2 - Séries Temporais e Fundamentos de IA
+## SeriesTemporais e Fundamentos de IA
 
 [Aula 2](https://facens-my.sharepoint.com/personal/felipe_fengler_facens_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffelipe%5Ffengler%5Ffacens%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FAula%202%20%2D%20S%C3%A9ries%20Temporais%20e%20Fundamentos%20de%20IA%2D20260321%5F090335%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5d9b9c1c%2D8b4f%2D4a2d%2D9e3f%2D8a7b6c5d4e3f)
 
