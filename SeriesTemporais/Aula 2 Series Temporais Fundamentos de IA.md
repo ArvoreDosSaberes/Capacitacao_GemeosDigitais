@@ -597,6 +597,78 @@ forecast = model.predict(future)
 - **[TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting](Livros%20e%20Apostilas/TSMixer_%20Lightweight%20MLP-Mixer%20Model%20for%20Multivariate%20Time%20Series%20Forecasting%20-%202306.09364v4.pdf)** — Paper sobre modelo moderno
 - **[Time and Relational Theory: Temporal Databases in the Relational Model and SQL](Livros%20e%20Apostilas/Time%20and%20Relational%20Theory_%20Temporal%20Databases%20in%20the%20Relational%20Model%20and%20SQL%20-%20Date%2C%20C.J.%2C%20Darwen%2C%20Hugh%2C%20Lorentzos%2C%20Nikos%20%26%20Hugh%20Darwen%20%26%20Nikos%20A.%20Lorentzos.epub)** — Bancos de dados temporais
 
+#### 📚 Fundamentos Matemáticos para Machine Learning
+- **[Mathematics for Machine Learning](Livros%20e%20Apostilas/Mathematics%20for%20Machine%20Learning%20-%20Marc%20Peter%20Deisenroth%2C%20A.%20Aldo%20Faisal%2C%20Cheng%20Soon%20Ong.pdf)** — Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
+  - **Fundamentos matemáticos** essenciais para ML
+  - **Álgebra linear**, cálculo e probabilidade
+  - **Aplicações práticas** em machine learning
+  - **Base teórica** para séries temporais
+
+- **[Essential Math for Data Science](Livros%20e%20Apostilas/Essential%20Math%20for%20Data%20Science%20-%20Thomas%20Nield.pdf)** — Thomas Nield
+  - **Conceitos matemáticos** para data science
+  - **Estatística e probabilidade** aplicada
+  - **Visualização matemática** de dados
+
+- **[Linear Algebra and Optimization for Machine Learning](Livros%20e%20Apostilas/Linear%20Algebra%20and%20Optimization%20for%20Machine%20Learning%20-%20Charu%20C.%20Aggarwal.pdf)** — Charu C. Aggarwal
+  - **Álgebra linear** otimizada para ML
+  - **Técnicas de otimização** para modelos
+  - **Fundamentos** para deep learning
+
+#### 🤖 Inteligência Artificial e Machine Learning
+- **[AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence](Livros%20e%20Apostilas/Ai%20and%20Machine%20Learning%20for%20Coders%20-%20A%20programer's%20Guide%20to%20Artifical%20Intelgience%20-%20Laurence%20Moroney.pdf)** — Laurence Moroney
+  - **Guia prático** para programadores
+  - **Implementações** em TensorFlow
+  - **Casos práticos** de IA
+
+- **[Python Machine Learning](Livros%20e%20Apostilas/Python%20Machine%20Learning%20-%20Sebastian%20Raschka.pdf)** — Sebastian Raschka
+  - **Referência completa** em Python
+  - **Scikit-learn** e ecossistema Python
+  - **Técnicas avançadas** de ML
+
+- **[Machine Learning: A Practical Approach on the Statistical Learning Theory](Livros%20e%20Apostilas/Machine%20Learning%20-%20A%20Practical%20Approach%20on%20the%20Statistical%20--%20Rodrigo%20Fernandes%20de%20Mello%2C%20Moacir%20Antonelli%20Ponti%2C%20RODRIGO%20--%20(%20WeLib.org%20).pdf)** — Rodrigo Fernandes de Mello, Moacir Antonelli Ponti
+  - **Teoria estatística** da aprendizagem
+  - **Fundamentos matemáticos** rigorosos
+  - **Abordagem brasileira** de ML
+
+#### 🧠 Deep Learning e Redes Neurais
+- **[The Little Book of Deep Learning](Livros%20e%20Apostilas/The%20Little%20Book%20of%20Deep%20Learning%20-%20Fran%C3%A7ois%20Fleuret.pdf)** — François Fleuret
+  - **Introdução concisa** ao deep learning
+  - **Conceitos fundamentais** de redes neurais
+  - **Aplicações práticas**
+
+- **[Mastering PyTorch](Livros%20e%20Apostilas/Mastering%20PyTorch%20-%20Ashish%20Ranjan%20Jha.pdf)** — Ashish Ranjan Jha
+  - **Framework PyTorch** completo
+  - **Implementação** de modelos complexos
+  - **Séries temporais** com redes neurais
+
+#### 🏭 Aplicações Industriais e IoT
+- **[Introduction to Industrial Internet of Things and Industry 4.0](Livros%20e%20Apostilas/Introduction%20to%20Industrial%20Internet%20of%20Tings%20and%20Industry%204.0%20-%20Sudip%20Misra%20%26%20Chandana%20Roy%20%26%20Anandarup%20Mukherjee.pdf)** — Sudip Misra, Chandana Roy, Anandarup Mukherjee
+  - **Fundamentos de IoT** industrial
+  - **Aplicações** em gêmeos digitais
+  - **Arquiteturas** para sistemas conectados
+
+- **[Industrial Internet of Things: Technologies, Design, and Applications](Livros%20e%20Apostilas/Industrial%20Internet%20of%20Things%3B%20Technologies%2C%20Design%2C%20and%20Applications%20-%20Edited%20by%20Sudan%20Jha%20%26%20Usman%20Tariq%20%26%20Gyanendra%20Prasad%20Joshi%20%26%20Vijender%20Kumar%20Solanki.pdf)** — Editado por Sudan Jha, Usman Tariq, Gyanendra Prasad Joshi, Vijender Kumar Solanki
+  - **Tecnologias IoT** para indústria
+  - **Design de sistemas** conectados
+  - **Casos de uso** reais
+
+#### 📊 Análise e Processamento de Sinais
+- **[Analise de Series Temporais](Livros%20e%20Apostilas/Analise%20de%20Series%20Temporais%20-%20Pedro%20A.%20Morettin%20%26%20Clelia%20M.%20Toloi.pdf)** — Pedro A. Morettin & Clelia M. Toloi
+  - **Análise completa** de séries temporais
+  - **Abordagem estatística** rigorosa
+  - **Complemento** ao livro básico do Morettin
+
+#### 🔬 Tópicos Especializados e Avançados
+- **[Why Machines Learn: The Elegant Math Behind Modern AI](Livros%20e%20Apostilas/Why%20Machines%20Learn_%20The%20Elegant%20Math%20Behind%20Modern%20AI%20-%20Anil%20Ananthaswamy.pdf)** — Anil Ananthaswamy
+  - **Matemática elegante** por trás da IA
+  - **Conceitos profundos** de aprendizado
+  - **Perspectiva filosófica** do ML
+
+- **[Interpretable Machine Learning](Livros%20e%20Apostilas/Interpretable%20Machine%20Learning%20-%20Christoph%20Molnar.pdf)** — Christoph Molnar
+  - **Interpretabilidade** de modelos
+  - **Explicabilidade** em séries temporais
+  - **Transparência** em decisões automatizadas
+
 ---
 
 ## 📚 Referências Bibliográficas Recomendadas
@@ -689,28 +761,29 @@ forecast = model.predict(future)
 ## 15. 📖 Guia de Estudo Estruturado
 
 ### Módulo 1: Fundamentos (2-3 semanas)
-1. **Leitura Base**: Morettin - Capítulos 1-4
+1. **Leitura Base**: [Análise de Séries Temporais — Pedro A. Morettin](Livros%20e%20Apostilas/An%C3%A1lise%20de%20S%C3%A9ries%20Temporais%20-%20Pedro%20A.%20Morettin.pdf) - Capítulos 1-4
 2. **Conceitos**: Estacionaridade, autocorrelação, decomposição
 3. **Prática**: Análise exploratória de séries reais
 4. **Exercício**: Identificar componentes em dados de ações
 
 ### Módulo 2: Modelos Clássicos (3-4 semanas)
-1. **Leitura Base**: Nielsen - Capítulos 3-5
+1. **Leitura Base**: [Análise Prática de Séries Temporais — Aileen Nielsen](Livros%20e%20Apostilas/An%C3%A1lise%20pr%C3%A1tica%20de%20s%C3%A9ries%20temporais_%20predi%C3%A7%C3%A3o%20com%20estat%C3%ADstica%20e%20aprendizado%20de%20m%C3%A1quina%20-%20Aileen%20Nielsen.pdf) - Capítulos 3-5
 2. **Modelos**: AR, MA, ARIMA, SARIMA
 3. **Implementação**: Python com statsmodels
 4. **Projeto**: Previsão de séries de energia
 
 ### Módulo 3: Prophet e Aplicações (2 semanas)
-1. **Leitura Base**: Spadini & Alencar - Completo
+1. **Leitura Base**: [Séries Temporais com Prophet: Análise e Previsão de Dados com Python — Allan Spadini e Valquíria Alencar](Livros%20e%20Apostilas/S%C3%A9ries%20temporais%20com%20Prophet_%20An%C3%A1lise%20e%20previs%C3%A3o%20de%20dados%20com%20Python%20-%20Allan%20Spadini%20e%20Valqu%C3%ADria%20Alencar.pdf) - Completo
 2. **Ferramentas**: Facebook Prophet, visualização
 3. **Caso Prático**: Replicar estudo MGLU3
 4. **Validação**: Comparar com modelos ARIMA
 
 ### Módulo 4: Deep Learning (4-5 semanas)
-1. **Leitura Base**: Auffarth - Capítulos 6-8
-2. **Modelos**: LSTM, GRU, Transformers
-3. **Framework**: PyTorch/TensorFlow
-4. **Projeto Final**: Sistema completo de previsão
+1. **Leitura Base**: [Machine Learning for Time Series — Ben Auffarth](Livros%20e%20Apostilas/Machine%20Learning%20for%20Time%20Series%20-%20Ben%20Auffarth.pdf) - Capítulos 6-8
+2. **Complementar**: [Modern Time Series Forecasting with Python — Manu Joseph](Livros%20e%20Apostilas/Modern%20Time%20Series%20Forecasting%20with%20Python%20-%20Manu%20Joseph.pdf) - Deep learning e modelos foundation
+3. **Modelos**: LSTM, GRU, Transformers
+4. **Framework**: PyTorch/TensorFlow
+5. **Projeto Final**: Sistema completo de previsão
 
 ---
 

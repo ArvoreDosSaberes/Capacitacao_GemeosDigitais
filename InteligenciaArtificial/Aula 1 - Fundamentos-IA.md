@@ -452,7 +452,45 @@ O professor usa um exemplo prático de análise de crédito:
 
 ---
 
-## 12. Conclusão
+## 12. 📖 Guia de Estudo Estruturado
+
+### Módulo 1: Fundamentos e Primeiros Passos (2-3 semanas)
+1. **Leitura Base**: [Machine Learning for Beginners — David Brown](Livros%20e%20Apostilas/Machine%20Learning%20for%20Beginners_%20A%20Step-By-Step%20Guide%20to%20Understand%20Deep%20Learning%2C%20Data%20Science%20and%20Analysis%2C%20Basic%20Software%20and%20Algorithms%20for%20Artificial%20Intelligence%20-%20Brown%2C%20David.pdf) - Completo
+2. **Conceitos**: Tipos de aprendizado (supervisionado, não-supervisionado, reforço), dados e atributos, qualidade de dados
+3. **Prática**: Rodar o notebook de churn no Google Colab, explorar datasets no Kaggle
+4. **Exercício**: Identificar tipo de aprendizado adequado para 5 problemas reais diferentes
+
+### Módulo 2: Matemática Essencial para ML (3-4 semanas)
+1. **Leitura Base**: [Essential Math for Data Science — Thomas Nield](Livros%20e%20Apostilas/Essential%20Math%20for%20Data%20Science%20-%20Thomas%20Nield.pdf) - Capítulos 1-6
+2. **Complementar**: [Mathematics for Machine Learning — Deisenroth, Faisal, Ong](Livros%20e%20Apostilas/Mathematics%20for%20Machine%20Learning%20-%20Marc%20Peter%20Deisenroth%2C%20A.%20Aldo%20Faisal%2C%20Cheng%20Soon%20Ong.pdf) - Capítulos 1-4 (Álgebra Linear, Geometria Analítica)
+3. **Tópicos**: Álgebra linear, cálculo, probabilidade, otimização (gradient descent)
+4. **Prática**: Implementar regressão linear do zero em Python
+5. **Apoio**: [Calculus for Machine Learning — Cristina & Saeed](Livros%20e%20Apostilas/Calculus%20for%20Machine%20Learning%20-%20Stefania%20Cristina%20%26%20Mehreen%20Saeed.pdf) - Para revisão de cálculo
+
+### Módulo 3: Machine Learning na Prática com Python (4-5 semanas)
+1. **Leitura Base**: [Python Machine Learning — Sebastian Raschka](Livros%20e%20Apostilas/Python%20Machine%20Learning%20-%20Sebastian%20Raschka.pdf) - Capítulos 1-8
+2. **Complementar**: [AI and Machine Learning for Coders — Laurence Moroney](Livros%20e%20Apostilas/Ai%20and%20Machine%20Learning%20for%20Coders%20-%20A%20programer's%20Guide%20to%20Artifical%20Intelgience%20-%20Laurence%20Moroney.pdf) - Capítulos 1-5 (TensorFlow/Keras)
+3. **Modelos**: Regressão logística, árvores de decisão, Random Forest, SVM
+4. **Ferramentas**: scikit-learn, pandas, numpy, matplotlib
+5. **Projeto**: Classificação de churn com múltiplos modelos e comparação de métricas
+
+### Módulo 4: Avaliação, Interpretabilidade e Ética (2-3 semanas)
+1. **Leitura Base**: [Interpretable Machine Learning — Christoph Molnar](Livros%20e%20Apostilas/Interpretable%20Machine%20Learning%20-%20Christoph%20Molnar.pdf) - Capítulos 1-5
+2. **Complementar**: [Understanding Machine Learning: Theory and Algorithms](Livros%20e%20Apostilas/Understanding%20machine%20learning%20theory%20algorithms%20-%20Desconhecido.pdf) - Capítulos sobre generalização e overfitting
+3. **Tópicos**: Matriz de confusão, precisão/recall/F1, SHAP, LIME, vieses em IA
+4. **Prática**: Aplicar SHAP values ao modelo de churn e interpretar resultados
+5. **Exercício**: Identificar potenciais vieses em um dataset real
+
+### Módulo 5: Sistemas de ML e Tópicos Avançados (3-4 semanas)
+1. **Leitura Base**: [Designing Machine Learning Systems — Chip Huyen](Livros%20e%20Apostilas/Designing%20Machine%20Learning%20Systems%20-%20Chip%20Huyen.pdf) - Capítulos 1-6
+2. **Complementar**: [Mastering Machine Learning Algorithms — Giuseppe Bonaccorso](Livros%20e%20Apostilas/Mastering%20Machine%20Learning%20Algorithms%20-%20Second%20Edition%20-%20Giuseppe%20Bonaccorso.epub) - Capítulos sobre ensemble methods e reinforcement learning
+3. **Tópicos**: MLOps, pipeline de dados, deploy de modelos, aprendizado por reforço
+4. **Framework**: Docker, MLflow, FastAPI
+5. **Projeto Final**: Pipeline completo de ML — da coleta de dados ao deploy
+
+---
+
+## 13. Conclusão
 
 Esta aula estabeleceu os fundamentos essenciais de Inteligência Artificial, partindo do princípio que **"sempre que a gente for tratar a IA ou utilizar inteligência, lembra que tem inteligência ali antes do artificial"**. O professor enfatizou que:
 
