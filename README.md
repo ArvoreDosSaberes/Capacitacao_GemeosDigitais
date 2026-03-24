@@ -148,8 +148,8 @@ winget install Obsidian.Obsidian
 
 ### ⚙️ Configuração Inicial
 
-1. **Crie um Vault**: Ao abrir o Obsidian pela primeira vez, escolha "Create new vault"
-2. **Selecione a Pasta**: Aponte para a pasta do projeto ou crie uma nova
+1. **Abra o Vault Existente**: Ao abrir o Obsidian pela primeira vez, escolha "Open folder as vault"
+2. **Selecione este Repositório**: Navegue até a pasta raiz deste projeto (`GemeosDigitais`)
 3. **Escolha o Tema**: Selecione entre tema claro ou escuro
 4. **Explore Plugins**: Acesse Settings → Community plugins para instalar extensões
 
