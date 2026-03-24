@@ -12,7 +12,9 @@
 
 ## 🎯 Foco do Repositório
 
-Este repositório é dedicado à **capacitação profissional** em diversas áreas da tecnologia, oferecendo material educacional estruturado e prático. O objetivo principal é fornecer um caminho de aprendizado completo, desde conceitos fundamentais até aplicações avançadas.
+Este repositório é dedicado à **capacitação profissional** em Gemeos Digitais e 5G, oferecendo material educacional estruturado e prático. O objetivo principal é fornecer um caminho de aprendizado completo, desde conceitos fundamentais até aplicações avançadas.
+
+As aulas são disponibilizadas via AVA no link: [https://gemeodigital.unicorporativa.com/](https://gemeodigital.unicorporativa.com/)
 
 ### 📚 Áreas de Capacitação
 
