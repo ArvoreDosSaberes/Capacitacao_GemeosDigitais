@@ -70,6 +70,9 @@ As aulas são disponibilizadas via AVA no link: [https://gemeodigital.unicorpora
    - Jupyter (Microsoft)
    - Python Docstring Generator (Nils Werner)
    - GitLens (GitKraken)
+   - EPubReader (Epubside)
+   - Office Reader (Cweijan)
+   - Mrkdownlint (DavidAnson)
 2. **Selecione o interpretador Python:**
 
    - Abra a paleta de comandos (`Ctrl+Shift+P`)
@@ -97,11 +100,13 @@ O **Obsidian** é uma aplicação de notas poderosa baseada em Markdown que func
 ### 📥 Download e Instalação
 
 #### 🔗 Link Oficial
+
 Baixe o Obsidian diretamente do site oficial: [https://obsidian.md/](https://obsidian.md/)
 
 #### 🐧 Instalação no Linux
 
 **Método 1: Download Direto (Recomendado)**
+
 1. Acesse [https://obsidian.md/download](https://obsidian.md/download)
 2. Baixe o arquivo `.AppImage` para Linux
 3. Torne o arquivo executável:
@@ -114,11 +119,13 @@ Baixe o Obsidian diretamente do site oficial: [https://obsidian.md/](https://obs
    ```
 
 **Método 2: Via Snap (Alternativa)**
+
 ```bash
 sudo snap install obsidian --classic
 ```
 
 **Método 3: Via Flatpak (Alternativa)**
+
 ```bash
 flatpak install flathub md.obsidian.Obsidian
 ```
@@ -126,22 +133,26 @@ flatpak install flathub md.obsidian.Obsidian
 #### 🪟 Instalação no Windows
 
 **Método 1: Download Direto (Recomendado)**
+
 1. Acesse [https://obsidian.md/download](https://obsidian.md/download)
 2. Baixe o instalador `.exe` para Windows
 3. Execute o arquivo baixado
 4. Siga o assistente de instalação (Next → Install → Finish)
 
 **Método 2: Via Microsoft Store**
+
 1. Abra a Microsoft Store
 2. Pesquise por "Obsidian"
 3. Clique em "Get" ou "Install"
 
 **Método 3: Via Chocolatey**
+
 ```powershell
 choco install obsidian
 ```
 
 **Método 4: Via Winget**
+
 ```powershell
 winget install Obsidian.Obsidian
 ```
@@ -158,7 +169,7 @@ winget install Obsidian.Obsidian
 - **Abra este repositório como vault**: Use a pasta raiz do projeto como seu vault
 - **Aproveite os links**: Navegue facilmente entre os arquivos markdown
 - **Use o Graph View**: Visualize as conexões entre os diferentes módulos
-- **Plugins recomendados**: 
+- **Plugins recomendados**:
   - `Kanban` para organização de tarefas
   - `Calendar` para planejamento
   - `Dataview` para consultas avançadas
