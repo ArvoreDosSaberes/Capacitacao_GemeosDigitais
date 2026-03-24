@@ -54,6 +54,16 @@
 
 ---
 
+## 🤖 Fundamentos de Inteligência Artificial
+
+- **[Inteligência Artificial - 6ª Edição](Livros%20e%20Apostilas/Intelig%C3%AAncia%20Artificial%20-%206%C2%B0%20Edi%C3%A7%C3%A3o%20-%20George%20Luger.pdf)** — George Luger
+  Referência clássica e abrangente sobre Inteligência Artificial que cobre desde os fundamentos históricos e filosóficos até técnicas avançadas, incluindo busca, lógica, raciocínio probabilístico, aprendizado de máquina, processamento de linguagem natural e redes neurais, com abordagens práticas e teóricas.
+
+- **[Uncertain Rule-Based Fuzzy Logic Systems](Livros%20e%20Apostilas/Uncertain%20rule%20based%20fuzzy%20logic%20systems%20-%20Desconhecido.pdf)**
+  Introdução a sistemas de lógica fuzzy baseados em regras com incerteza, abordando conjuntos fuzzy tipo-1 e tipo-2, sistemas de inferência fuzzy e suas aplicações em modelagem de sistemas complexos e tomada de decisão sob incerteza.
+
+---
+
 ## 📘 Fundamentos e Teoria de Machine Learning
 
 - **[Introduction to Machine Learning: Lecture Notes for COS 324](Livros%20e%20Apostilas/Introduction%20to%20Machine%20Learning%20Lecture%20Notes%20for%20COS%20324%20at%20Princeton%20University%20-%20Sanjeev%20Arora%2C%20Simon%20Park%2C%20Dennis%20Jacob%2C%20Danqi%20Chen.pdf)** — Sanjeev Arora, Simon Park, Dennis Jacob, Danqi Chen
