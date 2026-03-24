@@ -1,0 +1,24 @@
+# Prophet Specific Requirements
+# Install these after setting up the prophet submodule
+
+# Core Prophet
+prophet>=1.1.5
+
+# Time series specific
+pandas>=1.3.5
+numpy>=1.21.6
+scikit-learn>=1.0.0
+
+# Visualization and plotting
+matplotlib>=3.5.3
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+notebook>=6.4.0
+
+# Additional utilities
+tqdm>=4.63.2
+holidays>=0.25,<1
