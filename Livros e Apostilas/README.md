@@ -10,17 +10,26 @@
 - **[Análise de Séries Temporais](Livros%20e%20Apostilas/An%C3%A1lise%20de%20S%C3%A9ries%20Temporais%20-%20Pedro%20A.%20Morettin.pdf)** — Pedro A. Morettin
   Referência clássica em língua portuguesa que apresenta os fundamentos teóricos e métodos estatísticos para análise de séries temporais, incluindo modelos ARIMA, decomposição, análise espectral e técnicas de suavização, com exemplos aplicados a dados econômicos e financeiros brasileiros.
 
+- **[Análise de Séries Temporais](Livros%20e%20Apostilas/Analise%20de%20Series%20Temporais%20-%20Pedro%20A.%20Morettin%20%26%20Clelia%20M.%20C.%20Toloi.pdf)** — Pedro A. Morettin & Clelia M. C. Toloi
+  Versão colaborativa que expande a análise de séries temporais com abordagens complementares, combinando a expertise dos autores em estatística e métodos quantitativos para análise de dados temporais em diversas aplicações.
+
 - **[Análise Prática de Séries Temporais: Predição com Estatística e Aprendizado de Máquina](Livros%20e%20Apostilas/An%C3%A1lise%20pr%C3%A1tica%20de%20s%C3%A9ries%20temporais_%20predi%C3%A7%C3%A3o%20com%20estat%C3%ADstica%20e%20aprendizado%20de%20m%C3%A1quina%20-%20Aileen%20Nielsen.pdf)** — Aileen Nielsen
   Guia prático que combina técnicas estatísticas tradicionais com métodos de aprendizado de máquina para previsão de séries temporais, abordando desde a preparação de dados até a implementação de modelos preditivos com foco em aplicações do mundo real.
 
 - **[Machine Learning for Time Series](Livros%20e%20Apostilas/Machine%20Learning%20for%20Time%20Series%20-%20Ben%20Auffarth.pdf)** — Ben Auffarth
   Abordagem completa de técnicas de Machine Learning aplicadas a séries temporais, cobrindo desde métodos clássicos como ARIMA até redes neurais recorrentes e transformers, com implementações práticas em Python e estudos de caso detalhados.
 
+- **[Machine Learning for Time Series](Livros%20e%20Apostilas/Machine%20Learning%20for%20Time%20Series%20-%20Ben%20Auffarth.epub)** — Ben Auffarth
+  Versão em formato digital do guia completo de Machine Learning para séries temporais, mantendo toda a profundidade técnica e exemplos práticos da edição original, otimizada para leitura em dispositivos eletrônicos.
+
 - **[Modern Time Series Forecasting with Python](Livros%20e%20Apostilas/Modern%20Time%20Series%20Forecasting%20with%20Python%20-%20Manu%20Joseph.pdf)** — Manu Joseph
   Guia abrangente que explora técnicas modernas de previsão de séries temporais usando Python, incluindo modelos estatísticos, gradient boosting, deep learning e modelos foundation, com ênfase em boas práticas de engenharia e pipelines de produção.
 
 - **[Practical Time Series Analysis](Livros%20e%20Apostilas/Practical%20Time%20Series%20Analysis%20-%20Aileen%20Nielsen.pdf)** — Aileen Nielsen
   Manual prático com foco em análise de séries temporais usando Python e R, apresentando técnicas de exploração, modelagem e previsão com exemplos reais de domínios como finanças, saúde e ciências sociais.
+
+- **[Practical Time Series Analysis](Livros%20e%20Apostilas/Practical%20Time%20Series%20Analysis%20-%20Aileen%20Nielsen.epub)** — Aileen Nielsen
+  Versão digital do manual prático de análise de séries temporais, mantendo todos os exemplos e técnicas da edição original com formatação otimizada para leitura em dispositivos móveis e tablets.
 
 - **[Séries Temporais com Prophet: Análise e Previsão de Dados com Python](Livros%20e%20Apostilas/S%C3%A9ries%20temporais%20com%20Prophet_%20An%C3%A1lise%20e%20previs%C3%A3o%20de%20dados%20com%20Python%20-%20Allan%20Spadini%20e%20Valqu%C3%ADria%20Alencar.pdf)** — Allan Spadini e Valquíria Alencar
   Livro em português que ensina a utilizar o Facebook Prophet para análise e previsão de séries temporais, cobrindo desde a instalação e configuração até a modelagem de sazonalidades, feriados e eventos especiais com exemplos práticos em Python.
@@ -65,6 +74,9 @@
 - **[Machine Learning Q and AI](Livros%20e%20Apostilas/Machine%20Learning%20Q%20and%20AI%20-%20Sebastian%20Raschka%2C%20PhD.pdf)** — Sebastian Raschka
   Coleção de perguntas e respostas sobre Machine Learning e Inteligência Artificial por um dos autores mais respeitados da área, abordando tópicos avançados de forma prática e esclarecedora, ideal para consolidar conhecimentos.
 
+- **[Mathematical Analysis for Machine Learning and Data Mining](Livros%20e%20Apostilas/Mathematical%20Analysis%20for%20Machine%20Learning%20and%20Data%20Mining%20-%20Desconhecido.pdf)**
+  Texto que explora ferramentas de análise matemática aplicadas a Machine Learning e mineração de dados, incluindo teoria da medida, análise funcional e espaços de Hilbert, fornecendo base teórica para algoritmos avançados de aprendizado.
+
 - **[Principles of Machine Learning](Livros%20e%20Apostilas/Principles%20of%20Machine%20Learning%20-%20Desconhecido.pdf)**
   Texto que apresenta os princípios fundamentais de Machine Learning, incluindo teoria de aprendizado estatístico, algoritmos de classificação e regressão, e técnicas de avaliação e validação de modelos.
 
@@ -108,6 +120,9 @@
 - **[Machine Learning Solutions Architect Handbook](Livros%20e%20Apostilas/Machine%20Learning%20Solutions%20Architect%20Handbook%2C%20The%20-%20David%20Ping.pdf)** — David Ping
   Handbook completo para arquitetos de soluções de ML, cobrindo design de arquiteturas cloud-native, pipelines de dados, governança de modelos e melhores práticas para implementação de soluções de ML empresariais.
 
+- **[Machine Learning Solutions Architect Handbook](Livros%20e%20Apostilas/Machine%20Learning%20Solutions%20Architect%20Handbook%2C%20The%20-%20David%20Ping.epub)** — David Ping
+  Versão digital do handbook completo para arquitetos de soluções de ML, mantendo todo o conteúdo sobre arquiteturas cloud-native, pipelines de dados e governança com formatação otimizada para leitura em dispositivos eletrônicos.
+
 - **[Machine Learning for Engineers](Livros%20e%20Apostilas/Machine%20Learning%20for%20Engineers%20-%20Using%20Data%20to%20Solve%20--%20Ryan%20G.%20McClarren%20(auth.)%20--%20(%20WeLib.org%20).pdf)** — Ryan G. McClarren
   Introdução a Machine Learning direcionada a engenheiros, enfatizando a aplicação de técnicas de ML para resolver problemas práticos de engenharia, com exemplos de modelagem de sistemas físicos e análise de dados experimentais.
 
@@ -124,6 +139,9 @@
 - **[Mastering PyTorch](Livros%20e%20Apostilas/Mastering%20PyTorch%20-%20Ashish%20Ranjan%20Jha.pdf)** — Ashish Ranjan Jha
   Guia avançado do framework PyTorch que cobre desde operações tensoriais básicas até implementação de arquiteturas complexas como GANs, transformers e modelos de aprendizado por reforço, com técnicas de otimização e deploy.
 
+- **[Mastering PyTorch](Livros%20e%20Apostilas/Mastering%20PyTorch%20-%20Ashish%20Ranjan%20Jha.epub)** — Ashish Ranjan Jha
+  Versão digital do guia avançado de PyTorch, mantendo toda a cobertura sobre operações tensoriais, arquiteturas complexas e técnicas de deploy com otimização para leitura em dispositivos eletrônicos.
+
 - **[Siamese Neural Networks for One-shot Image Recognition](Livros%20e%20Apostilas/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recognition%20-%20Gregory%20Koch%2C%20Richard%20Zemel%2C%20Ruslan%20Salakhutdinov.pdf)** — Gregory Koch, Richard Zemel & Ruslan Salakhutdinov
   Artigo seminal que propõe o uso de redes neurais siamesas para reconhecimento de imagens com poucos exemplos (one-shot learning), demonstrando como aprender métricas de similaridade para classificação com dados limitados.
 
@@ -132,7 +150,7 @@
 
 ---
 
-## 📐 Matemática e Estatística para Machine Learning
+## � Matemática e Estatística para Machine Learning
 
 - **[Mathematics for Machine Learning](Livros%20e%20Apostilas/Mathematics%20for%20Machine%20Learning%20-%20Marc%20Peter%20Deisenroth%2C%20A.%20Aldo%20Faisal%2C%20Cheng%20Soon%20Ong.pdf)** — Marc Peter Deisenroth, A. Aldo Faisal & Cheng Soon Ong
   Texto fundamental que apresenta a matemática essencial para compreender Machine Learning, incluindo álgebra linear, geometria analítica, decomposição matricial, probabilidade, otimização e suas conexões diretas com algoritmos de ML.
@@ -149,8 +167,14 @@
 - **[Essential Math for Data Science](Livros%20e%20Apostilas/Essential%20Math%20for%20Data%20Science%20-%20Thomas%20Nield.pdf)** — Thomas Nield
   Guia acessível que cobre a matemática essencial para Data Science, incluindo estatística descritiva e inferencial, álgebra linear, cálculo e probabilidade, com exemplos práticos em Python para profissionais que desejam solidificar seus fundamentos.
 
+- **[Essential Math for Data Science](Livros%20e%20Apostilas/Essential%20Math%20for%20Data%20Science%20-%20Thomas%20Nield.epub)** — Thomas Nield
+  Versão em formato digital do guia de matemática essencial para Data Science, mantendo todos os conceitos e exemplos práticos da edição original com otimização para leitura em dispositivos eletrônicos.
+
 - **[Mathematical Analysis for Machine Learning and Data Mining](Livros%20e%20Apostilas/Mathematical%20Analysis%20for%20Machine%20Learning%20and%20Data%20Mining%20-%20Desconhecido.pdf)**
   Texto que explora ferramentas de análise matemática aplicadas a Machine Learning e mineração de dados, incluindo teoria da medida, análise funcional e espaços de Hilbert, fornecendo base teórica para algoritmos avançados de aprendizado.
+
+- **[Elementos de Amostragem](Livros%20e%20Apostilas/Elementos%20de%20Amostragem%20-%20Heleno%20Bolfarine%20%26%20Wilton%20Oliveira%20Bussab.pdf)** — Heleno Bolfarine & Wilton Oliveira Bussab
+  Fundamentos de técnicas de amostragem estatística, cobrindo métodos probabilísticos, determinação de tamanho amostral, estratificação e aplicações práticas em pesquisas e estudos quantitativos, essencial para coleta e análise de dados em Machine Learning.
 
 - **[Mathematical Analysis of Machine Learning Algorithms](Livros%20e%20Apostilas/Mathematical%20Analysis%20of%20Machine%20Learning%20Algorithms%20-%20Tong%20Zhang.pdf)** — Tong Zhang
   Análise matemática rigorosa dos algoritmos de Machine Learning, cobrindo teoria de generalização, complexidade computacional, métodos de regularização e convergência de algoritmos de otimização usados em aprendizado de máquina.
@@ -160,7 +184,7 @@
 
 ---
 
-## 🐍 Programação Python para Machine Learning
+## �🐍 Programação Python para Machine Learning
 
 - **[AI and Machine Learning for Coders](Livros%20e%20Apostilas/Ai%20and%20Machine%20Learning%20for%20Coders%20-%20A%20programer%27s%20Guide%20to%20Artifical%20Intelgience%20-%20Laurence%20Moroney.pdf)** — Laurence Moroney
   Guia prático de Laurence Moroney (Google) que ensina programadores a construir modelos de IA e ML usando TensorFlow e Keras, com exemplos hands-on de visão computacional, processamento de texto e séries temporais.
@@ -220,21 +244,26 @@
 - **[Machine Learning Applications in Electronic Design Automation](Livros%20e%20Apostilas/Machine%20Learning%20Applications%20in%20Electronic%20Design%20Automation%20-%20Haoxing%20Ren%20%26%20Jiang%20Hu.pdf)** — Haoxing Ren & Jiang Hu
   Exploração de aplicações de ML na automação de design eletrônico (EDA), incluindo otimização de layout de circuitos, predição de timing, roteamento e verificação, demonstrando como IA está transformando o design de semicondutores.
 
+- **[Machine Learning Applications in Electronic Design Automation](Livros%20e%20Apostilas/Machine%20Learning%20Applications%20in%20Electronic%20Design%20Automation%20-%20Haoxing%20Ren%20%26%20Jiang%20Hu.epub)** — Haoxing Ren & Jiang Hu
+  Versão digital da exploração de aplicações de ML em automação de design eletrônico, mantendo toda a cobertura sobre otimização de layout, predição de timing e verificação com formatação otimizada para leitura em dispositivos eletrônicos.
+
 - **[Machine Learning Methods for Signal, Image and Speech Processing](Livros%20e%20Apostilas/Machine%20Learning%20Methods%20for%20Signal%2C%20Image%20and%20Speech%20Processing%20-%20Jabbar%2C%20M.%20A.%3BKantipudi%2C%20M.%20V.%20V.%20Prasad%3BPeng%2C%20Sheng-Lung%3B.pdf)** — M. A. Jabbar, M. V. V. Prasad Kantipudi & Sheng-Lung Peng
   Coletânea de métodos de ML aplicados a processamento de sinais, imagens e fala, abordando técnicas de classificação, segmentação, reconhecimento de padrões e deep learning para aplicações multimídia.
 
 - **[Machine Learning and Generative AI for Marketing](Livros%20e%20Apostilas/Machine%20Learning%20and%20Generative%20AI%20for%20Marketing%20-%20Yoon%20Hyup%20Hwang.epub)** — Yoon Hyup Hwang
   Aplicação de ML e IA generativa ao marketing, cobrindo segmentação de clientes, personalização, previsão de churn, otimização de campanhas e uso de modelos generativos para criação de conteúdo e estratégias de marketing.
 
-- **[Machine Learning, AI Approach to Institutional Effectiveness in Higher Education](Livros%20e%20Apostilas/Machine%20Learning%2C%20Artificial%20Intelligence%20Approach%20to%20Institutional%20Effectiveness%20in%20Higher%20Education%2C%20A%20-%20Moye%2C%20John%20N.%3B.pdf)** — John N. Moye
+- **[Machine Learning, Artificial Intelligence Approach to Institutional Effectiveness in Higher Education](Livros%20e%20Apostilas/Machine%20Learning%2C%20Artificial%20Intelligence%20Approach%20to%20Institutional%20Effectiveness%20in%20Higher%20Education%2C%20A%20-%20Moye%2C%20John%20N.%3B.pdf)** — John N. Moye
   Análise de como ML e IA podem melhorar a eficácia institucional no ensino superior, abordando predição de evasão, análise de desempenho acadêmico e otimização de processos educacionais com técnicas de aprendizado de máquina.
+
+- **[Machine Learning, Artificial Intelligence Approach to Institutional Effectiveness in Higher Education](Livros%20e%20Apostilas/Machine%20Learning%2C%20Artificial%20Intelligence%20Approach%20to%20Institutional%20Effectiveness%20in%20Higher%20Education%2C%20A%20-%20Moye%2C%20John%20N.%3B.epub)** — John N. Moye
+  Versão digital da análise sobre aplicações de ML e IA no ensino superior, mantendo toda a cobertura sobre predição de evasão, análise de desempenho e otimização educacional com formatação otimizada para leitura em dispositivos eletrônicos.
 
 - **[Graph Machine Learning](Livros%20e%20Apostilas/Graph%20machine%20learning%20-%20take%20graph%20data%20to%20the%20next%20level%20--%20Claudio%20Stamile%2C%20Aldo%20Marzullo%2C%20Enrico%20Deusebio%20--%20(%20WeLib.org%20).pdf)** — Claudio Stamile, Aldo Marzullo & Enrico Deusebio
   Guia prático sobre aprendizado de máquina em dados de grafos, cobrindo redes neurais em grafos (GNNs), graph embeddings, detecção de comunidades e aplicações em redes sociais, bioinformática e sistemas de recomendação.
 
 - **[Time and Relational Theory: Temporal Databases in the Relational Model and SQL](Livros%20e%20Apostilas/Time%20and%20Relational%20Theory_%20Temporal%20Databases%20in%20the%20Relational%20Model%20and%20SQL%20-%20Date%2C%20C.J.%2C%20Darwen%2C%20Hugh%2C%20Lorentzos%2C%20Nikos%20%26%20Hugh%20Darwen%20%26%20Nikos%20A.%20Lorentzos.epub)** — C.J. Date, Hugh Darwen & Nikos A. Lorentzos
   Tratado sobre teoria relacional aplicada a bancos de dados temporais, explorando como modelar e consultar dados com dimensão temporal usando o modelo relacional e SQL, essencial para sistemas que lidam com dados históricos e versionamento.
-
 ---
 
 ## 📁 Subpastas
