@@ -1,0 +1,10 @@
+As melhores práticas de governança de IA envolvem uma abordagem além da simples conformidade, abrangendo um sistema mais robusto para monitoramento e gerenciamento de aplicações de IA. Para empresas de nível empresarial, a solução de governança de IA deve possibilitar uma supervisão ampla e controle sobre os sistemas de IA. Este é um exemplo de roteiro a ser considerado:
+
+1. **Dashboard visual:** use um dashboard que forneça atualizações em tempo real sobre a integridade e o status dos sistemas de IA, oferecendo uma visão geral clara para avaliações rápidas.
+2. **Métricas de pontuação de integridade:** implemente uma pontuação de integridade geral para modelos de IA usando métricas intuitivas e fáceis de entender para simplificar o monitoramento.
+3. **Monitoramento automatizado:** empregue sistemas de detecção automática de viés, desvio, desempenho e anomalias, para ajudar a garantir que os modelos funcionem de forma correta e ética.
+4. **Alertas de desempenho:** configure alertas para quando um modelo se desviar de seus parâmetros de desempenho predefinidos, permitindo intervenções oportunas.
+5. **Métricas personalizadas:** defina métricas personalizadas que se alinhem aos indicadores-chave de desempenho (KPIs) e aos limites da organização, para ajudar a garantir que os resultados da IA contribuam para os objetivos de negócios.
+6. **Trilhas de auditoria:** mantenha registros e trilhas de auditoria facilmente acessíveis para fins de responsabilização e para facilitar avaliações das decisões e comportamentos dos sistemas de IA.
+7. **Compatibilidade com ferramentas de código aberto:** escolha ferramentas de [código aberto](https://www.ibm.com/br-pt/think/topics/open-source) compatíveis com várias plataformas de desenvolvimento de aprendizado de máquina para se beneficiar da flexibilidade e do suporte da comunidade.
+8. **Integração sem dificuldades:** ajuda a garantir que a plataforma de governança de IA [se integre](https://www.ibm.com/br-pt/think/topics/application-integration) perfeitamente à infraestrutura existente, incluindo bancos de dados e ecossistemas de software, para evitar silos e permitir fluxos de trabalho eficientes.

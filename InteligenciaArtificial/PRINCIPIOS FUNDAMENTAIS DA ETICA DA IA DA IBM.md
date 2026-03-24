@@ -1,0 +1,5 @@
+A IBM tem três princípios fundamentais que ditam sua abordagem aos dados e ao desenvolvimento de IA, que são:
+
+1. **O objetivo da IA é ampliar a inteligência humana.** Isso significa que não buscamos substituir a inteligência humana pela IA, mas sim apoiá-la. Como toda nova inovação tecnológica envolve mudanças na oferta e demanda de determinadas funções de trabalho, a IBM está comprometida em apoiar os trabalhadores nessa transição, investindo em iniciativas globais para promover o treinamento de habilidades relacionadas a essa tecnologia.
+2. **Os dados e insights pertencem a seus criadores.** Os clientes da IBM podem ter a certeza de que eles, e apenas eles, são proprietários de seus dados. A IBM não forneceu, nem fornecerá, acesso governamental aos dados dos clientes para qualquer programa de vigilância, e continua comprometida em proteger a privacidade de seus clientes.
+3. **Sistemas de IA devem ser transparentes e explicáveis.** A IBM acredita que as empresas de tecnologia precisam ser claras sobre quem treina seus sistemas de IA, quais dados foram usados nesse treinamento e, o mais importante, o que foi incluído nas recomendações dos seus algoritmos.

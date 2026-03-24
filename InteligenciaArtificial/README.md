@@ -61,7 +61,13 @@ InteligenciaArtificial/
 ├── Aula_1_notebook_ml_churn_colab.ipynb       # Notebook prático principal
 ├── test_notebook.py                           # Scripts de teste e validação
 ├── Teoria-Aprendizado-de-Maquina-Conceitos-Fundamentais-e-Tipos-de-Modelos.pdf  # Material teórico
-└── Pratica-construindo-um-modelo-de-aprendizado-de-maquina.pdf  # Guia prático
+├── Pratica-construindo-um-modelo-de-aprendizado-de-maquina.pdf  # Guia prático
+├── PRINCIPIOS FUNDAMENTAIS DA ETICA DA IA DA IBM.md  # Princípios éticos da IBM
+├── PRINCIPAIS PRINCIPIOS PARA ETICA DA IA.md         # Princípios do Relatório Belmont
+├── PRINCIPAIS PREOCUPAÇÕES DA IA HOJE.md              # Preocupações atuais em IA
+├── ORGANIZAÇÕES QUE PROMOVEM ETICA EM IA.md           # Organizações de ética em IA
+├── GOVERNANCA.md                                      # Governança de IA
+└── CINCO PILARES PARA GUIAR A ADOÇÃO DE TECNOLOGIAS LIGADAS A IA DA IBM.md  # Pilares IBM
 ```
 
 ## 📚 Material Didático
@@ -564,6 +570,27 @@ Os materiais em formato PDF disponibilizados neste módulo são **propriedade in
 ### 🎓 Finalidade Educacional
 
 Estes materiais foram compartilhados com propósito estritamente educacional para apoiar o aprendizado dos participantes do programa de capacitação. O uso indevido pode violar direitos autorais e as políticas institucionais da UniFacens.
+
+---
+
+## ⚖️ Ética e Governança em IA
+
+Este módulo inclui materiais complementares sobre ética, governança e responsabilidade no desenvolvimento e uso de Inteligência Artificial.
+
+### Princípios Éticos
+
+- **[Princípios Fundamentais da Ética da IA da IBM](PRINCIPIOS%20FUNDAMENTAIS%20DA%20ETICA%20DA%20IA%20DA%20IBM.md)** — Os três princípios que orientam a abordagem da IBM: ampliar a inteligência humana, propriedade dos dados e transparência dos sistemas.
+- **[Principais Princípios para Ética da IA](PRINCIPAIS%20PRINCIPIOS%20PARA%20ETICA%20DA%20IA.md)** — Princípios derivados do Relatório Belmont: respeito pelas pessoas, beneficência e justiça.
+- **[Cinco Pilares para Guiar a Adoção de Tecnologias Ligadas a IA da IBM](CINCO%20PILARES%20PARA%20GUIAR%20A%20ADO%C3%87%C3%83O%20DE%20TECNOLOGIAS%20LIGADAS%20A%20IA%20DA%20IBM.md)** — Explicabilidade, imparcialidade, robustez, transparência e privacidade.
+
+### Preocupações e Desafios
+
+- **[Principais Preocupações da IA Hoje](PRINCIPAIS%20PREOCUPA%C3%87%C3%95ES%20DA%20IA%20HOJE.md)** — IA generativa, singularidade tecnológica, impacto nos empregos, privacidade, preconceito e prestação de contas.
+
+### Governança e Organizações
+
+- **[Governança de IA](GOVERNANCA.md)** — Melhores práticas de governança: dashboards, métricas, monitoramento automatizado, alertas e trilhas de auditoria.
+- **[Organizações que Promovem Ética em IA](ORGANIZA%C3%87%C3%95ES%20QUE%20PROMOVEM%20ETICA%20EM%20IA.md)** — AlgorithmWatch, AI Now Institute, DARPA, CHAI e NASCAI.
 
 ---
 
