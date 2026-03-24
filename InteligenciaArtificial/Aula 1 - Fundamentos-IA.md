@@ -490,7 +490,43 @@ O professor usa um exemplo prático de análise de crédito:
 
 ---
 
-## 13. Conclusão
+## 13. Sugestões de Leitura — Artigos IBM Think
+
+Os artigos a seguir, publicados pela IBM na série *Think Topics*, complementam os temas de ética, responsabilidade e governança discutidos nesta aula. São leituras acessíveis e em português que ajudam a contextualizar o papel social e regulatório da Inteligência Artificial.
+
+### 13.1 O que é IA Generativa?
+
+> **Link**: <https://www.ibm.com/br-pt/think/topics/generative-ai>
+
+A IA generativa é a inteligência artificial capaz de criar conteúdo original — texto, imagens, vídeo, áudio ou código — em resposta a uma solicitação do usuário. Baseada em modelos de *deep learning* (como *Transformers*, GANs e VAEs), ela identifica padrões em grandes volumes de dados e gera novas saídas relevantes. O artigo percorre o funcionamento em três fases (treinamento, ajuste e geração), apresenta as principais arquiteturas, enumera benefícios para negócios e criatividade, e discute desafios críticos como alucinações, viés, falta de explicabilidade, deepfakes e riscos à privacidade. É uma leitura essencial para compreender a tecnologia por trás de ferramentas como o ChatGPT, mencionado diversas vezes nesta aula.
+
+### 13.2 O que é IA Responsável?
+
+> **Link**: <https://www.ibm.com/br-pt/think/topics/responsible-ai>
+
+IA responsável é o conjunto de princípios que orienta o projeto, desenvolvimento, implantação e uso de sistemas de IA de forma confiável. O artigo apresenta os **Pilares da Confiança**: explicabilidade, justiça, robustez, transparência e privacidade. Também detalha passos práticos de implementação — desde a definição de princípios éticos e a educação das equipes até a integração da ética em todo o ciclo de vida do desenvolvimento e a facilitação da supervisão humana. A leitura complementa diretamente a seção 7 desta aula, que aborda limitações, vieses e a necessidade de supervisão humana na IA.
+
+### 13.3 O que é Governança de IA?
+
+> **Link**: <https://www.ibm.com/br-pt/think/topics/ai-governance>
+
+Governança de IA refere-se aos processos, padrões e proteções que garantem que sistemas de IA sejam seguros, éticos e respeitem os direitos humanos. O artigo explica por que a governança é importante, apresenta exemplos reais de frameworks de governança, discute os diferentes níveis de governança (organizacional, setorial e regulatório) e detalha regulamentações internacionais, incluindo a Lei de IA da UE, a SR-11-7 dos EUA e diretrizes da região Ásia-Pacífico. Para quem trabalha com IA em ambientes corporativos ou de pesquisa, entender governança é fundamental para mitigar riscos de viés, violação de privacidade e uso indevido.
+
+### 13.4 O que é IA Ética?
+
+> **Link**: <https://www.ibm.com/br-pt/think/topics/ai-ethics>
+
+Ética da IA é um campo multidisciplinar que estuda como otimizar o impacto benéfico da inteligência artificial enquanto reduz riscos e resultados adversos. O artigo aborda questões centrais como responsabilidade e privacidade de dados, imparcialidade, explicabilidade, transparência, sustentabilidade ambiental e alinhamento de valores. Apresenta os três princípios do *Relatório Belmont* — respeito pelas pessoas, beneficência e justiça — como guias para o projeto de algoritmos e experimentos. Também discute preocupações contemporâneas como modelos de base, IA generativa, singularidade tecnológica e o impacto da IA nos empregos. Leitura obrigatória para quem busca entender o "porquê" por trás das travas e limitações impostas aos modelos de IA, tema discutido na seção 7.4 desta aula.
+
+### 13.5 O que é a Lei de Inteligência Artificial da União Europeia?
+
+> **Link**: <https://www.ibm.com/br-pt/think/topics/eu-ai-act>
+
+A Lei de IA da UE (*EU AI Act*) é considerada o primeiro framework regulatório abrangente do mundo para inteligência artificial. Adota uma abordagem baseada em riscos, classificando sistemas de IA em diferentes categorias — desde práticas proibidas (como *scoring* social) até aplicações de alto risco que exigem requisitos rigorosos de transparência e gestão de riscos. O artigo detalha a quem a lei se aplica (inclusive fora da UE), os padrões para IA de alto risco, as regras para modelos de uso geral (GPAI) e as penalidades por não conformidade, que podem chegar a 7% do faturamento anual global. Assim como o GDPR inspirou legislações de privacidade ao redor do mundo, espera-se que a Lei de IA da UE estimule o desenvolvimento de regulamentações de IA em outros países — incluindo o Brasil.
+
+---
+
+## 14. Conclusão
 
 Esta aula estabeleceu os fundamentos essenciais de Inteligência Artificial, partindo do princípio que **"sempre que a gente for tratar a IA ou utilizar inteligência, lembra que tem inteligência ali antes do artificial"**. O professor enfatizou que:
 
