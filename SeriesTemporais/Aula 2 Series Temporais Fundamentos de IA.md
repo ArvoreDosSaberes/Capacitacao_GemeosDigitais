@@ -816,12 +816,12 @@ forecast = model.predict(future)
 
 ### 17.1 Métricas de Avaliação
 
-| Métrica | Fórmula | Interpretação | Quando Usar |
-|---|---|---|---|
-| **MAE** | Σ|y-ŷ|/n | Erro médio absoluto | Geral, interpretação fácil |
-| **RMSE** | √(Σ(y-ŷ)²/n) | Erro quadrático médio | Penaliza erros grandes |
-| **MAPE** | Σ|y-ŷ|/y / n | Erro percentual médio | Comparar séries diferentes |
-| **sMAPE** | Σ|y-ŷ|/(|y|+|ŷ|)/2n | Symmetric MAPE | Séries com zeros |
+| Métrica   | Fórmula      | Interpretação         | Quando Usar            |                       |                            |     |      |                |                  |
+| --------- | ------------ | --------------------- | ---------------------- | --------------------- | -------------------------- | --- | ---- | -------------- | ---------------- |
+| **MAE**   | Σ            | y-ŷ                   | /n                     | Erro médio absoluto   | Geral, interpretação fácil |     |      |                |                  |
+| **RMSE**  | √(Σ(y-ŷ)²/n) | Erro quadrático médio | Penaliza erros grandes |                       |                            |     |      |                |                  |
+| **MAPE**  | Σ            | y-ŷ                   | /y / n                 | Erro percentual médio | Comparar séries diferentes |     |      |                |                  |
+| **sMAPE** | Σ            | y-ŷ                   | /(                     | y                     | +                          | ŷ   | )/2n | Symmetric MAPE | Séries com zeros |
 
 ### 17.2 Validação Cruzada para Séries Temporais
 
