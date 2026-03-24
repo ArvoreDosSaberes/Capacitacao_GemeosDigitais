@@ -31,6 +31,18 @@
 - **[TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting](Livros%20e%20Apostilas/TSMixer_%20Lightweight%20MLP-Mixer%20Model%20for%20Multivariate%20Time%20Series%20Forecasting%20-%202306.09364v4.pdf)** — Paper Acadêmico
   Artigo científico que apresenta o TSMixer, uma arquitetura leve baseada em MLP-Mixer para previsão de séries temporais multivariadas, demonstrando resultados competitivos com modelos mais complexos enquanto mantém eficiência computacional significativamente superior.
 
+- **[Mastering Time Series Analysis and Forecasting with Python](Livros%20e%20Apostilas/Mastering%20Time%20Series%20Analysis%20and%20Forecasting%20with%20Python_%20Bridging%20Theory%20and%20Practice%20Through%20Insights%2C%20Techniques%2C%20and%20Tools%20for%20Effective%20Time%20Series%20Analysis%20in%20Python%20-%20Sulekha%20Aloorravi.epub)** — Sulekha Aloorravi
+  Guia completo que conecta teoria e prática na análise e previsão de séries temporais com Python, apresentando técnicas, insights e ferramentas para análise eficaz, desde fundamentos estatísticos até métodos avançados de modelagem.
+
+- **[Time Series Analysis](Livros%20e%20Apostilas/Time%20Series%20Analysis%20-%20Alexander%20Aue.pdf)** — Alexander Aue
+  Texto acadêmico sobre análise de séries temporais que cobre fundamentos teóricos, modelos estocásticos e métodos de estimação, fornecendo uma base sólida para a compreensão e aplicação de técnicas de análise temporal.
+
+- **[Time Series Analysis: Theory, Data Analysis and Computation](Livros%20e%20Apostilas/Time%20Series%20Analysis_%20Theory%2C%20Data%20Analysis%20and%20Computation%20-%20Edward%20J.%20Wegman.pdf)** — Edward J. Wegman
+  Obra que integra teoria, análise de dados e computação aplicadas a séries temporais, abordando métodos estatísticos, análise espectral e técnicas computacionais para processamento e interpretação de dados temporais.
+
+- **[Time-Series Analysis and Inverse Theory for Geophysicists](Livros%20e%20Apostilas/Time-Series%20Analysis%20and%20Inverse%20Theory%20for%20Geophysicists%20-%20David%20Gubbins.pdf)** — David Gubbins
+  Referência em análise de séries temporais e teoria inversa voltada para geofísica, cobrindo análise espectral, filtragem, correlação e métodos de inversão com aplicações em sismologia, geomagnetismo e outras ciências da Terra.
+
 ---
 
 ## 📘 Fundamentos e Teoria de Machine Learning
@@ -99,6 +111,9 @@
 - **[Machine Learning for Engineers](Livros%20e%20Apostilas/Machine%20Learning%20for%20Engineers%20-%20Using%20Data%20to%20Solve%20--%20Ryan%20G.%20McClarren%20(auth.)%20--%20(%20WeLib.org%20).pdf)** — Ryan G. McClarren
   Introdução a Machine Learning direcionada a engenheiros, enfatizando a aplicação de técnicas de ML para resolver problemas práticos de engenharia, com exemplos de modelagem de sistemas físicos e análise de dados experimentais.
 
+- **[Machine Learning With Go](Livros%20e%20Apostilas/Machine%20Learning%20With%20Go_%20Implementing%20Regression%2C%20Classification%2C%20Clustering%2C%20Time-series%20Models%2C%20Neural%20Networks%2C%20and%20More%20using%20the%20Go%20Programming%20Language%20-%20Daniel%20Whitenack.pdf)** — Daniel Whitenack
+  Guia prático para implementação de Machine Learning usando a linguagem Go, cobrindo regressão, classificação, clustering, modelos de séries temporais e redes neurais, demonstrando como construir soluções de ML com alto desempenho e concorrência nativa.
+
 ---
 
 ## 🧠 Deep Learning e Redes Neurais
@@ -111,6 +126,9 @@
 
 - **[Siamese Neural Networks for One-shot Image Recognition](Livros%20e%20Apostilas/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recognition%20-%20Gregory%20Koch%2C%20Richard%20Zemel%2C%20Ruslan%20Salakhutdinov.pdf)** — Gregory Koch, Richard Zemel & Ruslan Salakhutdinov
   Artigo seminal que propõe o uso de redes neurais siamesas para reconhecimento de imagens com poucos exemplos (one-shot learning), demonstrando como aprender métricas de similaridade para classificação com dados limitados.
+
+- **[Deep Learning in Python Prerequisites: Master Data Science and Machine Learning with Linear Regression and Logistic Regression in Python](Livros%20e%20Apostilas/Deep%20Learning%20in%20Python%20Prerequisites_%20Master%20Data%20Science%20and%20Machine%20Learning%20with%20Linear%20Regression%20and%20Logistic%20Regression%20in%20Python%20(Machine%20Learning%20in%20Python)%20-%20LazyProgrammer.pdf)** — LazyProgrammer
+  Pré-requisitos essenciais para deep learning em Python, cobrindo regressão linear e logística como fundamentos para ciência de dados e aprendizado de máquina, fornecendo a base necessária para avançar em técnicas de deep learning.
 
 ---
 
@@ -216,6 +234,12 @@
 
 - **[Time and Relational Theory: Temporal Databases in the Relational Model and SQL](Livros%20e%20Apostilas/Time%20and%20Relational%20Theory_%20Temporal%20Databases%20in%20the%20Relational%20Model%20and%20SQL%20-%20Date%2C%20C.J.%2C%20Darwen%2C%20Hugh%2C%20Lorentzos%2C%20Nikos%20%26%20Hugh%20Darwen%20%26%20Nikos%20A.%20Lorentzos.epub)** — C.J. Date, Hugh Darwen & Nikos A. Lorentzos
   Tratado sobre teoria relacional aplicada a bancos de dados temporais, explorando como modelar e consultar dados com dimensão temporal usando o modelo relacional e SQL, essencial para sistemas que lidam com dados históricos e versionamento.
+
+---
+
+## 📁 Subpastas
+
+- **[Cheat Sheet](Livros%20e%20Apostilas/Cheat%20Sheet/)** — Subpasta destinada a folhas de referência rápida (cheat sheets) sobre tópicos de Machine Learning, programação e ferramentas utilizadas no curso.
 
 ---
 
