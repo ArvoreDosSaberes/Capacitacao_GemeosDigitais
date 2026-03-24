@@ -22,16 +22,6 @@ Este repositório é dedicado à **capacitação profissional** em diversas áre
 - **Desenvolvimento de Software**: Boas práticas e padrões modernos
 - **Ciência de Dados**: Fluxos completos de trabalho e estudos de caso
 
-### 📖 Biblioteca Complementar
-
-- **[Livros e Apostilas](Livros e Apostilas/)**: Coleção de livros especializados em séries temporais e machine learning
-  - *Machine Learning for Time Series* - Ben Auffarth
-  - *Practical Time Series Analysis* - Aileen Nielsen
-  - *Time Series a Data Analysis Approach Using R* - Robert H. Shumway
-  - *TSMixer: Lightweight MLP-Mixer Model* - Paper acadêmico
-
-Cada área de capacitação está organizada em sua própria pasta, com material específico e exemplos práticos.
-
 ## 🚀 Como Usar com VSCode/Windsurf
 
 ### Pré-requisitos
@@ -210,7 +200,7 @@ code ttm_getting_started.ipynb
 
 ### 📚 Bibliografia Recomendada
 
-Consulte a **[Bibliografia Completa](BIBLIOGRAFIA.md)** com todos os livros organizados por área de conhecimento, incluindo resumos detalhados de cada obra.
+Consulte a **[Bibliografia Completa](./Livros%20e%20Apostilas/README.md.md)** com todos os livros organizados por área de conhecimento, incluindo resumos detalhados de cada obra.
 
 ## 🤝 Contribuição
 
