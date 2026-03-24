@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "1c4cdfc7a87159d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "038705de1fb20c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fd4cf5eeaed8a88",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Livros e Apostilas/Análise de Séries Temporais - Pedro A. Morettin.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Análise de Séries Temporais - Pedro A. Morettin"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ad2a7bc30424dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "85f2f80fd2785b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ccd1ed02547638",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "2481ee0f370f64f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f15548bc1971d5ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d37c7976ae58ad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fba41ed1fb4c49b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "071cb2250235b7db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "20abb76af3e9d3bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "7c9572d70b54f64f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "75808f859f886745",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "bb11f1463437c95d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "0fd4cf5eeaed8a88",
+  "lastOpenFiles": [
+    "SeriesTemporais/Aula 2 Series Temporais Fundamentos de IA.md",
+    "README.md",
+    "Livros e Apostilas/README.md",
+    "Livros e Apostilas/Análise prática de séries temporais_ predição com estatística e aprendizado de máquina - Aileen Nielsen.pdf",
+    "Livros e Apostilas/Análise de Séries Temporais - Pedro A. Morettin.pdf",
+    "Livros e Apostilas/Quality Assessment and Security in Industrial Internet of Things - Sudan Jha %26 Sarbagya Ratna Shakya %26 Sultan Ahmad %26 Zhaoxian Zhou.pdf.md",
+    "Livros e Apostilas/Mastering Time Series Analysis and Forecasting with Python_ Bridging Theory and Practice Through Insights%2C Techniques%2C and Tools for Effective Time Series Analysis in Python - Sulekha Aloorravi.pdf.md",
+    "Bem-vindo.md"
+  ]
+}

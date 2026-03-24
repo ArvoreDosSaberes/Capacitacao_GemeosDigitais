@@ -88,7 +88,82 @@ As aulas são disponibilizadas via AVA no link: [https://gemeodigital.unicorpora
 - **Chat integrado**: Use o chat para tirar dúvidas sobre os conceitos
 - **Debug visual**: Aproveite as ferramentas de visualização de dados integradas
 
-## 📁 Estrutura do Projeto
+## � Como Usar com Obsidian
+
+### O que é o Obsidian?
+
+O **Obsidian** é uma aplicação de notas poderosa baseada em Markdown que funciona com arquivos locais. É ideal para organizar conhecimento, criar mapas mentais conectados e manter uma base de conhecimento pessoal estruturada.
+
+### 📥 Download e Instalação
+
+#### 🔗 Link Oficial
+Baixe o Obsidian diretamente do site oficial: [https://obsidian.md/](https://obsidian.md/)
+
+#### 🐧 Instalação no Linux
+
+**Método 1: Download Direto (Recomendado)**
+1. Acesse [https://obsidian.md/download](https://obsidian.md/download)
+2. Baixe o arquivo `.AppImage` para Linux
+3. Torne o arquivo executável:
+   ```bash
+   chmod +x Obsidian-*.AppImage
+   ```
+4. Execute o aplicativo:
+   ```bash
+   ./Obsidian-*.AppImage
+   ```
+
+**Método 2: Via Snap (Alternativa)**
+```bash
+sudo snap install obsidian --classic
+```
+
+**Método 3: Via Flatpak (Alternativa)**
+```bash
+flatpak install flathub md.obsidian.Obsidian
+```
+
+#### 🪟 Instalação no Windows
+
+**Método 1: Download Direto (Recomendado)**
+1. Acesse [https://obsidian.md/download](https://obsidian.md/download)
+2. Baixe o instalador `.exe` para Windows
+3. Execute o arquivo baixado
+4. Siga o assistente de instalação (Next → Install → Finish)
+
+**Método 2: Via Microsoft Store**
+1. Abra a Microsoft Store
+2. Pesquise por "Obsidian"
+3. Clique em "Get" ou "Install"
+
+**Método 3: Via Chocolatey**
+```powershell
+choco install obsidian
+```
+
+**Método 4: Via Winget**
+```powershell
+winget install Obsidian.Obsidian
+```
+
+### ⚙️ Configuração Inicial
+
+1. **Crie um Vault**: Ao abrir o Obsidian pela primeira vez, escolha "Create new vault"
+2. **Selecione a Pasta**: Aponte para a pasta do projeto ou crie uma nova
+3. **Escolha o Tema**: Selecione entre tema claro ou escuro
+4. **Explore Plugins**: Acesse Settings → Community plugins para instalar extensões
+
+### 🚀 Dicas para Uso com Este Projeto
+
+- **Abra este repositório como vault**: Use a pasta raiz do projeto como seu vault
+- **Aproveite os links**: Navegue facilmente entre os arquivos markdown
+- **Use o Graph View**: Visualize as conexões entre os diferentes módulos
+- **Plugins recomendados**: 
+  - `Kanban` para organização de tarefas
+  - `Calendar` para planejamento
+  - `Dataview` para consultas avançadas
+
+## �📁 Estrutura do Projeto
 
 ```text
 GemeosDigitais/
