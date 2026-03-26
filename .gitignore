@@ -1,2 +1,4 @@
 .venv
 GemeosDigitais.code-workspace
+.vtt_processing_state.json
+.env
