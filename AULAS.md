@@ -11,11 +11,11 @@
 
 ## Aula de Abertura
 
-[Aula de Abertura](https://facens-my.sharepoint.com/personal/roberto_netto_facens_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Froberto%5Fnetto%5Ffacens%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FRecep%C3%A7%C3%A3o%20do%20curso%20%2D%20Resid%C3%AAncia%20Tecnol%C3%B3gica%20em%20G%C3%AAmeo%20Digital%20e%205G%2D20260309%5F175821%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7678c39e%2D20a2%2D4b35%2D8543%2Dd2527de010c0)
+[Aula de Abertura](https://facens-my.sharepoint.com/:v:/g/personal/roberto_netto_facens_br/IQAjSXZC9FTvQb6GkwK1bt7KAdcrI3q-3a35LMlT5-ofmz8?e=2iVNdv)
 
 ## Aula 1 - Fundamentos da Inteligência Artificial
 
-[Aula 1](https://facens-my.sharepoint.com/personal/felipe_fengler_facens_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffelipe%5Ffengler%5Ffacens%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FAula%201%20%2D%20Fundamentos%20da%20Intelig%C3%AAncia%20Artificial%2D20260314%5F090323%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E68bc5b0b%2D4a7b%2D43e7%2D9039%2Df7cf8ed8018c)
+[Aula 1](https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQD1ijw2mKukSatsiwTa_8TkAfOCl7vuTBtxh_5OkGYvlD0?e=Lt4g4k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 📁 Materiais de Apoio - Aula 1
 
@@ -30,7 +30,7 @@
 
 ## SeriesTemporais e Fundamentos de IA
 
-[Aula 2](https://facens-my.sharepoint.com/personal/felipe_fengler_facens_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffelipe%5Ffengler%5Ffacens%5Fbr%2FDocuments%2FGrava%C3%A7%C3%B5es%2FAula%202%20%2D%20S%C3%A9ries%20Temporais%20e%20Fundamentos%20de%20IA%2D20260321%5F090335%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5d9b9c1c%2D8b4f%2D4a2d%2D9e3f%2D8a7b6c5d4e3f)
+[Aula 2]https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQCcpEr23vLdQrMgcCnSiLY7ATgNc39ETEmBS3HKwOEhM_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aREahL)
 
 ### 📁 Materiais de Apoio - Aula 2
 
