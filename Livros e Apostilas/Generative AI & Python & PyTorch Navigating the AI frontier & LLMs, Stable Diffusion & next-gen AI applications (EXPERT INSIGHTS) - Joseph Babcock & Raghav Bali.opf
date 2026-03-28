@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b9490ec-d294-4440-8d77-0a6f2819e974</dc:identifier>
+        <dc:title>Generative AI &amp; Python &amp; PyTorch Navigating the AI frontier &amp; LLMs, Stable Diffusion &amp; next-gen AI applications (EXPERT INSIGHTS)</dc:title>
+        <dc:creator opf:file-as="Babcock, Joseph &amp; Bali, Raghav" opf:role="aut">Joseph Babcock</dc:creator>
+        <dc:creator opf:file-as="Babcock, Joseph &amp; Bali, Raghav" opf:role="aut">Raghav Bali</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-09T10:15:12+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>PyTorch</dc:subject>
+        <dc:subject>IA</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-29T19:27:01+00:00"/>
+        <meta name="calibre:title_sort" content="Generative AI &amp; Python &amp; PyTorch Navigating the AI frontier &amp; LLMs, Stable Diffusion &amp; next-gen AI applications (EXPERT INSIGHTS)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Generative AI &amp; Python &amp; PyTorch Navigating the AI frontier &amp; LLMs, Stable Diffusion &amp; next-gen AI applications (EXPERT INSIGHTS) - Joseph Babcock &amp; Raghav Bali.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0166d06c-0c7d-4b46-b051-3fd1a65e7841</dc:identifier>
+        <dc:title>LLM Engineer’s Handbook - Master the art of engineering large language models from concept to production</dc:title>
+        <dc:creator opf:file-as="Labonne, Paul Iusztin | Maxime" opf:role="aut">Paul Iusztin , Maxime Labonne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-16T17:10:58+00:00</dc:date>
+        <dc:description>LLM Engineering offers a detailed roadmap for building, training, and deploying Large Language Models, complete with practical examples and advanced techniques, making it an essential guide for modern AI professionals</dc:description>
+        <dc:publisher>Packt</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM044000 - COMPUTERS / Neural Networks</dc:subject>
+        <dc:subject>COM004000 - COMPUTERS / Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>COM042000 - COMPUTERS / Natural Language Processing</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-15T22:38:45+00:00"/>
+        <meta name="calibre:title_sort" content="LLM Engineer’s Handbook - Master the art of engineering large language models from concept to production"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="LLM Engineer’s Handbook - Master the art of engineering large language models from concept to production - Paul Iusztin , Maxime Labonne.jpg"/>
+    </guide>
+</package>

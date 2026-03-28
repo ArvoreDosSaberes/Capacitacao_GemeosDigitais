@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15963</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4f7c5bf-e5dd-46e2-91eb-eb2bbdb6c49e</dc:identifier>
+        <dc:title>Building AI Agents with LLMs: Unlocking the Power of Large Language Models</dc:title>
+        <dc:creator opf:file-as="Vemula, Anand" opf:role="aut">Vemula, Anand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ASIN">B0DVC83LMC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-02T18:31:46+00:00"/>
+        <meta name="calibre:title_sort" content="Building AI Agents with LLMs: Unlocking the Power of Large Language Models"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Building AI Agents with LLMs_ Unlocking the Power of Large Language Models - Vemula, Anand.jpg"/>
+    </guide>
+</package>

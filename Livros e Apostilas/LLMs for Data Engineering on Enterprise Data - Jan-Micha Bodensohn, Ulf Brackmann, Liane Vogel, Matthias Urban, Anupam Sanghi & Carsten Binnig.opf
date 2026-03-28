@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdcda098-5a39-468f-a3e8-9e2bb018916a</dc:identifier>
+        <dc:title>LLMs for Data Engineering on Enterprise Data</dc:title>
+        <dc:creator opf:file-as="Jan-Micha Bodensohn, Ulf Brackmann, Liane Vogel, Matthias Urban, Anupam Sanghi &amp; Binnig, Carsten" opf:role="aut">Jan-Micha Bodensohn, Ulf Brackmann, Liane Vogel, Matthias Urban, Anupam Sanghi</dc:creator>
+        <dc:creator opf:file-as="Jan-Micha Bodensohn, Ulf Brackmann, Liane Vogel, Matthias Urban, Anupam Sanghi &amp; Binnig, Carsten" opf:role="aut">Carsten Binnig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-02T18:31:50+00:00"/>
+        <meta name="calibre:title_sort" content="LLMs for Data Engineering on Enterprise Data"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="LLMs for Data Engineering on Enterprise Data - Jan-Micha Bodensohn, Ulf Brackmann, Liane Vogel, Matthias Urban, Anupam Sanghi &amp; Carsten Binnig.jpg"/>
+    </guide>
+</package>
