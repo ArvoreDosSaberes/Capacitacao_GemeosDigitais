@@ -61,8 +61,11 @@
 - **[Múltiplos Frameworks de Séries Temporais](SeriesTemporais/)** - Implementações com Darts, GluonTS, NeuralProphet, Prophet, Kats, Merlion, Chronos, TinyTimeMixer
 - **[Documentação Complementar](SeriesTemporais/README.md)** - Guia completo de séries temporais
 
-
 ---
+
+## LLMs
+
+* [https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](%E2%80%B8https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## 📓 Material Complementar - UniFacens
 
