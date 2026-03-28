@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9903b2f6-ca5b-4b03-a08e-f3a98bff3686</dc:identifier>
+        <dc:title>Time Series a Data Analysis Approach Using R</dc:title>
+        <dc:creator opf:file-as="Shumway, Robert H." opf:role="aut">Robert H. Shumway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-29T21:08:39+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>Series Temporais</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-20T18:29:58+00:00"/>
+        <meta name="calibre:title_sort" content="Time Series a Data Analysis Approach Using R"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Time Series a Data Analysis Approach Using R - Robert H. Shumway.jpg"/>
+    </guide>
+</package>

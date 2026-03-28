@@ -56,6 +56,91 @@ Neste arquivo registro os livros que estou lendo ou consultando atualmente, com 
 
 ---
 
+## 🎯 Caminho Recomendado (Estratégia de Estudo)
+
+### 📚 Sequência Otimizada para Processamento de Sinais em Séries Temporais
+
+> **Nível**: Engenharia • **Foco**: Fundamentação matemática sólida com aplicação prática
+
+### 📖 Etapa 1 — Fundamentos Matemáticos
+
+**Objetivo**: Base sólida em estatística e análise temporal
+
+1. **[Time Series: A Data Analysis Approach Using R](./Time%20Series%20a%20Data%20Analysis%20Approach%20Using%20R%20-%20Robert%20H.%20Shumway.pdf)** — Robert H. Shumway & Stoffer
+
+   - 🎯 **Foco**: Fundamentos estatísticos rigorosos
+   - 📊 **Conteúdo**: ARIMA, modelos espaço de estados, análise espectral
+   - 🔧 **Aplicação**: Base teórica para todos os modelos subsequentes
+2. **[Forecasting: Principles and Practice](https://otexts.com/fpp3/)** — Rob J Hyndman & George Athanasopoulos
+
+   - 🎯 **Foco**: Metodologia prática de forecasting
+   - 📊 **Conteúdo**: ETS, ARIMA, regressão dinâmica, forecasting hierárquico
+   - 🔧 **Aplicação**: Técnicas imediatamente aplicáveis
+
+---
+
+### 📖 Etapa 2 — Análise em Frequência
+
+**Objetivo**: Compreensão profunda de domínio da frequência
+
+3. **[Spectral Analysis and Time Series](./Spectral%20Analysis%20and%20Time%20Series%20-%20M.B.%20Priestley.pdf)** — M.B. Priestley
+
+   - 🎯 **Foco**: Análise espectral avançada
+   - 📊 **Conteúdo**: Densidade espectral, periodograma, filtragem
+   - 🔧 **Aplicação**: Análise de padrões cíclicos e sazonais complexos
+4. **[Spectral Analysis of Signals](./Spectral%20Analysis%20of%20Signals%20-%20Osgood.pdf)** — Osgood
+
+   - 🎯 **Foco**: Processamento digital de sinais
+   - 📊 **Conteúdo**: FFT, janelamento, análise tempo-frequência
+   - 🔧 **Aplicação**: Técnicas de engenharia para séries temporais
+
+---
+
+### 📖 Etapa 3 — Wavelets e Análise Multiescala
+
+**Objetivo**: Técnicas avançadas para sinais não-estacionários
+
+5. **[A Friendly Guide to Wavelets](./A%20Friendly%20Guide%20to%20Wavelets%20-%20Kaiser.pdf)** — Kaiser
+
+   - 🎯 **Foco**: Introdução acessível à teoria de wavelets
+   - 📊 **Conteúdo**: Transformada wavelet, bases ortonormais, aplicações
+   - 🔧 **Aplicação**: Primeiro contato com análise multiescala
+6. **[Wavelet Methods for Time Series Analysis](./Wavelet%20Methods%20for%20Time%20Series%20Analysis%20-%20Percival%20%26%20Walden.pdf)** — Percival & Walden
+
+   - 🎯 **Foco**: Aplicações práticas de wavelets
+   - 📊 **Conteúdo**: Wavelets discretas, denoising, decomposição
+   - 🔧 **Aplicação**: Técnicas robustas para dados reais
+7. **[A Wavelet Tour of Signal Processing](./A%20Wavelet%20Tour%20of%20Signal%20Processing%20-%20Mallat.pdf)** — Stéphane Mallat
+
+   - 🎯 **Foco**: Tratamento profundo e matemático
+   - 📊 **Conteúdo**: Teoria completa, wavelets contínuas, aplicações avançadas
+   - 🔧 **Aplicação**: Referência definitiva para pesquisa e desenvolvimento
+
+---
+
+### 🔄 Estratégia de Estudo Recomendada
+
+#### 📅 Cronograma Sugerido
+
+- **Etapa 1**: 2-3 meses (fundamentação sólida)
+- **Etapa 2**: 2-3 meses (domínio frequencial)
+- **Etapa 3**: 3-4 meses (técnicas avançadas)
+
+#### 🎯 Metodologia de Aprendizado
+
+1. **Teoria + Prática**: Ler capítulo + implementar em Python/R
+2. **Progressão Cumulativa**: Cada etapa constrói sobre a anterior
+3. **Projetos Integradores**: Aplicar técnicas em datasets reais
+4. **Documentação**: Manter notebook de anotações e código
+
+#### 🔗 Conexões com o Curso
+
+- **Módulo de Séries Temporais**: Implementação prática dos conceitos
+- **Notebooks TTM**: Aplicação de técnicas avançadas de forecasting
+- **Projetos Finais**: Combinação de múltiplas abordagens
+
+---
+
 ## 📈 Histórico de Leituras
 
 ### ✅ Concluídos

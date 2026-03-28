@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56384ced-5db3-4676-a874-4a0a4b566676</dc:identifier>
+        <dc:title>Time Series Databases</dc:title>
+        <dc:creator opf:file-as="Dunning, Ted &amp; Friedman, Ellen" opf:role="aut">Ted Dunning</dc:creator>
+        <dc:creator opf:file-as="Dunning, Ted &amp; Friedman, Ellen" opf:role="aut">Ellen Friedman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-20T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Time series data is of growing importance, especially with the rapid expansion of the Internet of Things. This concise guide shows you effective ways to collect, persist, and access large-scale time series data for analysis. You&amp;#8217;ll explore the theory behind time series databases and learn practical methods for implementing them. Authors Ted Dunning and Ellen Friedman provide a detailed examination of open source tools such as OpenTSDB and new modifications that greatly speed up data ingestion.&lt;/p&gt;</dc:description>
+        <dc:publisher>O’Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491914717</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Databases / Data Mining</dc:subject>
+        <meta name="calibre:timestamp" content="2026-03-24T02:40:38.553656+00:00"/>
+        <meta name="calibre:title_sort" content="Time Series Databases"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Time Series Databases - Ted Dunning &amp; Ellen Friedman.jpg"/>
+    </guide>
+</package>
