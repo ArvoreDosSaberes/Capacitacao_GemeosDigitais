@@ -2,3 +2,4 @@
 GemeosDigitais.code-workspace
 .vtt_processing_state.json
 .env
+__pycache__
