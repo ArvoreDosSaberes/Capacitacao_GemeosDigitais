@@ -31,6 +31,9 @@ O envio dos links pode ser feito via:
 - **[Tesla's TeraFab chip fab ambitions ignore its total lack of semiconductor experience](https://electrek.co/2026/03/16/teslas-terafab-chip-fab-ambitions-ignore-its-total-lack-of-semiconductor-experience/)**
   - *Electrek* - Planos da Tesla para fabricação de chips em escala industrial
 
+- **[Arm abraça novo mercado e lança primeiro chip próprio com parceira gigante](https://share.google/6EvK5p6tQe0mGgHrw)**
+  - *TudoCelular* - Arm anuncia primeiro chip próprio em parceria estratégica
+
 ### 🤖 Inteligência Artificial e Ética
 
 - **[IA reproduz estereótipos de gênero entre jovens, estimulando a desigualdade, alerta relatório](https://softex.br/ia-reproduz-estereotipos-de-genero-entre-jovens-estimulando-a-desigualdade-alerta-relatorio/)**
