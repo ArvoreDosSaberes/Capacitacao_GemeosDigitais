@@ -58,6 +58,17 @@ O envio dos links pode ser feito via:
 - **[Verifying ECUs with Hardware-in-the-Loop Testing](https://www.designnews.com/testing-measurement/verifying-ecus-with-hardware-in-the-loop-testing)**
   - *Design News* - Técnicas de teste para sistemas embarcados
 
+### 🏭 Gêmeos Digitais e Indústria
+
+- **[Dassault Systèmes: O futuro dos gêmeos digitais na indústria](https://www.mobiletime.com.br/noticias/02/02/2026/dassault-systemes-gemeos/)**
+  - *Mobile Time* - Dassault Systèmes apresenta visão sobre evolução dos gêmeos digitais
+
+- **[CES 2026: Tecnologia de gêmeos digitais começa a crescer no setor industrial](https://www.terra.com.br/economia/ces-2026-tecnologia-de-gemeos-digitais-comeca-a-crescer-no-setor-industrial%2Cdbf867aa09b63e7c7aeb467d165f8b48on1fhpds.html)**
+  - *Terra* - CES 2026 mostra crescimento da tecnologia de gêmeos digitais na indústria
+
+- **[Digital Twins: O impacto dos gêmeos digitais na indústria](https://www.onoff.gr/blog/pt/metaverso-rv/digital-twins-o-impacto-dos-gemeos-digitais-na-industria/)**
+  - *OnOff* - Análise sobre o impacto transformador dos gêmeos digitais no setor industrial
+
 ---
 
 ## 📅 Categorias de Notícias
@@ -76,6 +87,11 @@ O envio dos links pode ser feito via:
 - Iniciativas governamentais
 - Consórcios internacionais
 - Investimentos estratégicos
+
+### 🏭 **Gêmeos Digitais e Indústria**
+- Aplicações industriais de gêmeos digitais
+- Transformação digital no setor produtivo
+- Casos de uso e implementações práticas
 
 ### 📚 **Educação e Pesquisa**
 - Recursos educacionais
