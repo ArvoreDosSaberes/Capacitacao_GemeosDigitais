@@ -28,9 +28,44 @@ As aulas são disponibilizadas via AVA no link: [https://gemeodigital.unicorpora
 
 ## 🚀 Como Usar com VSCode/Windsurf
 
+### 🌟 Novo: Busca Inteligente de Documentos com RAG
+
+Este repositório agora inclui um sistema de **busca semântica** powered by IA que permite encontrar conteúdo relevante em todos os seus documentos PDF:
+
+- **🔍 Busca Contextual**: Encontre documentos usando linguagem natural
+- **📄 Links Clicáveis**: Abra PDFs diretamente na página encontrada
+- **🧠 Embeddings Locais**: Busca semântica com sua base de dados privada
+- **⚡ Windsurf Integration**: Use comandos diretamente no editor
+
+#### 🚀 Como Usar o RAG
+
+**IMPORTANTE**: Leia o guia completo de instalação em **[.windsurf/INSTALL.md](.windsurf/INSTALL.md)** antes de usar o sistema.
+
+**Instalação Rápida:**
+```bash
+# Execute o script de instalação automática
+./.windsurf/rag-mcp-server/setup-rag.sh
+```
+
+**Exemplos de Uso:**
+```bash
+# Buscar documentos sobre redes neurais
+/rag-search-pdf "redes neurais convolucionais"
+
+# Listar todos os livros indexados
+/rag_list_books
+
+# Abrir PDF em página específica
+rag_open_pdf(book_id="abc123", page_number=45)
+```
+
+📖 **Documentação completa**: [.windsurf/INSTALL.md](.windsurf/INSTALL.md)
+
 ### Pré-requisitos
 
 - Python 3.8 ou superior
+- Node.js 18+ (para RAG/MCP)
+- Ollama (para embeddings)
 - Git instalado
 - VSCode ou Windsurf
 

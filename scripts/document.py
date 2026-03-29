@@ -32,25 +32,40 @@ import time
 from dotenv import load_dotenv
 
 # Importações para processamento de documentos
+print("🔄 Carregando bibliotecas de processamento de documentos...")
 try:
     import fitz  # PyMuPDF
+    print("  ✅ PyMuPDF carregado")
     import ebooklib
     from ebooklib import epub
+    print("  ✅ Ebooklib carregado")
     import pytesseract
+    print("  ✅ Pytesseract carregado")
     from PIL import Image
+    print("  ✅ PIL carregado")
     import pdf2image
+    print("  ✅ PDF2Image carregado")
     import markdownify
+    print("  ✅ Markdownify carregado")
     from bs4 import BeautifulSoup
+    print("  ✅ BeautifulSoup carregado")
+    print("📚 Bibliotecas de processamento carregadas com sucesso!")
 except ImportError as e:
     print(f"Erro: Biblioteca necessária não encontrada: {e}")
     print("Instale as dependências com: pip install -r requirements.txt")
     sys.exit(1)
 
 # Importações para embeddings e busca semântica
+print("🔄 Carregando bibliotecas de embeddings e busca semântica...")
 try:
     import numpy as np
+    print("  ✅ NumPy carregado")
+    print("  ⏳ Carregando SentenceTransformer...")
     from sentence_transformers import SentenceTransformer
+    print("  ✅ SentenceTransformers carregado")
     import ollama
+    print("  ✅ Ollama carregado")
+    print("🧠 Bibliotecas de embeddings carregadas com sucesso!")
 except ImportError as e:
     print(f"Erro: Biblioteca necessária não encontrada: {e}")
     print("Instale as dependências com: pip install -r requirements.txt")
@@ -65,8 +80,10 @@ class DocumentConverter:
         load_dotenv()
         
         # Sobrescrever com variáveis de ambiente se existirem
-        self.data_dir = Path(os.getenv('DATA_DIR', data_dir))
-        self.embedding_model = os.getenv('OLLAMA_MODEL', embedding_model)
+        data_dir_env = os.getenv('DATA_DIR', data_dir)
+        self.data_dir = Path(data_dir_env).expanduser().resolve()
+        # embedding_model from constructor (CLI) has priority over env var
+        self.embedding_model = embedding_model or os.getenv('OLLAMA_MODEL', 'mxbai-embed-large')
         self.tesseract_lang = os.getenv('TESSERACT_LANG', tesseract_lang)
         self.chunk_size = int(os.getenv('CHUNK_SIZE', str(chunk_size)))
         self.chunk_overlap = int(os.getenv('CHUNK_OVERLAP', str(chunk_overlap)))
@@ -74,28 +91,35 @@ class DocumentConverter:
         
         # Configurar pasta de documentos convertidos
         if converted_dir:
-            self.docs_dir = Path(converted_dir)
+            self.docs_dir = Path(converted_dir).expanduser().resolve()
         else:
-            # Padrão: pasta converteds em Livros e Apostilas
+            # Padrão: pasta converteds em Livros e Apostilas (relativo ao script)
             converted_dir_env = os.getenv('CONVERTED_DIR')
             if converted_dir_env:
-                self.docs_dir = Path(converted_dir_env)
+                self.docs_dir = Path(converted_dir_env).expanduser().resolve()
             else:
-                self.docs_dir = Path("../Livros e Apostilas/converteds")
+                # Obter diretório do script e construir caminho absoluto
+                script_dir = Path(__file__).parent.parent
+                self.docs_dir = (script_dir / "Livros e Apostilas" / "converteds").expanduser().resolve()
         
         self.data_dir.mkdir(exist_ok=True)
         self.docs_dir.mkdir(parents=True, exist_ok=True)
+        print("📁 Diretórios criados/verificados com sucesso!")
         
         # Controle de interrupção
         self.interrupted = False
         signal.signal(signal.SIGINT, self._signal_handler)
         signal.signal(signal.SIGTERM, self._signal_handler)
+        print("🛡️  Handlers de sinal configurados!")
         
         # Configurar logging
+        print("📋 Configurando sistema de logging...")
         self._setup_logging()
         
         # Configurar bancos de dados
+        print("🗄️  Configurando bancos de dados...")
         self._setup_databases()
+        print("✅ Inicialização concluída!")
     
     def _signal_handler(self, signum, frame):
         """Handler para interrupção graciosa."""
@@ -354,7 +378,8 @@ class DocumentConverter:
         book_id = self._generate_id()
         
         # Verificar se livro já existe no SQLite
-        cursor = self.conn.execute('SELECT id FROM books WHERE file_path = ?', (str(file_path),))
+        absolute_file_path = file_path.resolve()
+        cursor = self.conn.execute('SELECT id FROM books WHERE file_path = ?', (str(absolute_file_path),))
         existing_book = cursor.fetchone()
         existing_book_id = existing_book['id'] if existing_book else None
         
@@ -521,19 +546,30 @@ class DocumentConverter:
     
     def _setup_databases(self):
         """Configura bancos de dados SQLite e ChromaDB."""
+        print("  📊 Configurando SQLite...")
         # Configurar SQLite
         self.db_path = self.data_dir / "documents.db"
         self._init_sqlite()
+        print("  ✅ SQLite configurado!")
         
+        print("  🧠 Configurando ChromaDB...")
         # Configurar ChromaDB (chroma_path já foi criado em _setup_logging)
         self._init_chroma()
+        print("  ✅ ChromaDB configurado!")
         
+        print("  🤖 Verificando modelo Ollama...")
         # Verificar e instalar modelo Ollama se necessário
         self._ensure_ollama_model()
         
+        print("  🔧 Inicializando modelo de embeddings...")
         # Inicializar modelo de embeddings
         self.model = None
         self._init_embedding_model()
+        print("  ✅ Modelo de embeddings inicializado!")
+        
+        print("  🔍 Verificando compatibilidade de modelo...")
+        # Verificar compatibilidade do modelo com banco existente
+        self._check_embedding_model_compatibility()
         
         self._log("Bancos de dados configurados", "INFO")
     
@@ -570,11 +606,86 @@ class DocumentConverter:
                 )
             ''')
             
+            # Tabela para metadados do sistema
+            self.conn.execute('''
+                CREATE TABLE IF NOT EXISTS system_metadata (
+                    key TEXT PRIMARY KEY,
+                    value TEXT,
+                    updated_at TIMESTAMP
+                )
+            ''')
+            
             self.conn.commit()
             self._log("Banco SQLite inicializado", "INFO")
         except Exception as e:
             self._log(f"Erro ao inicializar SQLite: {e}", "ERROR")
             raise
+    
+    def _save_embedding_model(self):
+        """Salva o modelo de embeddings atual nos metadados."""
+        try:
+            self.conn.execute('''
+                INSERT OR REPLACE INTO system_metadata (key, value, updated_at)
+                VALUES (?, ?, ?)
+            ''', ('embedding_model', self.embedding_model, datetime.now().isoformat()))
+            self.conn.commit()
+            self._log(f"Modelo de embeddings salvo: {self.embedding_model}", "INFO")
+        except Exception as e:
+            self._log(f"Erro ao salvar modelo de embeddings: {e}", "ERROR")
+    
+    def _get_stored_embedding_model(self) -> Optional[str]:
+        """Obtém o modelo de embeddings armazenado no banco."""
+        try:
+            cursor = self.conn.execute('SELECT value FROM system_metadata WHERE key = ?', ('embedding_model',))
+            result = cursor.fetchone()
+            return result['value'] if result else None
+        except Exception as e:
+            self._log(f"Erro ao obter modelo armazenado: {e}", "ERROR")
+            return None
+    
+    def _check_embedding_model_compatibility(self):
+        """Verifica se o modelo atual é compatível com o banco existente."""
+        stored_model = self._get_stored_embedding_model()
+        
+        if stored_model is None:
+            # Primeira inicialização - salvar modelo atual
+            self._save_embedding_model()
+            return
+        
+        if stored_model != self.embedding_model:
+            self._log(f"⚠️  **ALERTA CRÍTICO DE MODELO**", "ERROR")
+            self._log(f"Modelo armazenado: {stored_model}", "ERROR")
+            self._log(f"Modelo atual: {self.embedding_model}", "ERROR")
+            self._log(f"Os embeddings foram gerados com '{stored_model}' e não são compatíveis com '{self.embedding_model}'", "ERROR")
+            self._log(f"**Soluções:**", "ERROR")
+            self._log(f"1. Use o mesmo modelo: --embedding-model {stored_model}", "ERROR")
+            self._log(f"2. Apague o banco de dados e recrie com o novo modelo:", "ERROR")
+            self._log(f"   rm -rf ~/.generativa/.data", "ERROR")
+            self._log(f"3. Migre os embeddings (avançado)", "ERROR")
+            
+            # Perguntar ao usuário se deseja continuar
+            print(f"\n{'='*80}")
+            print(f"⚠️  **INCOMPATIBILIDADE DE MODELO DETECTADA**")
+            print(f"{'='*80}")
+            print(f"Modelo no banco: {stored_model}")
+            print(f"Modelo atual:    {self.embedding_model}")
+            print(f"\nUsar modelos diferentes pode causar resultados incorretos na busca!")
+            print(f"\nDeseja continuar mesmo assim? [s/N]: ", end="")
+            
+            try:
+                response = input().strip().lower()
+                if response not in ['s', 'sim', 'yes', 'y']:
+                    print("❌ Operação cancelada pelo usuário")
+                    sys.exit(1)
+                else:
+                    self._log("⚠️  Usuário optou por continuar com modelo incompatível", "WARN")
+                    # Atualizar o modelo no banco para evitar alertas futuros
+                    self._save_embedding_model()
+            except KeyboardInterrupt:
+                print("\n❌ Operação cancelada pelo usuário")
+                sys.exit(1)
+        else:
+            self._log(f"✅ Modelo de embeddings compatível: {self.embedding_model}", "INFO")
     
     def _init_chroma(self):
         """Inicializa ChromaDB para embeddings."""
@@ -598,13 +709,16 @@ class DocumentConverter:
         try:
             file_metadata = self._get_file_metadata(file_path)
             
+            # Garantir que o caminho seja absoluto no banco de dados
+            absolute_file_path = file_path.resolve()
+            
             self.conn.execute('''
                 INSERT OR REPLACE INTO books 
                 (id, file_path, file_hash, file_size, processed_at, chunk_count, embedding_count, conversion_time, metadata)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
             ''', (
                 book_id,
-                str(file_path),
+                str(absolute_file_path),
                 file_metadata['hash'],
                 file_metadata['size'],
                 datetime.now().isoformat(),
@@ -1228,6 +1342,7 @@ def main():
     parser.add_argument('--lang', type=str, default='por', help='Idioma do OCR (padrão: por)')
     parser.add_argument('--chunk-size', type=int, help='Tamanho dos chunks (padrão: 500)')
     parser.add_argument('--chunk-overlap', type=int, help='Sobreposição entre chunks (padrão: 50)')
+    parser.add_argument('--embedding-model', type=str, help='Modelo de embeddings (padrão: mxbai-embed-large)')
     
     args = parser.parse_args()
     
@@ -1246,6 +1361,8 @@ def main():
         kwargs['chunk_size'] = args.chunk_size
     if args.chunk_overlap is not None:
         kwargs['chunk_overlap'] = args.chunk_overlap
+    if args.embedding_model is not None:
+        kwargs['embedding_model'] = args.embedding_model
     
     converter = DocumentConverter(**kwargs)
     
