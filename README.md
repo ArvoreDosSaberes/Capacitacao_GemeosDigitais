@@ -12,6 +12,8 @@
 
 ## 🎯 Foco do Repositório
 
+> **⚠️ IMPORTANTE**: Este repositório é uma **iniciativa dos alunos** para manter o material de estudos organizado e ampliar seus conhecimentos. **Não há nenhuma responsabilidade da faculdade com sua manutenção**. O conteúdo é gerenciado e atualizado voluntariamente pelos participantes como forma de colaboração e aprendizado compartilhado.
+
 Este repositório é dedicado à **capacitação profissional** em Gemeos Digitais e 5G, oferecendo material educacional estruturado e prático. O objetivo principal é fornecer um caminho de aprendizado completo, desde conceitos fundamentais até aplicações avançadas.
 
 As aulas são disponibilizadas via AVA no link: [https://gemeodigital.unicorporativa.com/](https://gemeodigital.unicorporativa.com/)
