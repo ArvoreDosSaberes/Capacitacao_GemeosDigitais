@@ -77,7 +77,15 @@ class DocumentConverter:
                  converted_dir: str = None, tesseract_lang: str = "por", 
                  chunk_size: int = 500, chunk_overlap: int = 50):
         # Carregar variáveis de ambiente do .env
-        load_dotenv()
+        # Primeiro tenta do diretório onde foi chamado (CWD), senão do diretório do script
+        cwd_env = Path.cwd() / '.env'
+        script_env = Path(__file__).parent / '.env'
+        if cwd_env.is_file():
+            load_dotenv(dotenv_path=cwd_env)
+        elif script_env.is_file():
+            load_dotenv(dotenv_path=script_env)
+        else:
+            load_dotenv()
         
         # Sobrescrever com variáveis de ambiente se existirem
         data_dir_env = os.getenv('DATA_DIR', data_dir)
