@@ -69,6 +69,10 @@ Este glossário reúne os termos técnicos e conceitos mais comuns utilizados em
 - **Resíduos**: Componente restante após remover tendência e sazonalidade, representando ruído aleatório.
 - **Estacionariedade**: Propriedade de uma série cujas estatísticas (média, variância) não mudam ao longo do tempo.
 - **Cutoff**: Ponto de divisão temporal que separa dados de treino e teste, definindo o limite temporal para análise.
+- **UTC (Coordinated Universal Time)**: Padrão mundial de tempo que serve como base para fusos horários globais.
+- **Time Zones**: Fusos horários geográficos que ajustam o tempo local em relação ao UTC.
+- **Timestamping**: Processo de registrar o momento exato em que um evento ou dado ocorre.
+- **Temporal Resolution**: Granularidade temporal dos dados, definindo o menor intervalo de tempo medido (ex: segundos, minutos, horas).
 
 ### Modelos Estatísticos
 - **ARIMA (AutoRegressive Integrated Moving Average)**: Modelo clássico que combina componentes autorregressivos e de média móvel.
@@ -87,8 +91,13 @@ Este glossário reúne os termos técnicos e conceitos mais comuns utilizados em
 
 ### Processamento e Preparação
 - **Downsampling**: Redução da frequência dos dados através de agregação (ex: dados horários para diários).
+- **Upsampling**: Aumento da frequência dos dados através de interpolação ou estimativa (ex: dados diários para horários).
 - **Dropping**: Remoção de pontos de dados ou períodos específicos da série temporal.
 - **Meaningful**: Característica de dados que contêm informação relevante e não apenas ruído para análise.
+- **Imputation**: Processo de preencher valores ausentes na série temporal usando métodos estatísticos ou de ML.
+- **Interpolation**: Técnica para estimar valores entre pontos de dados conhecidos.
+- **Forward Fill**: Método de imputação que propaga o último valor conhecido para preencher dados ausentes.
+- **Moving Average**: Técnica que suaviza dados calculando a média de janelas deslizantes.
 
 ### Métricas e Validação
 - **Forecast Horizon**: Período futuro para o qual se deseja fazer previsões.
@@ -98,6 +107,11 @@ Este glossário reúne os termos técnicos e conceitos mais comuns utilizados em
 - **Drift Detection**: Identificação de mudanças na distribuição dos dados ao longo do tempo.
 - **Lookahead**: Técnica que incorpora informações futuras no processo de decisão presente, usada para melhorar precisão em previsões e planejamento.
 - **Downstream**: Processos ou etapas que ocorrem após a análise inicial da série temporal, como aplicação de modelos ou tomada de decisão.
+
+### Aspectos Comportamentais e Psicológicos
+- **Time Discounting**: Tendência humana de valorizar menos recompensas futuras em comparação com recompensas imediatas.
+- **Psychological Time Discounting**: Viés cognitivo que afeta a percepção do valor ao longo do tempo.
+- **Psychological Distance**: Percepção subjetiva da distância temporal entre o presente e eventos futuros.
 
 ---
 
