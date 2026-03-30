@@ -95,6 +95,9 @@ more specialized time series data sets can also be found in a variety of package
 - **Dados.gov.br**: Portal brasileiro de dados abertos
 - **Data.gov**: Portal americano de dados abertos
 - **Eurostat**: Dados estatísticos europeus
+- **BLS Timeseries Data**: Dados de séries temporais do Bureau of Labor Statistics (Taxa de desemprego)
+- **Link**: [https://data.bls.gov/timeseries/LNS14000000](https://data.bls.gov/timeseries/LNS14000000)
+- **Destaque**: Séries temporais oficiais de indicadores econômicos dos EUA
 
 ---
 
