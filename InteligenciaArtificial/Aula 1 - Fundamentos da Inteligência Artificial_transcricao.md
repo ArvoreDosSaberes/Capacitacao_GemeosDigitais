@@ -1684,7 +1684,7 @@ Essa visão sistêmica é especialmente importante para quem vai trabalhar com *
 - Introduction to Machine Learning Lecture Notes for COS 324 at Princeton University - Sanjeev Arora, Simon Park, Dennis Jacob, Danqi Chen
 - Interpretable Machine Learning - Christoph Molnar
 - Linear Algebra and Optimization for Machine Learning - Charu C. Aggarwal
-- Machine Learning - A Practical Approach on the Statistical -- Rodrigo Fernandes de Mello, Moacir Antonelli Ponti, RODRIGO -- ( WeLib.org )
+- Machine Learning - A Practical Approach on the Statistical -- Rodrigo Fernandes de Mello, Moacir Antonelli Ponti, RODRIGO 
 - Machine Learning and Generative AI for Marketing - Yoon Hyup Hwang
 - Machine Learning Design Patterns - Valliappa Lakshmanan, Sara Robinson & Michael Munn
 - Machine Learning System Design - Valerii Babushkin, Arseny Kravchenko & Valerii Babushkin & Arseny Kravchenko
@@ -1813,3 +1813,10 @@ Esse fechamento reforça uma característica importante do curso: a combinação
 - **Machine Learning Q and AI** — Sebastian Raschka, PhD
 - **Machine Learning_ A Practical Approach on the Statistical** — Rodrigo Fernandes de Mello & Moacir Antonelli Ponti
 - **Python Machine Learning** — Sebastian Raschka
+
+---
+
+*Este documento apresenta a transcrição da Aula 1 de IA para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

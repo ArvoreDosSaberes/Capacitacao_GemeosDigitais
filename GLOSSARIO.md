@@ -98,6 +98,9 @@ Este glossário reúne os termos técnicos e conceitos mais comuns utilizados em
 - **Interpolation**: Técnica para estimar valores entre pontos de dados conhecidos.
 - **Forward Fill**: Método de imputação que propaga o último valor conhecido para preencher dados ausentes.
 - **Moving Average**: Técnica que suaviza dados calculando a média de janelas deslizantes.
+- **Exponentially Weighted Moving Averages**: Média móvel que dá maior peso aos dados mais recentes, aplicando decaimento exponencial aos pesos.
+- **Linear Interpolation**: Método de estimativa que assume relação linear entre pontos de dados conhecidos.
+- **Spline Interpolation**: Técnica que usa polinômios suaves para estimar valores entre pontos, criando curvas mais naturais.
 
 ### Métricas e Validação
 - **Forecast Horizon**: Período futuro para o qual se deseja fazer previsões.
@@ -107,11 +110,14 @@ Este glossário reúne os termos técnicos e conceitos mais comuns utilizados em
 - **Drift Detection**: Identificação de mudanças na distribuição dos dados ao longo do tempo.
 - **Lookahead**: Técnica que incorpora informações futuras no processo de decisão presente, usada para melhorar precisão em previsões e planejamento.
 - **Downstream**: Processos ou etapas que ocorrem após a análise inicial da série temporal, como aplicação de modelos ou tomada de decisão.
+- **Cross-sectional Context**: Análise de dados em um ponto específico no tempo, considerando múltiplas variáveis ou entidades simultaneamente.
+- **R² Statistics**: Coeficiente de determinação que mede a proporção da variância dos dados explicada pelo modelo, variando de 0 a 1.
 
 ### Aspectos Comportamentais e Psicológicos
 - **Time Discounting**: Tendência humana de valorizar menos recompensas futuras em comparação com recompensas imediatas.
 - **Psychological Time Discounting**: Viés cognitivo que afeta a percepção do valor ao longo do tempo.
 - **Psychological Distance**: Percepção subjetiva da distância temporal entre o presente e eventos futuros.
+- **Geometric Mean**: Média calculada através do produto dos valores, útil para dados que crescem exponencialmente ou taxas de retorno.
 
 ---
 

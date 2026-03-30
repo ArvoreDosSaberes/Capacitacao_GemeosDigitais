@@ -184,3 +184,10 @@ A versão corrigida pelo professor representa uma **evolução incremental** do 
 No entanto, **ambos os notebooks são excelentes recursos educacionais** que demonstram eficazmente o funcionamento interno de LLMs. As diferenças nos resultados de geração são esperadas e até desejáveis, pois ilustram a natureza probabilística desses modelos.
 
 **Recomendação final:** Utilize a versão corrigida como principal, mas mantenha o original como referência para entender variações de comportamento dos modelos.
+
+---
+
+*Este tutorial compara notebooks de LLMs para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

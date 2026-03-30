@@ -294,5 +294,7 @@ Este módulo está licenciado sob Creative Commons Attribution-ShareAlike 4.0 In
 
 ---
 
-*Última atualização: Março 2026*
-*Versão: 1.0 - Módulo completo de LLMs*
+*Este módulo apresenta o estudo de Large Language Models para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

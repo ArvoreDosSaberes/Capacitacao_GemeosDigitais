@@ -152,6 +152,7 @@ Ainda não existe uma **legislação universal** para regulamentar a IA, embora 
 
 ---
 
-*Última atualização: Março 2026*  
-*Versão: 1.0 - Padronizado conforme repositório*  
-*Fonte: Análise de tendências atuais em IA*
+*Este documento analisa as principais preocupações éticas e sociais em IA para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

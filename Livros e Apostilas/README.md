@@ -1,5 +1,12 @@
 # 📚 Bibliografia Recomendada
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.Livros_e_Apostilas)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
+![Library](https://img.shields.io/badge/Type-Library-purple)
+![Educational](https://img.shields.io/badge/Content-Educational%20Resources-green)
+![Status](https://img.shields.io/badge/Status-Comprehensive-brightgreen)
+
 > Bibliografia organizada por área de conhecimento para o programa de Capacitação em Gêmeos Digitais.
 > Os livros estão disponíveis no diretório [Livros e Apostilas]().
 
@@ -340,4 +347,7 @@
 
 ---
 
-*Esta bibliografia é parte do material de apoio da [Capacitação em Gêmeos Digitais](README.md). Os livros estão disponíveis no diretório [Livros e Apostilas]().*
+*Este arquivo organiza a bibliografia de referência para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

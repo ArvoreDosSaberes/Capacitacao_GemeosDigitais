@@ -24,7 +24,7 @@
 
 ### Reposição Aula 1
 
-[Formulário](https://forms.gle/UKszCNyYEDq19QRA9)
+- Lista para quem perdeu a aula 1 - inteligência artificiais: Basta responder a atividade através desse link: <https://forms.gle/UKszCNyYEDq19QRA9>
 
 ---
 
@@ -61,11 +61,19 @@
 - **[Múltiplos Frameworks de Séries Temporais](SeriesTemporais/)** - Implementações com Darts, GluonTS, NeuralProphet, Prophet, Kats, Merlion, Chronos, TinyTimeMixer
 - **[Documentação Complementar](SeriesTemporais/README.md)** - Guia completo de séries temporais
 
+### Reposição Aula 2 (Series Temporais)
+
+- Lista para quem perdeu a aula 2 - series temporais: adicionar a atividade para quem perdeu a aula síncrona: <https://forms.gle/WqnoQxANiQEkQ3Ce9>
+
 ---
 
 ## LLMs
 
-* [https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](%E2%80%B8https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](%E2%80%B8https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+### Reposição Aula 3 (LLMs)
+
+- Formulário para reposição da Aula 3 (LLMs) com a atividade para quem perdeu o momento síncrono desse sábado: <https://forms.gle/WoYAqngvai2geL8T6>
 
 ## 📓 Material Complementar - UniFacens
 

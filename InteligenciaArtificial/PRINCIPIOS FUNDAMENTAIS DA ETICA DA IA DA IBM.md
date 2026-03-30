@@ -143,6 +143,7 @@ Juntos, eles estabelecem uma base para **confiança, responsabilidade e inovaç�
 
 ---
 
-*Última atualização: Março 2026*  
-*Versão: 1.0 - Padronizado conforme repositório*  
-*Fonte: IBM AI Ethics Principles*
+*Este documento apresenta os princípios fundamentais de ética da IBM para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

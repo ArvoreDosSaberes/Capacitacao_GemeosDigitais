@@ -68,6 +68,7 @@ Este roteiro serve como **guia fundamental** para:
 
 ---
 
-*Última atualização: Março 2026*  
-*Versão: 1.0 - Padronizado conforme repositório*  
-*Fonte: IBM Think Topics*
+*Este documento apresenta melhores práticas de governança de IA para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

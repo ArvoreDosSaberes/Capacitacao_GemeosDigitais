@@ -322,3 +322,10 @@ O **fine-tuning** (ajuste fino) é o processo de adaptar um modelo pré-treinado
 - **Natural Language Processing & Python Updated Edition** — Cuantum Technologies
 - **Inteligência Artificial** — George Luger
 - **Machine Learning Design Patterns** — Valliappa Lakshmanan, Sara Robinson & Michael Munn
+
+---
+
+*Este documento apresenta a transcrição da Aula 3 de LLMs para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

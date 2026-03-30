@@ -90,6 +90,7 @@ As seguintes organizações e projetos fornecem recursos para implementar a éti
 
 ---
 
-*Última atualização: Março 2026*  
-*Versão: 1.0 - Padronizado conforme repositório*  
-*Fonte: Compilado de organizações de ética em IA*
+*Este documento apresenta organizações que promovem ética em IA para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*

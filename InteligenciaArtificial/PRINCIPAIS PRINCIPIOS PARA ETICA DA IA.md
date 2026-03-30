@@ -174,6 +174,7 @@ Juntos, eles criam um framework para garantir que a IA seja desenvolvida e imple
 
 ---
 
-*Última atualização: Março 2026*  
-*Versão: 1.0 - Padronizado conforme repositório*  
-*Fonte: Relatório Belmont - Princípios Éticos para Pesquisa*
+*Este documento apresenta os princípios fundamentais para ética em IA na Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+
+*Data de criação: 2026*  
+*Código da licença: CC BY-SA 4.0*
