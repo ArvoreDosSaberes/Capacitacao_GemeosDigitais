@@ -1,8 +1,17 @@
-# Tutorial Comparativo: LLMs_por_dentro.ipynb vs LLMs_por_dentro-corrigido_professor.ipynb
+# 📊 Tutorial Comparativo: LLMs_por_dentro.ipynb vs LLMs_por_dentro-corrigido_professor.ipynb
 
-## Visão Geral
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.LLMs.Tutorial_Comparacao)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
+![Tutorial](https://img.shields.io/badge/Type-Tutorial-orange)
+![Jupyter](https://img.shields.io/badge/Format-Jupyter%20Notebook-blue)
+![Status](https://img.shields.io/badge/Status-Reference-green)
+
+## 📋 Visão Geral
 
 Este tutorial compara duas versões do notebook sobre funcionamento interno de Large Language Models (LLMs), identificando as diferenças e explicando o impacto de cada modificação.
+
+---
 
 ## Estrutura Comparativa
 

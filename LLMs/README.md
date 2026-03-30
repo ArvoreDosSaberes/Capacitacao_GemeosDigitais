@@ -9,9 +9,11 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-LLMs-green)
 ![Status](https://img.shields.io/badge/Status-Educa%C3%A7%C3%A3o-brightgreen)
 
-## 🎯 Foco do Módulo
+## 📋 Visão Geral
 
 Este módulo é dedicado ao **estudo prático e teórico de Large Language Models (LLMs)**, explorando desde os fundamentos matemáticos até implementações avançadas com modelos state-of-the-art. O objetivo é proporcionar uma compreensão profunda de como os modelos de linguagem funcionam internamente e como aplicá-los em cenários reais.
+
+---
 
 ### 📚 Áreas de Estudo
 
