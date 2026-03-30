@@ -1,4 +1,13 @@
-# Aula 1 — Fundamentos da Inteligência Artificial
+# 🧠 Aula 1 — Fundamentos da Inteligência Artificial
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.InteligenciaArtificial.Aula1_Fundamentos)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
+![Educational](https://img.shields.io/badge/Type-Educational-green)
+![Machine Learning](https://img.shields.io/badge/Topic-Machine%20Learning-blue)
+![Status](https://img.shields.io/badge/Status-Reference-yellow)
+
+## 📋 Visão Geral
 
 **Resumo didático** da transcrição da aula ministrada no curso de Residência Tecnológica em Gêmeo Digital e 5G.
 
