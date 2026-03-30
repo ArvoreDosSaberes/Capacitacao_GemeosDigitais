@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed609811-433d-4d8b-93a2-97d264ab9264</dc:identifier>
+        <dc:title>Digital Twin Technology</dc:title>
+        <dc:creator opf:file-as="Vohra, Manisha;" opf:role="aut">Vohra, Manisha;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-17T13:18:50+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:33:42.721999+00:00"/>
+        <meta name="calibre:title_sort" content="Digital Twin Technology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Digital Twin Technology - Vohra, Manisha;.jpg"/>
+    </guide>
+</package>

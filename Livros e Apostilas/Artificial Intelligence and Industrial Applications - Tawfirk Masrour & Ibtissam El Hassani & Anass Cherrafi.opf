@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e972319-7ff8-4d3c-8046-3401fe20ea5b</dc:identifier>
+        <dc:title>Artificial Intelligence and Industrial Applications</dc:title>
+        <dc:creator opf:file-as="Masrour, Tawfirk &amp; Hassani, Ibtissam El &amp; Cherrafi, Anass" opf:role="aut">Tawfirk Masrour</dc:creator>
+        <dc:creator opf:file-as="Masrour, Tawfirk &amp; Hassani, Ibtissam El &amp; Cherrafi, Anass" opf:role="aut">Ibtissam El Hassani</dc:creator>
+        <dc:creator opf:file-as="Masrour, Tawfirk &amp; Hassani, Ibtissam El &amp; Cherrafi, Anass" opf:role="aut">Anass Cherrafi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-15T11:47:07+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:34:09.363748+00:00"/>
+        <meta name="calibre:title_sort" content="Artificial Intelligence and Industrial Applications"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Artificial Intelligence and Industrial Applications - Tawfirk Masrour &amp; Ibtissam El Hassani &amp; Anass Cherrafi.jpg"/>
+    </guide>
+</package>

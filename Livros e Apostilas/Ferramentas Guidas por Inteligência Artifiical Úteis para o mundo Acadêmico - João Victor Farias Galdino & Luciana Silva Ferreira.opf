@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb300195-93ea-4db2-9afa-667886ff7352</dc:identifier>
+        <dc:title>Ferramentas Guidas por Inteligência Artifiical Úteis para o mundo Acadêmico</dc:title>
+        <dc:creator opf:file-as="Galdino, João Victor Farias &amp; Ferreira, Luciana Silva" opf:role="aut">João Victor Farias Galdino</dc:creator>
+        <dc:creator opf:file-as="Galdino, João Victor Farias &amp; Ferreira, Luciana Silva" opf:role="aut">Luciana Silva Ferreira</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>DAGk2u6or3A</dc:subject>
+        <dc:subject>BAEdKTg34Jk</dc:subject>
+        <dc:subject>0</dc:subject>
+        <meta name="calibre:timestamp" content="2026-03-29T13:33:47.710484+00:00"/>
+        <meta name="calibre:title_sort" content="Ferramentas Guidas por Inteligência Artifiical Úteis para o mundo Acadêmico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Ferramentas Guidas por Inteligência Artifiical Úteis para o mundo Acadêmico - João Victor Farias Galdino &amp; Luciana Silva Ferreira.jpg"/>
+    </guide>
+</package>

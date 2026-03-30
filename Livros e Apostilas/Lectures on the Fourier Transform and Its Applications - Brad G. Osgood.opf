@@ -3,15 +3,15 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">17039</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">cbc9f880-0cc6-44d4-970d-7e626cbb6b9a</dc:identifier>
-        <dc:title>Lectures on the Fourier Transform and Its Applications (Brad -- Brad G. Osgood -- ( WeLib.org )</dc:title>
-        <dc:creator opf:file-as="Desconhecido" opf:role="aut">Desconhecido</dc:creator>
+        <dc:title>Lectures on the Fourier Transform and Its Applications</dc:title>
+        <dc:creator opf:file-as="Osgood, Brad G." opf:role="aut">Brad G. Osgood</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>pt</dc:language>
         <meta name="calibre:timestamp" content="2025-12-05T13:15:27+00:00"/>
-        <meta name="calibre:title_sort" content="Lectures on the Fourier Transform and Its Applications (Brad -- Brad G. Osgood -- ( WeLib.org )"/>
+        <meta name="calibre:title_sort" content="Lectures on the Fourier Transform and Its Applications"/>
     </metadata>
     <guide>
-        <reference type="cover" title="Capa" href="Lectures on the Fourier Transform and Its Applications (Brad -- Brad G. Osgood -- ( WeLib.org ) - Desconhecido.jpg"/>
+        <reference type="cover" title="Capa" href="Lectures on the Fourier Transform and Its Applications - Brad G. Osgood.jpg"/>
     </guide>
 </package>

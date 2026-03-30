@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00485468-4258-4bc8-9a71-fccf60c7f6cb</dc:identifier>
+        <dc:title>Time Series Analysis, Fourth Edition</dc:title>
+        <dc:creator opf:file-as="Box, George E. P. &amp; Jenkins, Gwilym M. &amp; C., Gregory" opf:role="aut">George E. P. Box</dc:creator>
+        <dc:creator opf:file-as="Box, George E. P. &amp; Jenkins, Gwilym M. &amp; C., Gregory" opf:role="aut">Gwilym M. Jenkins</dc:creator>
+        <dc:creator opf:file-as="Box, George E. P. &amp; Jenkins, Gwilym M. &amp; C., Gregory" opf:role="aut">Gregory C.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:34:35.986689+00:00"/>
+        <meta name="calibre:title_sort" content="Time Series Analysis, Fourth Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Time Series Analysis, Fourth Edition - George E. P. Box &amp; Gwilym M. Jenkins &amp; Gregory C_.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3503a8d3-115f-414b-a5e3-c2917fa59c39</dc:identifier>
+        <dc:title>Hardware-in-the-Loop simulation : a scalable, component-based, time-triggered hardware-in-the-loop simulation framework</dc:title>
+        <dc:creator opf:file-as="Schlager, Martin" opf:role="aut">Schlager, Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-13T15:08:15+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>https://archive.org/details/hardwareintheloo0000schl</dc:subject>
+        <meta name="calibre:timestamp" content="2026-03-29T13:35:11.726237+00:00"/>
+        <meta name="calibre:title_sort" content="Hardware-in-the-Loop simulation : a scalable, component-based, time-triggered hardware-in-the-loop simulation framework"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Hardware-in-the-Loop simulation _ a scalable, component-based, time-triggered hardware-in-the-loop simulation framework - Schlager, Martin.jpg"/>
+    </guide>
+</package>

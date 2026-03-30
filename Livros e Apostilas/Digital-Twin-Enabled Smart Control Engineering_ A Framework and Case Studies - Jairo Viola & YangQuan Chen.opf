@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3a33be7-0768-4cc1-8f29-ad4b0324787c</dc:identifier>
+        <dc:title>Digital-Twin-Enabled Smart Control Engineering: A Framework and Case Studies</dc:title>
+        <dc:creator opf:file-as="Viola, Jairo &amp; Chen, YangQuan" opf:role="aut">Jairo Viola</dc:creator>
+        <dc:creator opf:file-as="Viola, Jairo &amp; Chen, YangQuan" opf:role="aut">YangQuan Chen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Springer International Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783031221408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:34:02.649802+00:00"/>
+        <meta name="calibre:title_sort" content="Digital-Twin-Enabled Smart Control Engineering: A Framework and Case Studies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Digital-Twin-Enabled Smart Control Engineering_ A Framework and Case Studies - Jairo Viola &amp; YangQuan Chen.jpg"/>
+    </guide>
+</package>

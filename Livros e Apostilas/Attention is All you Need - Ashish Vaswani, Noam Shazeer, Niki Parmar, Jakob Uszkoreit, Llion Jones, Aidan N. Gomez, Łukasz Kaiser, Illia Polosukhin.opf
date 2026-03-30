@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c543cc7-1915-460e-ac45-c661b41f1aaa</dc:identifier>
+        <dc:title>Attention is All you Need</dc:title>
+        <dc:creator opf:file-as="Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin" opf:role="aut">Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>Neural Information Processing Systems http://nips.cc/</dc:subject>
+        <meta name="calibre:timestamp" content="2026-03-29T13:33:57.565894+00:00"/>
+        <meta name="calibre:title_sort" content="Attention is All you Need"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Attention is All you Need - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin.jpg"/>
+    </guide>
+</package>

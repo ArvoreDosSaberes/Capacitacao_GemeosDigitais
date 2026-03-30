@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">394771e7-f6be-40e4-8cf2-8fd1c1837c92</dc:identifier>
+        <dc:title>Applied Time Series Analysis</dc:title>
+        <dc:creator opf:file-as="--, A Practical Guide to Modeling -- Terence C. Mills" opf:role="aut">A Practical Guide to Modeling -- Terence C. Mills </dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-04T11:20:08+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:32:29.914815+00:00"/>
+        <meta name="calibre:title_sort" content="Applied Time Series Analysis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Applied Time Series Analysis - A Practical Guide to Modeling -- Terence C. Mills .jpg"/>
+    </guide>
+</package>

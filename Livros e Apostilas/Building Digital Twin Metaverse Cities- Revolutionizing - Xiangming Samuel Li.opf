@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20484</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a0caccf-670e-4036-bb7f-29f28e59b483</dc:identifier>
+        <dc:title>Building Digital Twin Metaverse Cities- Revolutionizing</dc:title>
+        <dc:creator opf:file-as="Li, Xiangming Samuel" opf:role="aut">Xiangming Samuel Li</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:34:20.888456+00:00"/>
+        <meta name="calibre:title_sort" content="Building Digital Twin Metaverse Cities- Revolutionizing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Building Digital Twin Metaverse Cities- Revolutionizing - Xiangming Samuel Li.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27417fb3-1acb-4687-b7ff-fe9e3b2b529f</dc:identifier>
+        <dc:title>Digital Twin Driven Smart Design</dc:title>
+        <dc:creator opf:file-as="Ta, Fei &amp; Liu, Ang &amp; Hu, Tianllang &amp; Noe, A. Y.C." opf:role="aut">Fei Ta</dc:creator>
+        <dc:creator opf:file-as="Ta, Fei &amp; Liu, Ang &amp; Hu, Tianllang &amp; Noe, A. Y.C." opf:role="aut">Ang Liu</dc:creator>
+        <dc:creator opf:file-as="Ta, Fei &amp; Liu, Ang &amp; Hu, Tianllang &amp; Noe, A. Y.C." opf:role="aut">Tianllang Hu</dc:creator>
+        <dc:creator opf:file-as="Ta, Fei &amp; Liu, Ang &amp; Hu, Tianllang &amp; Noe, A. Y.C." opf:role="aut">A. Y.C. Noe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-11T09:46:29+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:34:26.469020+00:00"/>
+        <meta name="calibre:title_sort" content="Digital Twin Driven Smart Design"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Digital Twin Driven Smart Design - Fei Ta &amp; Ang Liu &amp; Tianllang Hu &amp; A. Y.C. Noe.jpg"/>
+    </guide>
+</package>

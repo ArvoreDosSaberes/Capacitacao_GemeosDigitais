@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a954b4cc-9ba1-4d6f-b9cd-58179966cce0</dc:identifier>
+        <dc:title>Digital Twin Driven Intelligent Systems and Emerging Metaverse</dc:title>
+        <dc:creator opf:file-as="Karaarslan, Enis &amp; Aydin, Ömer &amp; Cali, Ümit &amp; Challenger, Moharram" opf:role="aut">Enis Karaarslan</dc:creator>
+        <dc:creator opf:file-as="Karaarslan, Enis &amp; Aydin, Ömer &amp; Cali, Ümit &amp; Challenger, Moharram" opf:role="aut">Ömer Aydin</dc:creator>
+        <dc:creator opf:file-as="Karaarslan, Enis &amp; Aydin, Ömer &amp; Cali, Ümit &amp; Challenger, Moharram" opf:role="aut">Ümit Cali</dc:creator>
+        <dc:creator opf:file-as="Karaarslan, Enis &amp; Aydin, Ömer &amp; Cali, Ümit &amp; Challenger, Moharram" opf:role="aut">Moharram Challenger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Springer Nature Singapore</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789819902521</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:34:41.783224+00:00"/>
+        <meta name="calibre:title_sort" content="Digital Twin Driven Intelligent Systems and Emerging Metaverse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Digital Twin Driven Intelligent Systems and Emerging Metaverse - Enis Karaarslan &amp; Ömer Aydin &amp; Ümit Cali &amp; Moharram Challenger.jpg"/>
+    </guide>
+</package>

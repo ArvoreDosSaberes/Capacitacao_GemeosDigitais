@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76d576da-da2a-4ed1-982b-2480ce745be7</dc:identifier>
+        <dc:title>Digital Twin Adoption and BIM‑GIS Implementation</dc:title>
+        <dc:creator opf:file-as="Sepasgozar, Samad M. E. (Editor) &amp; Shirowzhan, Sara (Editor)" opf:role="aut">Sepasgozar, Samad M. E. (Editor)</dc:creator>
+        <dc:creator opf:file-as="Sepasgozar, Samad M. E. (Editor) &amp; Shirowzhan, Sara (Editor)" opf:role="aut">Shirowzhan, Sara (Editor)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-25T09:37:25+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:32:23.244718+00:00"/>
+        <meta name="calibre:title_sort" content="Digital Twin Adoption and BIM‑GIS Implementation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Digital Twin Adoption and BIM‑GIS Implementation - Sepasgozar, Samad M. E. (Editor) &amp; Shirowzhan, Sara (Editor).jpg"/>
+    </guide>
+</package>

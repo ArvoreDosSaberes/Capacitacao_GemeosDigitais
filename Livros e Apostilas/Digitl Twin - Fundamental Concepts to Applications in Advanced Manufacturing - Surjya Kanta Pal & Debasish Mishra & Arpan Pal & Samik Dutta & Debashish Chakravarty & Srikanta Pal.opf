@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">026d85ab-9b01-4ddd-934d-65e913a94ac1</dc:identifier>
+        <dc:title>Digitl Twin - Fundamental Concepts to Applications in Advanced Manufacturing</dc:title>
+        <dc:creator opf:file-as="Pal, Surjya Kanta &amp; Mishra, Debasish &amp; Pal, Arpan &amp; Dutta, Samik &amp; Chakravarty, Debashish &amp; Pal, Srikanta" opf:role="aut">Surjya Kanta Pal</dc:creator>
+        <dc:creator opf:file-as="Pal, Surjya Kanta &amp; Mishra, Debasish &amp; Pal, Arpan &amp; Dutta, Samik &amp; Chakravarty, Debashish &amp; Pal, Srikanta" opf:role="aut">Debasish Mishra</dc:creator>
+        <dc:creator opf:file-as="Pal, Surjya Kanta &amp; Mishra, Debasish &amp; Pal, Arpan &amp; Dutta, Samik &amp; Chakravarty, Debashish &amp; Pal, Srikanta" opf:role="aut">Arpan Pal</dc:creator>
+        <dc:creator opf:file-as="Pal, Surjya Kanta &amp; Mishra, Debasish &amp; Pal, Arpan &amp; Dutta, Samik &amp; Chakravarty, Debashish &amp; Pal, Srikanta" opf:role="aut">Samik Dutta</dc:creator>
+        <dc:creator opf:file-as="Pal, Surjya Kanta &amp; Mishra, Debasish &amp; Pal, Arpan &amp; Dutta, Samik &amp; Chakravarty, Debashish &amp; Pal, Srikanta" opf:role="aut">Debashish Chakravarty</dc:creator>
+        <dc:creator opf:file-as="Pal, Surjya Kanta &amp; Mishra, Debasish &amp; Pal, Arpan &amp; Dutta, Samik &amp; Chakravarty, Debashish &amp; Pal, Srikanta" opf:role="aut">Srikanta Pal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-10T01:32:25+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-03-29T13:33:52.670129+00:00"/>
+        <meta name="calibre:title_sort" content="Digitl Twin - Fundamental Concepts to Applications in Advanced Manufacturing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Digitl Twin - Fundamental Concepts to Applications in Advanced Manufacturing - Surjya Kanta Pal &amp; Debasish Mishra &amp; Arpan Pal &amp; Samik Dutta &amp; Debashish Chakravarty &amp; Srikanta Pal.jpg"/>
+    </guide>
+</package>
