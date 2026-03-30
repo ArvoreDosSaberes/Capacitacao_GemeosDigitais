@@ -1,357 +1,85 @@
-# Gêmeos Digitais - Capacitação em Tecnologia
+# Aulas do Curso - Gêmeos Digitais
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.Aulas)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Prática-green)
-![Status](https://img.shields.io/badge/Status-Educa%C3%A7%C3%A3o-brightgreen)
-![Repository Size](https://img.shields.io/github/repo-size/ArvoreDosSaberes/Capacitacao_GemeosDigitais)
-![Last Commit](https://img.shields.io/github/last-commit/ArvoreDosSaberes/Capacitacao_GemeosDigitais)
+![Video Content](https://img.shields.io/badge/Content-Video%20Lessons-red)
+![Educational](https://img.shields.io/badge/Type-Educational-green)
+![Status](https://img.shields.io/badge/Status-Ongoing-yellow)
 
-## 🎯 Foco do Repositório
+## 📚 Conteúdo do Curso
 
-> **⚠️ IMPORTANTE**: Este repositório é uma **iniciativa dos alunos** para manter o material de estudos organizado e ampliar seus conhecimentos. **Não há nenhuma responsabilidade da faculdade com sua manutenção**. O conteúdo é gerenciado e atualizado voluntariamente pelos participantes como forma de colaboração e aprendizado compartilhado.
+## Aula de Abertura
 
-Este repositório é dedicado à **capacitação profissional** em Gemeos Digitais e 5G, oferecendo material educacional estruturado e prático. O objetivo principal é fornecer um caminho de aprendizado completo, desde conceitos fundamentais até aplicações avançadas.
+[Aula de Abertura](https://facens-my.sharepoint.com/:v:/g/personal/roberto_netto_facens_br/IQAjSXZC9FTvQb6GkwK1bt7KAdcrI3q-3a35LMlT5-ofmz8?e=2iVNdv)
 
-As aulas são disponibilizadas via AVA no link: [https://gemeodigital.unicorporativa.com/](https://gemeodigital.unicorporativa.com/)
+## Aula 1 - Fundamentos da Inteligência Artificial
 
-### 📚 Áreas de Capacitação
+[Aula 1](https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQD1ijw2mKukSatsiwTa_8TkAfOCl7vuTBtxh_5OkGYvlD0?e=Lt4g4k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- **Inteligência Artificial e Machine Learning**: Exemplos práticos e implementações didáticas
-- **Análise de Séries Temporais**: Previsão e modelagem de dados temporais com técnicas avançadas
-- **Análise de Dados**: Exploração e visualização de conjuntos de dados
-- **Desenvolvimento de Software**: Boas práticas e padrões modernos
-- **Ciência de Dados**: Fluxos completos de trabalho e estudos de caso
+### 📁 Materiais de Apoio - Aula 1
 
-## 🚀 Como Usar com VSCode/Windsurf
+- **[Transcrição VTT](InteligenciaArtificial/Aula%201%20-%20Fundamentos%20da%20Intelig%C3%AAncia%20Artificial.vtt)** - Transcrição completa da aula
+- **[Resumo Didático](InteligenciaArtificial/Aula%201%20-%20Fundamentos-IA.md)** - Resumo estruturado com conceitos-chave
 
-### 🌟 Novo: Busca Inteligente de Documentos com RAG
+### Reposição Aula 1
 
-Este repositório agora inclui um sistema de **busca semântica** powered by IA que permite encontrar conteúdo relevante em todos os seus documentos PDF:
-
-- **🔍 Busca Contextual**: Encontre documentos usando linguagem natural
-- **📄 Links Clicáveis**: Abra PDFs diretamente na página encontrada
-- **🧠 Embeddings Locais**: Busca semântica com sua base de dados privada
-- **⚡ Windsurf Integration**: Use comandos diretamente no editor
-
-#### 🚀 Como Usar o RAG
-
-**IMPORTANTE**: Leia o guia completo de instalação em **[.windsurf/INSTALL.md](.windsurf/INSTALL.md)** antes de usar o sistema.
-
-**Instalação Rápida:**
-```bash
-# Execute o script de instalação automática
-./.windsurf/rag-mcp-server/setup-rag.sh
-```
-
-**Exemplos de Uso:**
-```bash
-# Buscar documentos sobre redes neurais
-/rag-search-pdf "redes neurais convolucionais"
-
-# Listar todos os livros indexados
-/rag_list_books
-
-# Abrir PDF em página específica
-rag_open_pdf(book_id="abc123", page_number=45)
-```
-
-📖 **Documentação completa**: [.windsurf/INSTALL.md](.windsurf/INSTALL.md)
-
-### Pré-requisitos
-
-- Python 3.8 ou superior
-- Node.js 18+ (para RAG/MCP)
-- Ollama (para embeddings)
-- Git instalado
-- VSCode ou Windsurf
-
-### Configuração do Ambiente
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/ArvoreDosSaberes/Capacitacao_GemeosDigitais.git
-   cd Capacitacao_GemeosDigitais
-   ```
-2. **Crie e ative o ambiente virtual:**
-
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # Linux/Mac
-   # ou
-   .venv\Scripts\activate  # Windows
-   ```
-3. **Instale as dependências (para cada módulo):**
-
-   ```bash
-   # Para o módulo de Inteligência Artificial
-   cd InteligenciaArtificial
-   pip install -r requirements.txt
-   cd ..
-
-   # Para o módulo de Séries Temporais
-   cd SeriesTemporais
-   pip install -r requirements.txt
-   cd ..
-   ```
-
-### Configuração do VSCode/Windsurf
-
-1. **Instale as extensões recomendadas:**
-
-   - Python (Microsoft)
-   - Jupyter (Microsoft)
-   - Python Docstring Generator (Nils Werner)
-   - GitLens (GitKraken)
-   - EPubReader (Epubside)
-   - Office Reader (Cweijan)
-   - Mrkdownlint (DavidAnson)
-2. **Selecione o interpretador Python:**
-
-   - Abra a paleta de comandos (`Ctrl+Shift+P`)
-   - Digite "Python: Select Interpreter"
-   - Escolha o interpretador do ambiente virtual (`.venv`)
-3. **Trabalhe com os notebooks:**
-
-   - Navegue até o módulo desejado (ex: `cd InteligenciaArtificial`)
-   - Abra o notebook correspondente (ex: `Aula_1_notebook_ml_churn_colab.ipynb`)
-   - Execute as células interativamente
-   - Use o modo de depuração para entender o fluxo
-
-### Dicas para Windsurf
-
-- **Autocomplete inteligente**: O Windsurf oferece sugestões contextuais para código ML
-- **Chat integrado**: Use o chat para tirar dúvidas sobre os conceitos
-- **Debug visual**: Aproveite as ferramentas de visualização de dados integradas
-
-## � Como Usar com Obsidian
-
-### O que é o Obsidian?
-
-O **Obsidian** é uma aplicação de notas poderosa baseada em Markdown que funciona com arquivos locais. É ideal para organizar conhecimento, criar mapas mentais conectados e manter uma base de conhecimento pessoal estruturada.
-
-### 📥 Download e Instalação
-
-#### 🔗 Link Oficial
-
-Baixe o Obsidian diretamente do site oficial: [https://obsidian.md/](https://obsidian.md/)
-
-#### 🐧 Instalação no Linux
-
-**Método 1: Download Direto (Recomendado)**
-
-1. Acesse [https://obsidian.md/download](https://obsidian.md/download)
-2. Baixe o arquivo `.AppImage` para Linux
-3. Torne o arquivo executável:
-   ```bash
-   chmod +x Obsidian-*.AppImage
-   ```
-4. Execute o aplicativo:
-   ```bash
-   ./Obsidian-*.AppImage
-   ```
-
-**Método 2: Via Snap (Alternativa)**
-
-```bash
-sudo snap install obsidian --classic
-```
-
-**Método 3: Via Flatpak (Alternativa)**
-
-```bash
-flatpak install flathub md.obsidian.Obsidian
-```
-
-#### 🪟 Instalação no Windows
-
-**Método 1: Download Direto (Recomendado)**
-
-1. Acesse [https://obsidian.md/download](https://obsidian.md/download)
-2. Baixe o instalador `.exe` para Windows
-3. Execute o arquivo baixado
-4. Siga o assistente de instalação (Next → Install → Finish)
-
-**Método 2: Via Microsoft Store**
-
-1. Abra a Microsoft Store
-2. Pesquise por "Obsidian"
-3. Clique em "Get" ou "Install"
-
-**Método 3: Via Chocolatey**
-
-```powershell
-choco install obsidian
-```
-
-**Método 4: Via Winget**
-
-```powershell
-winget install Obsidian.Obsidian
-```
-
-### ⚙️ Configuração Inicial
-
-1. **Abra o Vault Existente**: Ao abrir o Obsidian pela primeira vez, escolha "Open folder as vault"
-2. **Selecione este Repositório**: Navegue até a pasta raiz deste projeto (`GemeosDigitais`)
-3. **Escolha o Tema**: Selecione entre tema claro ou escuro
-4. **Explore Plugins**: Acesse Settings → Community plugins para instalar extensões
-
-### 🚀 Dicas para Uso com Este Projeto
-
-- **Abra este repositório como vault**: Use a pasta raiz do projeto como seu vault
-- **Aproveite os links**: Navegue facilmente entre os arquivos markdown
-- **Use o Graph View**: Visualize as conexões entre os diferentes módulos
-- **Plugins recomendados**:
-  - `Kanban` para organização de tarefas
-  - `Calendar` para planejamento
-  - `Dataview` para consultas avançadas
-
-## �📁 Estrutura do Projeto
-
-```text
-GemeosDigitais/
-├── README.md                    # Este arquivo - visão geral da capacitação
-├── .gitignore                   # Arquivos ignorados pelo Git
-├── .venv/                      # Ambiente virtual (não commitado)
-├── InteligenciaArtificial/      # 🤖 Módulo de IA e Machine Learning
-│   ├── README.md               # Documentação específica do módulo
-│   ├── requirements.txt        # Dependências Python para IA
-│   ├── Aula_1_notebook_ml_churn_colab.ipynb  # Notebook principal
-│   ├── Pratica-construindo-um-modelo-de-aprendizado-de-maquina.pdf  # Material prático
-│   ├── Teoria-Aprendizado-de-Maquina-Conceitos-Fundamentais-e-Tipos-de-Modelos.pdf  # Material teórico
-│   └── test_notebook.py        # Scripts de teste
-├── SeriesTemporais/             # 📈 Módulo de Análise de Séries Temporais
-│   ├── Aula_2_Séries_temporais_Fundamentos_de_IA.ipynb  # Notebook principal de séries temporais
-│   ├── ttm_getting_started.ipynb  # Notebook TinyTimeMixer
-│   ├── Modelos-Estatisticos-e-Autorregressivos.pdf  # Material teórico de modelos
-│   └── Preparacao-e-Modelagem-de-Series-Temporais.pdf  # Guia de preparação
-└── [outras_pastas]/             # 📚 Outros módulos de capacitação (em desenvolvimento)
-    └── README.md               # Documentação específica de cada módulo
-```
-
-### 🎯 Navegando pelos Módulos
-
-Cada pasta representa uma área de capacitação específica:
-
-- **`InteligenciaArtificial/`**: Foco em Machine Learning, análise de dados e IA
-- **`SeriesTemporais/`**: Análise e previsão de séries temporais com modelos estatísticos e de IA
-- **[Outras pastas]**: Demais áreas tecnológicas (a serem adicionadas)
-
-Dentro de cada módulo você encontrará:
-
-- Material didático específico da área
-- Exemplos práticos e exercícios
-- Ambiente configurado com dependências adequadas
-- Documentação detalhada do conteúdo
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Python**: Linguagem principal
-- **Pandas**: Manipulação de dados
-- **NumPy**: Computação numérica
-- **Matplotlib/Seaborn**: Visualização de dados
-- **Scikit-learn**: Machine Learning
-- **KaggleHub**: Acesso a datasets
-- **Jupyter**: Notebooks interativos
-- **TinyTimeMixer (TTM)**: Modelos pré-treinados para séries temporais
-- **Statsmodels**: Modelos estatísticos para séries temporais
-
-## 📖 Exemplo de Uso - Módulo de Inteligência Artificial
-
-O notebook principal do módulo de IA demonstra um fluxo completo de Machine Learning:
-
-1. **Exploração de Dados**: Análise inicial do dataset
-2. **Preparação**: Limpeza e transformação
-3. **Treinamento**: Construção do modelo
-4. **Avaliação**: Métricas de desempenho
-
-### Dataset Utilizado
-
-- **Fonte**: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-- **Tamanho**: 7.043 clientes
-- **Objetivo**: Prever cancelamento de serviços
-
-### 🎯 Como Acessar
-
-```bash
-# Entre no diretório do módulo
-cd InteligenciaArtificial
-
-# Abra o notebook no VSCode/Windsurf
-code Aula_1_notebook_ml_churn_colab.ipynb
-```
-
-## 📈 Exemplo de Uso - Módulo de Séries Temporais
-
-O módulo de Séries Temporais oferece duas abordagens complementares:
-
-### 1. Fundamentos de Séries Temporais com IA
-
-Notebook: `Aula_2_Séries_temporais_Fundamentos_de_IA.ipynb`
-
-- **Conceitos Fundamentais**: Entendendo padrões temporais
-- **Decomposição**: Tendência, sazonalidade e resíduos
-- **Modelos Estatísticos**: ARIMA, SARIMA e variantes
-- **Previsão com Machine Learning**: Redes neurais e ensemble methods
-- **Validação de Modelos**: Backtesting e métricas de precisão
-
-### 2. TinyTimeMixer (TTM) - Modelos Pré-treinados
-
-Notebook: `ttm_getting_started.ipynb`
-
-- **Zero-shot Forecasting**: Previsões sem treinamento específico
-- **Few-shot Learning**: Fine-tuning rápido com poucos dados
-- **Modelos IBM Granite**: Acesso a modelos state-of-the-art
-- **Context Length Flexível**: Configurações de 512 a 1024 pontos
-- **Forecast Horizon**: Previsões de até 96 períodos futuros
-
-### 🚀 Acesso ao Módulo de Séries Temporais
-
-```bash
-# Entre no diretório do módulo
-cd SeriesTemporais
-
-# Para fundamentos de séries temporais
-code Aula_2_Séries_temporais_Fundamentos_de_IA.ipynb
-
-# Para TinyTimeMixer
-code ttm_getting_started.ipynb
-```
-
-### 📚 Bibliografia Recomendada
-
-Consulte a **[Bibliografia Completa](./Livros%20e%20Apostilas/README.md.md)** com todos os livros organizados por área de conhecimento, incluindo resumos detalhados de cada obra.
-
-## 🤝 Contribuição
-
-Este é um projeto educacional com estrutura modular. Contribuições são bem-vindas nos seguintes formatos:
-
-- **Novos módulos**: Crie novas pastas para outras áreas de capacitação
-- **Exemplos práticos**: Adicione casos de uso e exercícios aos módulos existentes
-- **Melhorias na documentação**: Aprimore READMEs e materiais didáticos
-- **Correções pedagógicas**: Sugestões para melhorar o aprendizado
-- **Cases de uso**: Exemplos reais e aplicações práticas
-
-### 📝 Guia para Novos Módulos
-
-1. Crie uma nova pasta com nome descritivo
-2. Adicione um README.md específico do módulo
-3. Inclua exemplos práticos e exercícios
-4. Documente as dependências necessárias
-5. Siga a estrutura estabelecida
+- Lista para quem perdeu a aula 1 - inteligência artificiais: Basta responder a atividade através desse link: [https://forms.gle/UKszCNyYEDq19QRA9](https://forms.gle/UKszCNyYEDq19QRA9)
 
 ---
 
+## SeriesTemporais e Fundamentos de IA
+
+[Aula 2](https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQCcpEr23vLdQrMgcCnSiLY7ATgNc39ETEmBS3HKwOEhM_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aREahL)
+
+### 📁 Materiais de Apoio - Aula 2
+
+- **[Transcrição VTT](SeriesTemporais/Aula%202%20Series%20Temporais%20Fundamentos%20de%20IA.vtt)** - Transcrição completa da aula
+- **[Resumo Didático](SeriesTemporais/Aula%202%20Series%20Temporais%20Fundamentos%20de%20IA.md)** - Resumo estruturado com conceitos-chave
+- **[Notebook Colab](SeriesTemporais/Aula_2_S%C3%A9ries_temporais_Fundamentos_de_IA.ipynb)** - Material prático da aula
+
+### 📚 Recursos Adicionais - Séries Temporais
+
+- **[TinyTimeMixer Getting Started](SeriesTemporais/ttm_getting_started.ipynb)** - Notebook prático do TinyTimeMixer
+- **[Modelos Estatísticos e Autorregressivos](SeriesTemporais/Modelos-Estatisticos-e-Autorregressivos.pdf)** - Material teórico complementar
+- **[Preparação e Modelagem de Séries Temporais](SeriesTemporais/Preparacao-e-Modelagem-de-Series-Temporais.pdf)** - Guia completo de preparação
+- **[Engines Documentation](SeriesTemporais/ENGINES.md)** - Documentação das engines disponíveis
+- **[TTM Documentation](SeriesTemporais/README-TTM.md)** - Documentação específica do TinyTimeMixer
+- **[Requirements](SeriesTemporais/requirements.txt)** - Dependências necessárias para os notebooks
+
+### 🎯 Conteúdo Abordado
+
+- **Revisão de Machine Learning**: Problema de churn em telecomunicações
+- **Pré-processamento de Dados**: One-hot encoding, binarização, tratamento de desbalanceamento
+- **Fundamentos Matemáticos**: Estrutura de modelos multivariados
+- **Séries Temporais**: Conceitos fundamentais e modelo Prophet
+- **Estudo de Caso Prático**: Análise de dados financeiros da Magazine Luiza
+- **Validação de Previsões**: Comparação entre previsões e valores reais
+
+### 📊 Recursos Adicionais
+
+- **[Múltiplos Frameworks de Séries Temporais](SeriesTemporais/)** - Implementações com Darts, GluonTS, NeuralProphet, Prophet, Kats, Merlion, Chronos, TinyTimeMixer
+- **[Documentação Complementar](SeriesTemporais/README.md)** - Guia completo de séries temporais
+
+### Reposição Aula 2 (Series Temporais)
+
+- Lista para quem perdeu a aula 2 - series temporais: adicionar a atividade para quem perdeu a aula síncrona: [https://forms.gle/WqnoQxANiQEkQ3Ce9](https://forms.gle/WqnoQxANiQEkQ3Ce9)
+
+---
+
+## LLMs
+
+- [Aula 3](https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy<span class="vditor-wysiwyg__block" data-type="html-entity"><code data-type="html-entity" style="display:none">&amp;amp;</code><span class="vditor-wysiwyg__preview" data-render="2"><code>&amp;</code></span></span>nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+### Reposição Aula 3 (LLMs)
+
+- Formulário para reposição da Aula 3 (LLMs) com a atividade para quem perdeu o momento síncrono desse sábado: [https://forms.gle/WoYAqngvai2geL8T6](https://forms.gle/WoYAqngvai2geL8T6)
+
 ## 📓 Material Complementar - UniFacens
 
-### ⚠️ Aviso Importante sobre PDFs
+### ⚠️ Aviso Importante sobre Conteúdo
 
-Os materiais em formato PDF disponibilizados neste repositório são **propriedade intelectual da UniFacens** e foram compartilhados exclusivamente para facilitar o acesso dos alunos da **Capacitação Gêmeos Digitais**.
+Os vídeos e materiais complementares disponibilizados neste repositório são **propriedade intelectual da UniFacens** e foram compartilhados exclusivamente para facilitar o acesso dos alunos da **Capacitação Gêmeos Digitais**.
 
 ### 📋 Direitos de Uso
 
@@ -367,56 +95,4 @@ Estes materiais foram compartilhados com propósito estritamente educacional par
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob Creative Commons Attribution-ShareAlike 4.0 International License.
-
----
-
-## 🚀 Aprendizado Contínuo
-
-Este repositório está em constante evolução, acompanhando as tendências e melhores práticas do mercado de tecnologia. A metodologia de aprendizado é baseada em:
-
-### 🎓 Metodologia de Ensino
-
-- **Aprendizado Prático**: Cada conceito é acompanhado de implementações reais
-- **Progressão Estruturada**: Do básico ao avançado, com solidificação gradual do conhecimento
-- **Casos de Uso Reais**: Exemplos aplicáveis a cenários do mundo real
-- **Documentação Completa**: Material teórico e prático integrados
-
-### 🔄 Atualizações Recentes
-
-- **✨ Novo Módulo de Séries Temporais**: Técnicas avançadas de previsão com TinyTimeMixer
-- **📚 Material Complementar**: PDFs teóricos e guias práticos para cada módulo
-- **🔧 Ferramentas Modernas**: Integração com modelos pré-treinados e frameworks atualizados
-
-### 📈 Roadmap de Desenvolvimento
-
-- [ ] **Deep Learning**: Redes neurais profundas para visão computacional
-- [ ] **NLP**: Processamento de linguagem natural com transformers
-- [ ] **MLOps**: Operacionalização de modelos de machine learning
-- [ ] **Data Engineering**: Pipelines e arquitetura de dados
-- [ ] **Cloud Computing**: Deploy em nuvem e serverless
-
-### 💡 Dicas de Estudo
-
-1. **Siga a ordem recomendada**: Comece pelos fundamentos antes de avançar
-2. **Pratique com os notebooks**: Modifique parâmetros e experimente variações
-3. **Consulte o material teórico**: Use os PDFs para aprofundar conceitos
-4. **Crie seus próprios projetos**: Aplique o conhecimento em novos problemas
-5. **Compartilhe suas descobertas**: Contribua com melhorias e exemplos
-
----
-
-## Comunidade e Suporte
-
-Este projeto faz parte de uma iniciativa maior de educação em tecnologia. Para dúvidas, sugestões e contribuições:
-
-- **Issues**: Reporte problemas ou sugira melhorias
-- **Pull Requests**: Contribua diretamente com o conteúdo
-- **Discussões**: Participe de conversas sobre os temas abordados
-
----
-
-*Última atualização: Março 2026*
-*Versão: 2.0 - Com novo módulo de Séries Temporais*
+## 📝 Informações Adicionais
