@@ -69,7 +69,8 @@
 
 ## LLMs
 
-- [Aula 3](https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy<span class="vditor-wysiwyg__block" data-type="html-entity"><code data-type="html-entity" style="display:none">&amp;amp;</code><span class="vditor-wysiwyg__preview" data-render="2"><code>&amp;</code></span></span>nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Aula 2](https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQCcpEr23vLdQrMgcCnSiLY7ATgNc39ETEmBS3HKwOEhM_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aREahL)
+- [Aula 3](https://facens-my.sharepoint.com/:v:/g/personal/felipe_fengler_facens_br/IQAIF1jAuodNTYJUkJw27A5WAWnnupPA5tCuYAhIvmxiyBo?e=PMaDCy?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0)
 
 ### Reposição Aula 3 (LLMs)
 
