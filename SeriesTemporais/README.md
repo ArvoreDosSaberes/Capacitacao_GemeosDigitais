@@ -89,6 +89,12 @@ SeriesTemporais/
 - Modelos de volatilidade (GARCH)
 - Previsão e intervalos de confiança
 
+#### PDF: Multi-family Wavelet-based Feature Engineering
+
+- **[Multi-family wavelet-based feature engineering method for short-term time series forecasting](Multi-family%20wavelet-based%20feature%20engineering%20method%20for%20short-term%20time%20series%20forecasting.pdf)**
+
+Este artigo apresenta um método inovador de engenharia de features baseado em wavelets para previsão de curto prazo em séries temporais. A abordagem utiliza múltiplas famílias de wavelets para extrair características temporais em diferentes escalas, melhorando significativamente a precisão de modelos de forecasting para séries não estacionárias e com padrões complexos.
+
 ### 🛠️ Material Prático
 
 #### PDF: Preparação e Modelagem de Séries Temporais
