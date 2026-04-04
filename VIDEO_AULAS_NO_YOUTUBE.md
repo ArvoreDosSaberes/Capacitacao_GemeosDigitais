@@ -14,12 +14,15 @@ Este arquivo reúne as playlists de video aulas relacionadas ao curso de **Capac
 ## 📚 Playlists Disponíveis
 
 ### 🎓 Gêmeos Digitais - Facens
+
 - **[Playlist Oficial - Residência em Gêmeo Digital em 5G](https://www.youtube.com/playlist?list=PLezr7rEmHopBUFvaO7PMGJemRzzMmbs3v)**
 
 ### 🤖 Inteligência Artificial e Machine Learning
+
 - **[Playlist IA - Capacitação Gêmeos Digitais](https://www.youtube.com/playlist?list=PLNJN8eyDzxuPjW3d1G68dTukkUUsm7wPt)**
 
 ### 🔢 Outras Playlists Relacionadas
+
 - **[Playlist Complementar](https://www.youtube.com/playlist?list=PL1nZ-4v6j0C-x2zwXGyAWpHob3GwphIjS)**
 
 ---
@@ -37,15 +40,7 @@ Este arquivo reúne as playlists de video aulas relacionadas ao curso de **Capac
 
 ### ⚠️ Aviso Importante sobre Conteúdo
 
-Os vídeos e materiais complementares disponibilizados são **propriedade intelectual da UniFacens** e foram compartilhados exclusivamente para facilitar o acesso dos alunos da **Capacitação Gêmeos Digitais**.
-
-### 📋 Direitos de Uso
-
-- ✅ **Permitido**: Acesso e uso pelos alunos matriculados na capacitação
-- ✅ **Permitido**: Download para estudo pessoal
-- ❌ **Proibido**: Reprodução e distribuição não autorizada
-- ❌ **Proibido**: Uso comercial ou compartilhamento externo
-- ❌ **Proibido**: Alteração ou modificação do conteúdo
+Os vídeos e materiais complementares disponibilizados não são **responsabilidade da UniFacens** e foram compartilhados pelos alunos para facilitar o acesso e aprendizado na **Capacitação Gêmeos Digitais**.
 
 ### 🎓 Finalidade Educacional
 
@@ -55,7 +50,7 @@ Estes materiais foram compartilhados com propósito estritamente educacional par
 
 *Este arquivo tem como objetivo facilitar o acesso às video aulas do curso de Gêmeos Digitais e 5G, pertencente ao repositório **Capacitacao_GemeosDigitais** da organização **ArvoreDosSaberes**.*
 
-*Data de criação: 2026*  
+*Data de criação: 2026*
 *Código da licença: CC BY-SA 4.0*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)
