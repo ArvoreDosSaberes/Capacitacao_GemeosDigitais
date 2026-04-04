@@ -26,77 +26,66 @@ O envio dos links pode ser feito via:
 ### 🏭 Semicondutores e Hardware
 
 - **[Microsoft aposta em startup que planeja encolher os chips em escala atômica](https://www.infomoney.com.br/business/microsoft-aposta-em-startup-que-planeja-encolher-os-chips-em-escala-atomica/)**
-  - *Infomoney* - Investimento da Microsoft em tecnologia de semicondutores avançada
-
-- **[Tesla's TeraFab chip fab ambitions ignore its total lack of semiconductor experience](https://electrek.co/2026/03/16/teslas-terafab-chip-fab-ambitions-ignore-its-total-lack-of-semiconductor-experience/)**
-  - *Electrek* - Planos da Tesla para fabricação de chips em escala industrial
-
-- **[Arm abraça novo mercado e lança primeiro chip próprio com parceira gigante](https://share.google/6EvK5p6tQe0mGgHrw)**
-  - *TudoCelular* - Arm anuncia primeiro chip próprio em parceria estratégica
+- *Infomoney* - Investimento da Microsoft em tecnologia de semicondutores avançada
+- **[Tesla&#39;s TeraFab chip fab ambitions ignore its total lack of semiconductor experience](https://electrek.co/2026/03/16/teslas-terafab-chip-fab-ambitions-ignore-its-total-lack-of-semiconductor-experience/)**
+- *Electrek* - Planos da Tesla para fabricação de chips em escala industrial
+- **[Arm abraça novo mercado e lança primeiro chip próprio com parceira gigante](https://www.tudocelular.com/noticias/2026/03/arm-abraca-novo-mercado-e-lanca-primeiro-chip-proprio-com-parceria-gigante.html)**
+- *TudoCelular* - Arm anuncia primeiro chip próprio em parceria estratégica
 
 ### 🤖 Inteligência Artificial e Ética
 
 - **[IA reproduz estereótipos de gênero entre jovens, estimulando a desigualdade, alerta relatório](https://softex.br/ia-reproduz-estereotipos-de-genero-entre-jovens-estimulando-a-desigualdade-alerta-relatorio/)**
-  - *Softex* - Estudo sobre viés de gênero em sistemas de IA
-
+- *Softex* - Estudo sobre viés de gênero em sistemas de IA
 - **[A miragem da igualdade](https://llyc.global/pt-br/miragem-da-igualdade/)**
-  - *LLYC Global* - Análise sobre desigualdade e tecnologia
+- *LLYC Global* - Análise sobre desigualdade e tecnologia
 
 ### 🏛️ Políticas e Investimentos
 
 - **[Pax Silica: Governo Trump lança consórcio internacional para investir US$ 1 tri em setores estratégicos](https://oglobo.globo.com/economia/noticia/2026/03/24/pax-silica-governo-trump-lanca-consorcio-internacional-para-investir-us-1-tri-em-setores-estrategicos.ghtml)**
-  - *O Globo* - Iniciativa internacional para investimento em tecnologia estratégica
-
+- *O Globo* - Iniciativa internacional para investimento em tecnologia estratégica
 - **[Semicondutores Brasil](https://www.linkedin.com/posts/marianaamorimfraga_semicondutores-brasil-ugcPost-7442593960549707776-ShSZ)**
-  - *LinkedIn* - Discussão sobre desenvolvimento de semicondutores no Brasil
+- *LinkedIn* - Discussão sobre desenvolvimento de semicondutores no Brasil
 
 ### 📚 Educação e Tecnologia
 
 - **[Vídeo sobre desenvolvimento tecnológico](https://www.youtube.com/watch?v=BlSpKSJHHaA)**
-  - *YouTube* - Conteúdo educacional sobre tendências tecnológicas
-
+- *YouTube* - Conteúdo educacional sobre tendências tecnológicas
 - **[Verifying ECUs with Hardware-in-the-Loop Testing](https://www.designnews.com/testing-measurement/verifying-ecus-with-hardware-in-the-loop-testing)**
-  - *Design News* - Técnicas de teste para sistemas embarcados
+- *Design News* - Técnicas de teste para sistemas embarcados
 
 ### 🏭 Gêmeos Digitais e Indústria
 
 - **[Dassault Systèmes: O futuro dos gêmeos digitais na indústria](https://www.mobiletime.com.br/noticias/02/02/2026/dassault-systemes-gemeos/)**
-  - *Mobile Time* - Dassault Systèmes apresenta visão sobre evolução dos gêmeos digitais
-
-- **[CES 2026: Tecnologia de gêmeos digitais começa a crescer no setor industrial](https://www.terra.com.br/economia/ces-2026-tecnologia-de-gemeos-digitais-comeca-a-crescer-no-setor-industrial%2Cdbf867aa09b63e7c7aeb467d165f8b48on1fhpds.html)**
-  - *Terra* - CES 2026 mostra crescimento da tecnologia de gêmeos digitais na indústria
-
+- *Mobile Time* - Dassault Systèmes apresenta visão sobre evolução dos gêmeos digitais
+- **[CES 2026: Tecnologia de gêmeos digitais começa a crescer no setor industrial](https://www.terra.com.br/economia/ces-2026-tecnologia-de-gemeos-digitais-comeca-a-crescer-no-setor-industrial,dbf867aa09b63e7c7aeb467d165f8b48on1fhpds.html)**
+- *Terra* - CES 2026 mostra crescimento da tecnologia de gêmeos digitais na indústria
 - **[Digital Twins: O impacto dos gêmeos digitais na indústria](https://www.onoff.gr/blog/pt/metaverso-rv/digital-twins-o-impacto-dos-gemeos-digitais-na-industria/)**
-  - *OnOff* - Análise sobre o impacto transformador dos gêmeos digitais no setor industrial
+- *OnOff* - Análise sobre o impacto transformador dos gêmeos digitais no setor industrial
 
 ---
 
 ## 📅 Categorias de Notícias
 
-### 🏭 **Semicondutores e Hardware**
-- Desenvolvimento de chips e processadores
-- Investimentos em fabricação
-- Tecnologias de escala atômica
+### 🤖 **Inteligência Artificial e Ética**
 
-### 🤖 **Inteligência Artificial**
 - Avanços em LLMs e modelos de IA
 - Questões éticas e viés algorítmico
 - Aplicações práticas e casos de uso
+- **[Pedir para IA agir como especialista prejudica respostas, mostra estudo](https://tecnoblog.net/noticias/pedir-para-ia-agir-como-especialista-prejudica-respostas-mostra-estudio/)**
+- *Tecnoblog* - Estudo sobre limitações de IA quando solicitada a agir como especialista
 
 ### 🏛️ **Políticas e Investimentos**
+
 - Iniciativas governamentais
 - Consórcios internacionais
 - Investimentos estratégicos
 
-### 🏭 **Gêmeos Digitais e Indústria**
-- Aplicações industriais de gêmeos digitais
-- Transformação digital no setor produtivo
-- Casos de uso e implementações práticas
+### 📚 **Educação e Tecnologia**
 
-### 📚 **Educação e Pesquisa**
 - Recursos educacionais
 - Pesquisas acadêmicas
 - Desenvolvimento de talentos
+- Técnicas de teste para sistemas embarcados
 
 ---
 
@@ -106,5 +95,5 @@ Este arquivo é atualizado regularmente conforme novas notícias relevantes são
 
 ---
 
-*Última atualização: Março 2026*  
-*Versão: 1.0 - Compilação de Notícias Relevantes*
+*Última atualização: Março 2026*
+*Versão: 1.2 - Compilação de Notícias Relevantes*
