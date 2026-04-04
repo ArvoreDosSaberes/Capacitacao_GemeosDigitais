@@ -1,4 +1,6 @@
-# Módulo de Análise de Séries Temporais
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=S%C3%A9ries%20Temporais%20e%20Forecasting&fontSize=40&fontAlignY=35&animation=twinkling)
+
+# 📈 Módulo de Análise de Séries Temporais
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.SeriesTemporais)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -289,4 +291,13 @@ Estes materiais foram compartilhados com propósito estritamente educacional par
 
 ---
 
-*Este módulo foi criado para fins educacionais, demonstrando técnicas modernas de análise e previsão de séries temporais, desde modelos estatísticos clássicos até abordagens de deep learning.*
+## 📊 Informações do Módulo
+
+*Este módulo apresenta o estudo de Análise de Séries Temporais para a Capacitação em Gêmeos Digitais e 5G, pertencente ao repositório **Capacitacao_GemeosDigitais** da organização **ArvoreDosSaberes**.*
+
+**Repositório:** [Capacitacao_GemeosDigitais](https://github.com/ArvoreDosSaberes/Capacitacao_GemeosDigitais)  
+**Organização:** [ArvoreDosSaberes](https://github.com/ArvoreDosSaberes)  
+**Data de criação:** 2026  
+**Licença:** CC BY-SA 4.0
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)

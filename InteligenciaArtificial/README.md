@@ -1,4 +1,6 @@
-# Módulo de Inteligência Artificial e Machine Learning
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Intelig%C3%AAncia%20Artificial%20e%20Machine%20Learning&fontSize=40&fontAlignY=35&animation=twinkling)
+
+# 🤖 Módulo de Inteligência Artificial e Machine Learning
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.InteligenciaArtificial)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -608,4 +610,13 @@ Este módulo inclui materiais complementares sobre ética, governança e respons
 
 ---
 
-*Este módulo foi criado para fins educacionais, demonstrando um fluxo completo de análise de dados e Machine Learning usando Pandas e técnicas modernas de IA.*
+## 📊 Informações do Módulo
+
+*Este módulo apresenta o estudo de Inteligência Artificial e Machine Learning para a Capacitação em Gêmeos Digitais e 5G, pertencente ao repositório **Capacitacao_GemeosDigitais** da organização **ArvoreDosSaberes**.*
+
+**Repositório:** [Capacitacao_GemeosDigitais](https://github.com/ArvoreDosSaberes/Capacitacao_GemeosDigitais)  
+**Organização:** [ArvoreDosSaberes](https://github.com/ArvoreDosSaberes)  
+**Data de criação:** 2026  
+**Licença:** CC BY-SA 4.0
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)

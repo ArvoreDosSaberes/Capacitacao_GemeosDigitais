@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Large%20Language%20Models%20(LLMs)&fontSize=40&fontAlignY=35&animation=twinkling)
+
 # 🤖 Large Language Models (LLMs) - Módulo de Capacitação
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.LLMs)
@@ -294,7 +296,13 @@ Este módulo está licenciado sob Creative Commons Attribution-ShareAlike 4.0 In
 
 ---
 
-*Este módulo apresenta o estudo de Large Language Models para a Capacitação em Gêmeos Digitais, pertencente ao projeto ArvoreDosSaberes e organização ArvoreDosSaberes.*
+## 📊 Informações do Módulo
 
-*Data de criação: 2026*  
-*Código da licença: CC BY-SA 4.0*
+*Este módulo apresenta o estudo de Large Language Models para a Capacitação em Gêmeos Digitais e 5G, pertencente ao repositório **Capacitacao_GemeosDigitais** da organização **ArvoreDosSaberes**.*
+
+**Repositório:** [Capacitacao_GemeosDigitais](https://github.com/ArvoreDosSaberes/Capacitacao_GemeosDigitais)  
+**Organização:** [ArvoreDosSaberes](https://github.com/ArvoreDosSaberes)  
+**Data de criação:** 2026  
+**Licença:** CC BY-SA 4.0
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)

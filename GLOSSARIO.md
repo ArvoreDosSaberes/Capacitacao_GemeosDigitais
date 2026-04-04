@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gloss%C3%A1rio%20-%20G%C3%AAmeos%20Digitais%20e%20IA&fontSize=40&fontAlignY=35&animation=twinkling)
+
 # 📚 Glossário - Gêmeos Digitais e IA
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais.Glossario)
@@ -333,5 +335,13 @@ Este glossário é um documento vivo que será atualizado conforme novos módulo
 
 ---
 
-*Última atualização: Março 2026*  
-*Versão: 1.0 - Glossário Completo dos Módulos Atuais*
+## 📊 Informações do Documento
+
+*Este glossário reúne termos técnicos e conceitos para o curso de Capacitação em Gêmeos Digitais e 5G, pertencente ao repositório **Capacitacao_GemeosDigitais** da organização **ArvoreDosSaberes**.*
+
+**Repositório:** [Capacitacao_GemeosDigitais](https://github.com/ArvoreDosSaberes/Capacitacao_GemeosDigitais)  
+**Organização:** [ArvoreDosSaberes](https://github.com/ArvoreDosSaberes)  
+**Data de criação:** 2026  
+**Licença:** CC BY-SA 4.0
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)

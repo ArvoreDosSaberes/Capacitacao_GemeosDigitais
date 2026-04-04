@@ -1,4 +1,6 @@
-# Gêmeos Digitais - Capacitação em Tecnologia
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=G%C3%AAmeos%20Digitais%20-%20Capacita%C3%A7%C3%A3o%20em%20Tecnologia&fontSize=40&fontAlignY=35&animation=twinkling)
+
+# 🎯 Gêmeos Digitais - Capacitação em Tecnologia
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Capacitacao_GemeosDigitais)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -418,5 +420,13 @@ Este projeto faz parte de uma iniciativa maior de educação em tecnologia. Para
 
 ---
 
-*Última atualização: Março 2026*
-*Versão: 2.0 - Com novo módulo de Séries Temporais*
+## 📊 Informações do Repositório
+
+*Este repositório contém materiais de capacitação em Gêmeos Digitais e 5G, incluindo módulos de Inteligência Artificial, Séries Temporais, LLMs e recursos educacionais complementares.*
+
+**Repositório:** [Capacitacao_GemeosDigitais](https://github.com/ArvoreDosSaberes/Capacitacao_GemeosDigitais)  
+**Organização:** [ArvoreDosSaberes](https://github.com/ArvoreDosSaberes)  
+**Data de criação:** Março 2026  
+**Licença:** CC BY-SA 4.0
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)
