@@ -1,28 +1,26 @@
 ---
-description: Encontra páginas específicas em livros com base em texto ou número de página
+description: Encontra páginas específicas em livros com base em texto
 ---
 
 # Workflow de Busca de Páginas Específicas
 
-Este workflow permite encontrar páginas específicas em livros digitando o texto entre aspas ou um número de página. Se múltiplas páginas forem encontradas, apresenta um menu interativo para escolher.
+Este workflow permite encontrar páginas específicas em livros digitando o texto entre aspas. Todas as buscas são tratadas como texto para evitar encontrar a mesma página número em múltiplos livros.
 
 ## Uso
 
-Digite `/rag-find-page` seguido do texto entre aspas ou número de página.
+Digite `/rag-find-page` seguido do texto entre aspas.
 
 ## Exemplos
 
 - `/rag-find-page "redes neurais convolucionais"`
 - `/rag-find-page "machine learning algorithms"`
-- `/rag-find-page 42`
 - `/rag-find-page "attention mechanism"`
+- `/rag-find-page "42"` (busca o texto "42", não página 42)
 
 ## O que acontece
 
-1. **Análise da Query**: Identifica se é texto entre aspas ou número de página
-2. **Busca Inteligente**: 
-   - Para texto: usa busca semântica para encontrar páginas relevantes
-   - Para número: busca direta pela página específica em todos os livros
+1. **Análise da Query**: Identifica o texto a pesquisar (números são tratados como texto)
+2. **Busca Inteligente**: Usa busca semântica e textual para encontrar páginas relevantes
 3. **Menu Interativo**: Se múltiplos resultados, apresenta opções numeradas
 4. **Seleção e Recuperação**: Recupera o conteúdo da página escolhida
 5. **Contexto Rico**: Apresenta o conteúdo completo da página para uso no chat
@@ -33,22 +31,9 @@ Digite `/rag-find-page` seguido do texto entre aspas ou número de página.
 ```
 /rag-find-page "texto pesquisado"
 ↓
-Busca semântica em todos os livros
+Busca semântica e textual em todos os livros
 ↓
 Se múltiplos resultados → Menu de escolha
-↓
-Recupera conteúdo completo da página
-↓
-Apresenta conteúdo para uso no chat
-```
-
-### Busca por Número de Página
-```
-/rag-find-page 42
-↓
-Busca página 42 em todos os livros indexados
-↓
-Se encontrado em múltiplos livros → Menu de escolha
 ↓
 Recupera conteúdo completo da página
 ↓
@@ -116,13 +101,13 @@ Digite 2 para selecionar:
 ```
 
 ```
-/rag-find-page 156
+/rag-find-page "42"
 ↓
-📚 Página 156 encontrada em 3 livros:
+📚 Encontradas 3 páginas com o texto "42":
 
-[1] Algorithms Book - Página 156
-[2] Data Science Guide - Página 156  
-[3] Programming Manual - Página 156
+[1] Mathematics Book - Página 156 - "...o número 42 é..."
+[2] Programming Guide - Página 89 - "...return 42;"
+[3] Physics Manual - Página 23 - "...42 joules..."
 
 Digite 1 para selecionar:
 ↓
@@ -135,7 +120,7 @@ Digite 1 para selecionar:
 - **Texto Específico**: Use frases exatas entre aspas
 - **Termos Técnicos**: Use linguagem técnica e precisa
 - **Contexto**: Inclua contexto para buscas mais relevantes
-- **Números de Página**: Use quando souber a página exata
+- **Números**: Use números entre aspas para buscar o texto numérico específico
 
 ### Estratégias de Busca
 - **Citações**: `"attention is all you need"`
