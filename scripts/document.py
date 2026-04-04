@@ -12,6 +12,7 @@ Uso:
     python document.py -i  # modo interativo
 """
 
+# Importações básicas (sempre necessárias)
 import os
 import sys
 import re
@@ -22,60 +23,93 @@ import signal
 import string
 import random
 import sqlite3
-import chromadb
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 import subprocess
-import shutil
 from datetime import datetime
 import time
 from dotenv import load_dotenv
 
-# Importações para processamento de documentos
-print("🔄 Carregando bibliotecas de processamento de documentos...")
-try:
-    import fitz  # PyMuPDF
-    print("  ✅ PyMuPDF carregado")
-    import ebooklib
-    from ebooklib import epub
-    print("  ✅ Ebooklib carregado")
-    import pytesseract
-    print("  ✅ Pytesseract carregado")
-    from PIL import Image
-    print("  ✅ PIL carregado")
-    import pdf2image
-    print("  ✅ PDF2Image carregado")
-    import markdownify
-    print("  ✅ Markdownify carregado")
-    from bs4 import BeautifulSoup
-    print("  ✅ BeautifulSoup carregado")
-    print("📚 Bibliotecas de processamento carregadas com sucesso!")
-except ImportError as e:
-    print(f"Erro: Biblioteca necessária não encontrada: {e}")
-    print("Instale as dependências com: pip install -r requirements.txt")
-    sys.exit(1)
+# Variáveis globais para controle de bibliotecas carregadas
+_doc_libraries_loaded = False
+_embedding_libraries_loaded = False
+_chroma_loaded = False
 
-# Importações para embeddings e busca semântica
-print("🔄 Carregando bibliotecas de embeddings e busca semântica...")
-try:
-    import numpy as np
-    print("  ✅ NumPy carregado")
-    print("  ⏳ Carregando SentenceTransformer...")
-    from sentence_transformers import SentenceTransformer
-    print("  ✅ SentenceTransformers carregado")
-    import ollama
-    print("  ✅ Ollama carregado")
-    print("🧠 Bibliotecas de embeddings carregadas com sucesso!")
-except ImportError as e:
-    print(f"Erro: Biblioteca necessária não encontrada: {e}")
-    print("Instale as dependências com: pip install -r requirements.txt")
-    sys.exit(1)
+# Funções para carregar bibliotecas sob demanda
+def load_document_libraries():
+    """Carrega bibliotecas de processamento de documentos apenas quando necessário."""
+    global _doc_libraries_loaded
+    if _doc_libraries_loaded:
+        return
+    
+    print("🔄 Carregando bibliotecas de processamento de documentos...")
+    try:
+        global fitz, ebooklib, epub, pytesseract, Image, pdf2image, markdownify, BeautifulSoup
+        import fitz  # PyMuPDF
+        print("  ✅ PyMuPDF carregado")
+        import ebooklib
+        from ebooklib import epub
+        print("  ✅ Ebooklib carregado")
+        import pytesseract
+        print("  ✅ Pytesseract carregado")
+        from PIL import Image
+        print("  ✅ PIL carregado")
+        import pdf2image
+        print("  ✅ PDF2Image carregado")
+        import markdownify
+        print("  ✅ Markdownify carregado")
+        from bs4 import BeautifulSoup
+        print("  ✅ BeautifulSoup carregado")
+        print("📚 Bibliotecas de processamento carregadas com sucesso!")
+        _doc_libraries_loaded = True
+    except ImportError as e:
+        print(f"Erro: Biblioteca necessária não encontrada: {e}")
+        print("Instale as dependências com: pip install -r requirements.txt")
+        sys.exit(1)
+
+def load_embedding_libraries():
+    """Carrega bibliotecas de embeddings apenas quando necessário."""
+    global _embedding_libraries_loaded
+    if _embedding_libraries_loaded:
+        return
+    
+    print("🔄 Carregando bibliotecas de embeddings e busca semântica...")
+    try:
+        global np, SentenceTransformer, ollama
+        import numpy as np
+        print("  ✅ NumPy carregado")
+        print("  ⏳ Carregando SentenceTransformer...")
+        from sentence_transformers import SentenceTransformer
+        print("  ✅ SentenceTransformers carregado")
+        import ollama
+        print("  ✅ Ollama carregado")
+        print("🧠 Bibliotecas de embeddings carregadas com sucesso!")
+        _embedding_libraries_loaded = True
+    except ImportError as e:
+        print(f"Erro: Biblioteca necessária não encontrada: {e}")
+        print("Instale as dependências com: pip install -r requirements.txt")
+        sys.exit(1)
+
+def load_chroma_library():
+    """Carrega ChromaDB apenas quando necessário."""
+    global _chroma_loaded
+    if _chroma_loaded:
+        return
+    
+    try:
+        global chromadb
+        import chromadb
+        _chroma_loaded = True
+    except ImportError as e:
+        print(f"Erro: Biblioteca necessária não encontrada: {e}")
+        print("Instale as dependências com: pip install -r requirements.txt")
+        sys.exit(1)
 
 
 class DocumentConverter:
     def __init__(self, data_dir: str = ".data", embedding_model: str = "mxbai-embed-large", 
                  converted_dir: str = None, tesseract_lang: str = "por", 
-                 chunk_size: int = 500, chunk_overlap: int = 50):
+                 chunk_size: int = 500, chunk_overlap: int = 50, command_type: str = "full"):
         # Carregar variáveis de ambiente do .env
         # Primeiro tenta do diretório onde foi chamado (CWD), senão do diretório do script
         cwd_env = Path.cwd() / '.env'
@@ -124,9 +158,9 @@ class DocumentConverter:
         print("📋 Configurando sistema de logging...")
         self._setup_logging()
         
-        # Configurar bancos de dados
+        # Configurar bancos de dados conforme o comando
         print("🗄️  Configurando bancos de dados...")
-        self._setup_databases()
+        self._setup_databases(command_type=command_type)  # Usar o tipo de comando passado
         print("✅ Inicialização concluída!")
     
     def _signal_handler(self, signum, frame):
@@ -223,6 +257,9 @@ class DocumentConverter:
     
     def _init_embedding_model(self):
         """Inicializa o modelo de embeddings."""
+        # Garantir que bibliotecas de embeddings estejam carregadas
+        load_embedding_libraries()
+        
         try:
             # Tentar usar Ollama primeiro
             self.model_type = "ollama"
@@ -240,6 +277,9 @@ class DocumentConverter:
     
     def get_embedding(self, text: str) -> np.ndarray:
         """Gera embedding para um texto."""
+        # Garantir que bibliotecas de embeddings estejam carregadas
+        load_embedding_libraries()
+        
         if self.model_type == "ollama":
             try:
                 result = ollama.embeddings(model=self.embedding_model, prompt=text)
@@ -256,6 +296,9 @@ class DocumentConverter:
     
     def convert_pdf_to_md(self, pdf_path: Path) -> str:
         """Converte PDF para Markdown de forma limpa."""
+        # Carregar bibliotecas de documentos apenas quando necessário
+        load_document_libraries()
+        
         try:
             self._log(f"Iniciando conversão PDF: {pdf_path.name}", "INFO")
             doc = fitz.open(str(pdf_path))
@@ -291,6 +334,9 @@ class DocumentConverter:
     
     def convert_epub_to_md(self, epub_path: Path) -> str:
         """Converte EPUB para Markdown."""
+        # Carregar bibliotecas de documentos apenas quando necessário
+        load_document_libraries()
+        
         try:
             book = epub.read_epub(str(epub_path))
             markdown_content = []
@@ -320,6 +366,9 @@ class DocumentConverter:
     
     def convert_djvu_to_md(self, djvu_path: Path) -> str:
         """Converte Djvu para Markdown usando OCR (requer instalação manual do suporte DjVu)."""
+        # Carregar bibliotecas de documentos apenas quando necessário
+        load_document_libraries()
+        
         try:
             # Verificar se o suporte DjVu está disponível
             try:
@@ -552,32 +601,37 @@ class DocumentConverter:
         self._log(f"Criados {len(chunks)} chunks sem sobreposição", "INFO")
         return chunks
     
-    def _setup_databases(self):
-        """Configura bancos de dados SQLite e ChromaDB."""
+    def _setup_databases(self, command_type: str = "full"):
+        """Configura bancos de dados SQLite e ChromaDB conforme o comando."""
         print("  📊 Configurando SQLite...")
         # Configurar SQLite
         self.db_path = self.data_dir / "documents.db"
         self._init_sqlite()
         print("  ✅ SQLite configurado!")
         
-        print("  🧠 Configurando ChromaDB...")
-        # Configurar ChromaDB (chroma_path já foi criado em _setup_logging)
-        self._init_chroma()
-        print("  ✅ ChromaDB configurado!")
-        
-        print("  🤖 Verificando modelo Ollama...")
-        # Verificar e instalar modelo Ollama se necessário
-        self._ensure_ollama_model()
-        
-        print("  🔧 Inicializando modelo de embeddings...")
-        # Inicializar modelo de embeddings
-        self.model = None
-        self._init_embedding_model()
-        print("  ✅ Modelo de embeddings inicializado!")
-        
-        print("  🔍 Verificando compatibilidade de modelo...")
-        # Verificar compatibilidade do modelo com banco existente
-        self._check_embedding_model_compatibility()
+        # Carregar bibliotecas de embeddings apenas se necessário
+        if command_type in ["search", "convert", "interactive"]:
+            load_embedding_libraries()
+            load_chroma_library()
+            
+            print("  🧠 Configurando ChromaDB...")
+            # Configurar ChromaDB (chroma_path já foi criado em _setup_logging)
+            self._init_chroma()
+            print("  ✅ ChromaDB configurado!")
+            
+            print("  🤖 Verificando modelo Ollama...")
+            # Verificar e instalar modelo Ollama se necessário
+            self._ensure_ollama_model()
+            
+            print("  🔧 Inicializando modelo de embeddings...")
+            # Inicializar modelo de embeddings
+            self.model = None
+            self._init_embedding_model()
+            print("  ✅ Modelo de embeddings inicializado!")
+            
+            print("  🔍 Verificando compatibilidade de modelo...")
+            # Verificar compatibilidade do modelo com banco existente
+            self._check_embedding_model_compatibility()
         
         self._log("Bancos de dados configurados", "INFO")
     
@@ -697,6 +751,9 @@ class DocumentConverter:
     
     def _init_chroma(self):
         """Inicializa ChromaDB para embeddings."""
+        # Garantir que ChromaDB esteja carregado
+        load_chroma_library()
+        
         try:
             # Usar persistência local
             self.chroma_client = chromadb.PersistentClient(path=str(self.chroma_path))
@@ -1359,11 +1416,20 @@ def main():
         parser.print_help()
         return
     
-    # Tratar None para chunk_size e chunk_overlap (CLI não fornecido → usar default do .env/construtor)
+    # Determinar tipo de comando para otimizar carregamento
+    command_type = "full"
+    if args.search or args.interactive:
+        command_type = "search"
+    elif args.convert or args.convert_all or (positional_args and len(sys.argv) > 1):
+        command_type = "convert"
+    elif args.list or args.delete:
+        command_type = "basic"
+    
     kwargs = {
         'data_dir': args.data_dir,
         'converted_dir': args.converted_dir,
         'tesseract_lang': args.lang,
+        'command_type': command_type  # Passar tipo de comando
     }
     if args.chunk_size is not None:
         kwargs['chunk_size'] = args.chunk_size
