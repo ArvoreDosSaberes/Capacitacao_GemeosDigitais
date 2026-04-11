@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2615955-6c1c-4bf2-b87a-01021e43fee5</dc:identifier>
+        <dc:title>Como Mentir com Estatística</dc:title>
+        <dc:creator opf:file-as="Heff, Darrell" opf:role="aut">Darrell Heff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-23T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Quando foi publicado pela primeira vez, em 1954, o livro de Darrell Huff foi saudado como pioneiro em conjugar linguagem simples e ilustrações para tratar de um tema polêmico e controverso: o mau uso da estatística para maquiar dados e abalizar opiniões. Hoje, em tempos de internet e big data, o livro continua genuinamente subversivo e ainda mais relevante. Qual é, afinal, o grau de confiança que devemos depositar nas análises estatísticas? Segundo Huff, vale ter sempre um pé atrás. Amostras enviesadas, gráficos dúbios, listagens incompletas: item por item o autor apresenta os vilões da interpretação de dados. Em um capítulo, ele aponta como os gráficos estatísticos, mesmo matematicamente corretos, podem não representar em nada a realidade. Em outro, vemos que uma mesma projeção pode mostrar um futuro positivo ou alarmante, dependendo da amplitude de dados que ela cobre. O livro termina com um brilhante passo a passo para o leitor aprender a diferenciar informação de enrolação. Escrito com humor e repleto de advertências tão atemporais quanto a ciência matemática, Como mentir com estatística é uma leitura agradável e absolutamente acessível. Indispensável para quem se vê bombardeado diariamente, seja pela mídia ou pela timeline do Facebook, por infográficos e estatísticas que se pretendem verdades incontestáveis.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01FIGE0S8</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2026-04-11T21:59:28.759336+00:00"/>
+        <meta name="calibre:title_sort" content="Como Mentir com Estatística"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Como Mentir com Estatística - Darrell Heff.jpg"/>
+    </guide>
+</package>
