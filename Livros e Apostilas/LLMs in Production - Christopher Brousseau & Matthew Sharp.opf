@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35ccc2ba-3d56-43fd-bf60-2527491197d8</dc:identifier>
+        <dc:title>LLMs in Production</dc:title>
+        <dc:creator opf:file-as="Brousseau, Christopher &amp; Sharp, Matthew" opf:role="aut">Christopher Brousseau</dc:creator>
+        <dc:creator opf:file-as="Brousseau, Christopher &amp; Sharp, Matthew" opf:role="aut">Matthew Sharp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>LLM</dc:subject>
+        <dc:subject>chatGPT</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-15T20:58:11+00:00"/>
+        <meta name="calibre:title_sort" content="LLMs in Production"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="LLMs in Production - Christopher Brousseau &amp; Matthew Sharp.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efa8a805-0d57-4412-bac2-b9d6e47fa452</dc:identifier>
+        <dc:title>Math for Deep Learning</dc:title>
+        <dc:creator opf:file-as="Kneusel, Ronald T." opf:role="aut">Ronald T. Kneusel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;&lt;i&gt;Math for Deep Learning&lt;/i&gt; provides the essential math you need to understand deep learning discussions, explore more complex implementations, and better use the deep learning toolkits.&lt;/b&gt;&lt;br&gt;With &lt;i&gt;Math for Deep Learning&lt;/i&gt;, you'll learn the essential mathematics used by and as a background for deep learning.&amp;nbsp;&lt;br&gt;You&amp;rsquo;ll work through Python examples to learn key deep learning related topics in probability, statistics, linear algebra, differential calculus, and matrix calculus as well as how to implement data flow in a neural network, backpropagation, and gradient descent. You&amp;rsquo;ll also use Python to work through the mathematics that underlies those algorithms and even build a fully-functional neural network.&lt;br&gt;In addition you&amp;rsquo;ll find coverage of gradient descent including variations commonly used by the deep learning community: SGD, Adam, RMSprop, and Adagrad/Adadelta.&lt;br&gt;&amp;nbsp;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-09-05T19:37:14+00:00"/>
+        <meta name="calibre:title_sort" content="Math for Deep Learning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Math for Deep Learning - Ronald T. Kneusel.jpg"/>
+    </guide>
+</package>

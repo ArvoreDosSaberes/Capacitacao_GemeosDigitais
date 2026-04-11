@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f94d932-5275-4cfb-801b-bc223f0423e1</dc:identifier>
+        <dc:title>Prompt Engineering for LLMs (for True Epub)</dc:title>
+        <dc:creator opf:file-as="Berryman, John &amp; Ziegler, Albert" opf:role="aut">John Berryman</dc:creator>
+        <dc:creator opf:file-as="Berryman, John &amp; Ziegler, Albert" opf:role="aut">Albert Ziegler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-28T00:00:00+00:00</dc:date>
+        <dc:description>This book provides a solid foundation of LLM principles and explains how to apply them in practice. When first integrating LLMs into workflows, most developers struggle to coax useful insights from them. That's because communicating with AI is different from communicating with humans. This guide shows you how to present your problem in the model-friendly way called prompt engineering.</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>chatGPT</dc:subject>
+        <dc:subject>LLM</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-01T16:12:11+00:00"/>
+        <meta name="calibre:title_sort" content="Prompt Engineering for LLMs (for True Epub)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Prompt Engineering for LLMs (for True Epub) - John Berryman &amp; Albert Ziegler.jpg"/>
+    </guide>
+</package>

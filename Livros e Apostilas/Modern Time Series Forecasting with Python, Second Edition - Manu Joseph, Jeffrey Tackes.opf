@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f38b4657-86b5-4665-a1c4-c2c5ff018c10</dc:identifier>
+        <dc:title>Modern Time Series Forecasting with Python, Second Edition</dc:title>
+        <dc:creator opf:file-as="Manu Joseph, Jeffrey Tackes" opf:role="aut">Manu Joseph, Jeffrey Tackes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-25T12:34:17+00:00</dc:date>
+        <dc:description>Predict the future with confidence with this practical guide on building and deploying powerful time series forecasting models. New content on transformers and probabilistic modeling makes it a must-read for tackling complex forecasting challenges.</dc:description>
+        <dc:publisher>Packt</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>BUS086000 - BUSINESS &amp; ECONOMICS / Forecasting</dc:subject>
+        <dc:subject>MAT029040 - MATHEMATICS / Probability &amp; Statistics / Stochastic Processes</dc:subject>
+        <dc:subject>COM037000 - COMPUTERS / Machine Theory</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-09T21:16:36.898276+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Time Series Forecasting with Python, Second Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Modern Time Series Forecasting with Python, Second Edition - Manu Joseph, Jeffrey Tackes.jpg"/>
+    </guide>
+</package>

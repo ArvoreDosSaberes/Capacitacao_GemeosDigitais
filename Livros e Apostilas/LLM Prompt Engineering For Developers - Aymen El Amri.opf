@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d2004ea-73b6-4059-85fb-684610bf6375</dc:identifier>
+        <dc:title>LLM Prompt Engineering For Developers</dc:title>
+        <dc:creator opf:file-as="Amri, Aymen El" opf:role="aut">Aymen El Amri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>LLM</dc:subject>
+        <dc:subject>chatGPT</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-01T16:12:14+00:00"/>
+        <meta name="calibre:title_sort" content="LLM Prompt Engineering For Developers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="LLM Prompt Engineering For Developers - Aymen El Amri.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1426c2bc-8c63-439f-8479-291d8d22d21a</dc:identifier>
+        <dc:title>Mastering NLP From Foundations to LLMs</dc:title>
+        <dc:creator opf:file-as="Apply Advanced -- Meysam Ghaffari, LIOR. GHAFFARI GAZIT (MEYSAM.) -- ( WeLib.org )" opf:role="aut">Apply Advanced -- Meysam Ghaffari, LIOR. GHAFFARI GAZIT (MEYSAM.) -- ( WeLib.org )</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-01T11:37:50+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering NLP From Foundations to LLMs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Mastering NLP From Foundations to LLMs - Apply Advanced -- Meysam Ghaffari, LIOR. GHAFFARI GAZIT (MEYSAM.) -- ( WeLib.org ).jpg"/>
+    </guide>
+</package>

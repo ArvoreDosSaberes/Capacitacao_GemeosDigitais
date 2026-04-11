@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76c9b6f7-ba41-4201-a0e3-1cfed5d13102</dc:identifier>
+        <dc:title>LLMs and Generative AI for Healthcare</dc:title>
+        <dc:creator opf:file-as="Holley, Kerrie &amp; Mathur, Manish" opf:role="aut">Kerrie Holley</dc:creator>
+        <dc:creator opf:file-as="Holley, Kerrie &amp; Mathur, Manish" opf:role="aut">Manish Mathur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-19T19:46:56+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-02T18:31:54+00:00"/>
+        <meta name="calibre:title_sort" content="LLMs and Generative AI for Healthcare"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="LLMs and Generative AI for Healthcare - Kerrie Holley &amp; Manish Mathur.jpg"/>
+    </guide>
+</package>

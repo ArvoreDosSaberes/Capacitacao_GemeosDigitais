@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbf85fc5-e227-4d04-8c18-2d2fc4c1ddf7</dc:identifier>
+        <dc:title>Natural Language Processing with Transformers</dc:title>
+        <dc:creator opf:file-as="Lewis Tunstall, Leandro von Werra &amp; Wolf, Thomas" opf:role="aut">Lewis Tunstall, Leandro von Werra</dc:creator>
+        <dc:creator opf:file-as="Lewis Tunstall, Leandro von Werra &amp; Wolf, Thomas" opf:role="aut">Thomas Wolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-25T20:37:20+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>NLP</dc:subject>
+        <dc:subject>Transformers</dc:subject>
+        <dc:subject>chatGPT</dc:subject>
+        <dc:subject>LLM</dc:subject>
+        <meta name="calibre:timestamp" content="2025-06-22T04:19:05+00:00"/>
+        <meta name="calibre:title_sort" content="Natural Language Processing with Transformers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Natural Language Processing with Transformers - Lewis Tunstall, Leandro von Werra &amp; Thomas Wolf.jpg"/>
+    </guide>
+</package>
