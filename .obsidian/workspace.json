@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06661f91c3700c2a",
+        "id": "24e40cb86c4822d4",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9982bd91f7d721",
+            "id": "edfce7d7065437b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeriesTemporais/Aula 2 Series Temporais Fundamentos de IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aula 2 Series Temporais Fundamentos de IA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -180,26 +176,27 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6f9982bd91f7d721",
+  "active": "edfce7d7065437b8",
   "lastOpenFiles": [
-    "Livros e Apostilas/Séries temporais com Prophet_ Análise e previsão de dados com Python - Allan Spadini e Valquíria Alencar.pdf",
+    "SeriesTemporais/Merlion/docs/README.md",
+    "InteligenciaArtificial/Aula 1 - Fundamentos-IA.md",
+    "Livros e Apostilas/Ai and Machine Learning for Coders - A programer's Guide to Artifical Intelgience - Laurence Moroney.pdf",
+    "Livros e Apostilas/README.md",
+    "SeriesTemporais/README.md",
+    "Livros e Apostilas/Inteligência Artificial - 6° Edição - George Luger.pdf",
+    "Livros e Apostilas/Uncertain rule based fuzzy logic systems - Desconhecido.pdf",
+    "Livros e Apostilas/Uncertain_rule_based_fuzzy_logic_systems.pdf",
+    "AULAS.md",
+    "SeriesTemporais.md",
+    "SeriesTemporais 1.md",
     "SeriesTemporais/Aula 2 Series Temporais Fundamentos de IA.md",
+    "Livros e Apostilas/Séries temporais com Prophet_ Análise e previsão de dados com Python - Allan Spadini e Valquíria Alencar.pdf",
     "Livros e Apostilas/Análise prática de séries temporais_ predição com estatística e aprendizado de máquina - Aileen Nielsen.pdf",
     "InteligenciaArtificial/Teoria-Aprendizado-de-Maquina-Conceitos-Fundamentais-e-Tipos-de-Modelos.pdf",
     "Gëmeos Digitais/Bem-vindo.md",
-    "Gëmeos Digitais",
-    "InteligenciaArtificial/Aula 1 - Fundamentos-IA.md",
-    "Livros e Apostilas/Ai and Machine Learning for Coders - A programer's Guide to Artifical Intelgience - Laurence Moroney.pdf",
-    "InteligenciaArtificial/Pratica-construindo-um-modelo-de-aprendizado-de-maquina.pdf",
     "README.md",
-    "Livros e Apostilas/Análise de Séries Temporais - Pedro A. Morettin.pdf",
-    "Livros e Apostilas/Analise de Series Temporais - Pedro A. Morettin & Clelia M. C. Toloi.pdf",
-    "Livros e Apostilas/Analise de Series Temporais - Pedro A. Morettin & Clelia M. C. Toloi.opf",
     "Livros e Apostilas/Analise de Series Temporais - Pedro A. Morettin & Clelia M. C. Toloi.jpg",
-    "Livros e Apostilas/Elementos de Amostragem - Heleno Bolfarine & Wilton Oliveira Bussab.pdf",
-    "Livros e Apostilas/Elementos de Amostragem - Heleno Bolfarine & Wilton Oliveira Bussab.opf",
     "Livros e Apostilas/Elementos de Amostragem - Heleno Bolfarine & Wilton Oliveira Bussab.jpg",
-    "Livros e Apostilas/README.md",
     "Livros e Apostilas/Quality Assessment and Security in Industrial Internet of Things - Sudan Jha %26 Sarbagya Ratna Shakya %26 Sultan Ahmad %26 Zhaoxian Zhou.pdf.md",
     "Livros e Apostilas/Mastering Time Series Analysis and Forecasting with Python_ Bridging Theory and Practice Through Insights%2C Techniques%2C and Tools for Effective Time Series Analysis in Python - Sulekha Aloorravi.pdf.md",
     "Bem-vindo.md"

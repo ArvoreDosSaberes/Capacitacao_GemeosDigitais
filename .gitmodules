@@ -1,6 +1,33 @@
-[submodule "SeriesTemporais/granite-tsfm"]
-	path = SeriesTemporais/granite-tsfm
+[submodule "Series Temporais/Kats"]
+	path = Series Temporais/Kats
+	url = https://github.com/facebookresearch/Kats.git
+[submodule "Series Temporais/Merlion"]
+	path = Series Temporais/Merlion
+	url = https://github.com/salesforce/Merlion.git
+[submodule "Series Temporais/chronos-forecasting"]
+	path = Series Temporais/chronos-forecasting
+	url = https://github.com/amazon-science/chronos-forecasting.git
+[submodule "Series Temporais/darts"]
+	path = Series Temporais/darts
+	url = https://github.com/unit8co/darts.git
+[submodule "Series Temporais/gluonts"]
+	path = Series Temporais/gluonts
+	url = https://github.com/amazon-science/gluonts.git
+[submodule "Series Temporais/granite-tsfm"]
+	path = Series Temporais/granite-tsfm
 	url = https://github.com/ibm-granite/granite-tsfm.git
-[submodule "SeriesTemporais/prophet"]
-	path = SeriesTemporais/prophet
+[submodule "Series Temporais/neural_prophet"]
+	path = Series Temporais/neural_prophet
+	url = https://github.com/ourownstory/neural_prophet.git
+[submodule "Series Temporais/nixtla"]
+	path = Series Temporais/nixtla
+	url = https://github.com/Nixtla/nixtla.git
+[submodule "Series Temporais/prophet"]
+	path = Series Temporais/prophet
 	url = https://github.com/facebook/prophet.git
+[submodule "Series Temporais/statsforecast"]
+	path = Series Temporais/statsforecast
+	url = https://github.com/Nixtla/statsforecast.git
+[submodule "Series Temporais/tsai"]
+	path = Series Temporais/tsai
+	url = https://github.com/timeseriesAI/tsai.git
