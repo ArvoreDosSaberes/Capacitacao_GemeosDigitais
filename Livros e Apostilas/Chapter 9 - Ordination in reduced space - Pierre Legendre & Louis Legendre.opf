@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34209631-1362-455c-a781-35bb0772aa07</dc:identifier>
+        <dc:title>Chapter 9 - Ordination in reduced space</dc:title>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Pierre Legendre</dc:creator>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Louis Legendre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-27T22:13:02+00:00</dc:date>
+        <dc:description>Numerical Ecology, Third Edition, (2012) 425-520. doi:10.1016/B978-0-444-53868-0.50009-5</dc:description>
+        <dc:publisher>Elsevier B.V.</dc:publisher>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1016/B978-0-444-53868-0.50009-5</dc:identifier>
+        <dc:identifier opf:scheme="DOI">10.1016/B978-0-444-53868-0.50009-5</dc:identifier>
+        <dc:language>pt</dc:language>
+        <dc:subject>Numerical ecology</dc:subject>
+        <dc:subject>ordination in reduced space</dc:subject>
+        <dc:subject>principal component analysis of a dispersion matrix</dc:subject>
+        <dc:subject>principal component analysis of a correlation matrix</dc:subject>
+        <dc:subject>ordination of community composition data</dc:subject>
+        <dc:subject>correspondence analysis</dc:subject>
+        <dc:subject>principal coordinate analysis</dc:subject>
+        <dc:subject>nonmetric multidimensional scaling</dc:subject>
+        <dc:subject>ecological applications</dc:subject>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:10:18.316378+00:00"/>
+        <meta name="calibre:title_sort" content="Chapter 9 - Ordination in reduced space"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Chapter 9 - Ordination in reduced space - Pierre Legendre &amp; Louis Legendre.jpg"/>
+    </guide>
+</package>

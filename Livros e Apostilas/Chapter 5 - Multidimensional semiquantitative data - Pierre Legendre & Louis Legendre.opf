@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20601</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df911bb0-9382-4c9d-b807-1b34721dc7f9</dc:identifier>
+        <dc:title>Chapter 5 - Multidimensional semiquantitative data</dc:title>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Pierre Legendre</dc:creator>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Louis Legendre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-19T09:33:21+00:00</dc:date>
+        <dc:description>Numerical Ecology, Third Edition, (2012) 195-218. doi:10.1016/B978-0-444-53868-0.50005-8</dc:description>
+        <dc:publisher>Elsevier B.V.</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1016/B978-0-444-53868-0.50005-8</dc:identifier>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1016/B978-0-444-53868-0.50005-8</dc:identifier>
+        <dc:language>pt</dc:language>
+        <dc:subject>Numerical ecology</dc:subject>
+        <dc:subject>multidimensional semiquantitative data</dc:subject>
+        <dc:subject>nonparametric statistics</dc:subject>
+        <dc:subject>rank statistics</dc:subject>
+        <dc:subject>quantitative semiquantitative and qualitative multidimensional data</dc:subject>
+        <dc:subject>one-dimensional nonparametric statistics</dc:subject>
+        <dc:subject>rank correlation</dc:subject>
+        <dc:subject>Spearman r</dc:subject>
+        <dc:subject>Kendall</dc:subject>
+        <dc:subject>coefficient of concordance W</dc:subject>
+        <dc:subject>tests of significance</dc:subject>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:10:03.042394+00:00"/>
+        <meta name="calibre:title_sort" content="Chapter 5 - Multidimensional semiquantitative data"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Chapter 5 - Multidimensional semiquantitative data - Pierre Legendre &amp; Louis Legendre.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd81b37e-b902-488e-9eea-a3c27ccf3c6b</dc:identifier>
+        <dc:title>Chapter 6 - Multidimensional qulitative data</dc:title>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Pierre Legendre</dc:creator>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Louis Legendre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-19T09:31:47+00:00</dc:date>
+        <dc:description>Numerical Ecology, Third Edition, (2012) 219-264. doi:10.1016/B978-0-444-53868-0.50006-X</dc:description>
+        <dc:publisher>Elsevier B.V.</dc:publisher>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1016/B978-0-444-53868-0.50006-X</dc:identifier>
+        <dc:identifier opf:scheme="DOI">10.1016/B978-0-444-53868-0.50006-X</dc:identifier>
+        <dc:language>pt</dc:language>
+        <dc:subject>Numerical ecology</dc:subject>
+        <dc:subject>multidimensional qualitative data</dc:subject>
+        <dc:subject>information and entropy</dc:subject>
+        <dc:subject>two-way contingency table</dc:subject>
+        <dc:subject>multiway contingency table</dc:subject>
+        <dc:subject>correspondence in contingency tables</dc:subject>
+        <dc:subject>species diversity</dc:subject>
+        <dc:subject>biodiversity</dc:subject>
+        <dc:subject>species evenness</dc:subject>
+        <dc:subject>species equitability</dc:subject>
+        <dc:subject>species diversity through space</dc:subject>
+        <dc:subject>alpha diversity</dc:subject>
+        <dc:subject>beta diversity</dc:subject>
+        <dc:subject>gamma diversity</dc:subject>
+        <dc:subject>ecological applications</dc:subject>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:10:00.172388+00:00"/>
+        <meta name="calibre:title_sort" content="Chapter 6 - Multidimensional qulitative data"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Chapter 6 - Multidimensional qulitative data - Pierre Legendre &amp; Louis Legendre.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa5bb2fe-1cdc-4b7a-b050-83b038156441</dc:identifier>
+        <dc:title>Python e R para o Cientista de Dados Moderno</dc:title>
+        <dc:creator opf:file-as="Rick J. Scavetta, Boyan Angelov" opf:role="aut">Rick J. Scavetta, Boyan Angelov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-08T00:00:00+00:00</dc:date>
+        <dc:description>Aprenda a usar Python e R juntas, para executar tarefas de ciência de dados, ampliando suas habilidades como cientista de dados bilíngue.</dc:description>
+        <dc:publisher>Novatec Editora Ltda.</dc:publisher>
+        <dc:language>ara</dc:language>
+        <dc:language>eng</dc:language>
+        <dc:language>por</dc:language>
+        <dc:subject>técnico</dc:subject>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:10:06.294428+00:00"/>
+        <meta name="calibre:title_sort" content="Python e R para o Cientista de Dados Moderno"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Python e R para o Cientista de Dados Moderno - Rick J. Scavetta, Boyan Angelov.jpg"/>
+    </guide>
+</package>

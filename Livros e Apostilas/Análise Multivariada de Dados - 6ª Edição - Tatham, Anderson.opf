@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03ab2ac9-83a3-4d1c-b163-3c2a2a30108e</dc:identifier>
+        <dc:title>Análise Multivariada de Dados - 6ª Edição</dc:title>
+        <dc:creator opf:file-as="Tatham, Anderson" opf:role="aut">Tatham, Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-27T12:17:54+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:10:09.058228+00:00"/>
+        <meta name="calibre:title_sort" content="Análise Multivariada de Dados - 6ª Edição"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Análise Multivariada de Dados - 6ª Edição - Tatham, Anderson.jpg"/>
+    </guide>
+</package>

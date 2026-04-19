@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb40c027-8af2-4945-9bc6-46bcdbcfb1a4</dc:identifier>
+        <dc:title>Mulltivariate data analysis (7th, 2009)</dc:title>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, William C. &amp; Barin, Barry J. &amp; Anderson, Roliph e." opf:role="aut">Josepth F. Hair Jr</dc:creator>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, William C. &amp; Barin, Barry J. &amp; Anderson, Roliph e." opf:role="aut">William C. Black</dc:creator>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, William C. &amp; Barin, Barry J. &amp; Anderson, Roliph e." opf:role="aut">Barry J. Barin</dc:creator>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, William C. &amp; Barin, Barry J. &amp; Anderson, Roliph e." opf:role="aut">Roliph e. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:10:14.577933+00:00"/>
+        <meta name="calibre:title_sort" content="Mulltivariate data analysis (7th, 2009)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Mulltivariate data analysis (7th, 2009) - Josepth F. Hair Jr &amp; William C. Black &amp; Barry J. Barin &amp; Roliph e. Anderson.jpg"/>
+    </guide>
+</package>

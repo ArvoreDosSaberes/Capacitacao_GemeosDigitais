@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ace8c34d-e314-4a77-8e07-877349013852</dc:identifier>
+        <dc:title>Chapter 4 - Multidimensional quantitative data</dc:title>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Pierre Legendre</dc:creator>
+        <dc:creator opf:file-as="Legendre, Pierre &amp; Legendre, Louis" opf:role="aut">Louis Legendre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-19T09:34:13+00:00</dc:date>
+        <dc:description>Numerical Ecology, Third Edition, (2012) 143-194. doi:10.1016/B978-0-444-53868-0.50004-6</dc:description>
+        <dc:publisher>Elsevier B.V.</dc:publisher>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1016/B978-0-444-53868-0.50004-6</dc:identifier>
+        <dc:identifier opf:scheme="DOI">10.1016/B978-0-444-53868-0.50004-6</dc:identifier>
+        <dc:language>pt</dc:language>
+        <dc:subject>Numerical ecology</dc:subject>
+        <dc:subject>multidimensional quantitative data</dc:subject>
+        <dc:subject>multidimensional statistics</dc:subject>
+        <dc:subject>multidimensional variable</dc:subject>
+        <dc:subject>multivariate</dc:subject>
+        <dc:subject>dispersion matrix</dc:subject>
+        <dc:subject>covariance matrix</dc:subject>
+        <dc:subject>correlation matrix</dc:subject>
+        <dc:subject>multinormal distribution</dc:subject>
+        <dc:subject>principal axes</dc:subject>
+        <dc:subject>multiple correlation</dc:subject>
+        <dc:subject>partial correlation</dc:subject>
+        <dc:subject>tests of normality</dc:subject>
+        <dc:subject>test of multinormality</dc:subject>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:09:56.806718+00:00"/>
+        <meta name="calibre:title_sort" content="Chapter 4 - Multidimensional quantitative data"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Chapter 4 - Multidimensional quantitative data - Pierre Legendre &amp; Louis Legendre.jpg"/>
+    </guide>
+</package>

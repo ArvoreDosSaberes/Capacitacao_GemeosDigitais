@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f91a1b4-046b-4891-8e3a-4b0cb64a05ef</dc:identifier>
+        <dc:title>Multivariable Data Analysis</dc:title>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, Willam C. &amp; Babin, Barry J. &amp; Anderson, Rolph E." opf:role="aut">Josepth F. Hair Jr</dc:creator>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, Willam C. &amp; Babin, Barry J. &amp; Anderson, Rolph E." opf:role="aut">Willam C. Black</dc:creator>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, Willam C. &amp; Babin, Barry J. &amp; Anderson, Rolph E." opf:role="aut">Barry J. Babin</dc:creator>
+        <dc:creator opf:file-as="Hair, Josepth F. Jr &amp; Black, Willam C. &amp; Babin, Barry J. &amp; Anderson, Rolph E." opf:role="aut">Rolph E. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <dc:subject>Gemeo Digitais</dc:subject>
+        <dc:subject>Gemo Digital</dc:subject>
+        <meta name="calibre:timestamp" content="2026-04-18T22:10:25.624865+00:00"/>
+        <meta name="calibre:title_sort" content="Multivariable Data Analysis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Multivariable Data Analysis - Josepth F. Hair Jr &amp; Willam C. Black &amp; Barry J. Babin &amp; Rolph E. Anderson.jpg"/>
+    </guide>
+</package>
